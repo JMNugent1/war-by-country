@@ -179,7 +179,6 @@
 177,177,178,Ellis Burks,49.8,1987,2004,22-39,"Vicksburg, MS",USA,Hitter,32.3528055,-90.8777342
 178,178,179,Brett Butler,49.7,1981,1997,24-40,"Los Angeles, CA",USA,Hitter,34.0536909.6,-118.242766.6
 179,179,180,Dave Bancroft,49.7,1915,1930,24-39,"Sioux City, IA",USA,Hitter,42.4966815,-96.4058782
-180,180,181,Jimmy Sheckard,49.5,1897,1913,18-34,"Upper Chanceford, PA",USA,Hitter,Unnamed: 180,Unnamed: 180
 181,181,182,Nellie Fox,49.5,1947,1965,19-37,"St. Thomas, PA",USA,Hitter,49.4972,3.82019
 182,182,183,David Wright,49.2,2004,2018,21-35,"Norfolk, VA",USA,Hitter,36.8968052,-76.2602336
 183,183,184,Oscar Charleston,49.1,1920,1941,23-44,"Indianapolis, IN",USA,Hitter,39.7683331,-86.1583502
@@ -327,7 +326,6 @@
 325,395,196,Claude Raymond,-0.3,1959,1971,22-34,"St. Jean, QC",CAN,Hitter,46.0911764,-76.054138
 326,396,197,Jamie Romak,-0.3,2014,2015,28-29,"London, ON",CAN,Hitter,42.9832406.7,-81.243372.7
 327,399,200,Paul Quantrill,-0.3,1992,2005,23-36,"London, ON",CAN,Hitter,42.9832406.8,-81.243372.8
-328,400,1,Ichiro Suzuki,60.0,2001,2019,27-45,"Nichi Kasugai-gun, JPN",JPN,Hitter,Unnamed: 328,Unnamed: 328
 329,401,2,Hideki Matsui,21.2,2003,2012,29-38,"Nomi, JPN",JPN,Hitter,36.4392262,136.5424414
 330,402,3,Shohei Ohtani,13.6,2018,2022,23-27,"Oshu, JPN",JPN,Hitter,39.144275,141.1392382
 331,403,4,Nori Aoki,10.4,2012,2017,30-35,"Hyuga, JPN",JPN,Hitter,32.4225483,131.6244443
@@ -350,7 +348,6 @@
 348,423,24,Kazuhito Tadano,0.0,2004,2005,24-25,"Tokyo, JPN",JPN,Hitter,35.6828387.1,139.7594549.1
 349,424,25,Masao Kida,0.0,1999,2005,30-36,"Kokubunji, JPN",JPN,Hitter,35.709674,139.454224
 350,425,26,Koji Uehara,0.0,2009,2017,34-42,"Neyagawa, JPN",JPN,Hitter,34.76751,135.633907
-351,426,27,Keiichi Yabu,0.0,2005,2008,36-39,"Minami Muro-gun, JPN",JPN,Hitter,Unnamed: 351,Unnamed: 351
 352,427,28,Steve Chitren,0.0,1990,1991,23-24,"Tokyo, JPN",JPN,Hitter,35.6828387.2,139.7594549.2
 353,428,29,Kyuji Fujikawa,0.0,2013,2015,32-34,"Kochi, JPN",JPN,Hitter,33.6569018,133.5606241
 354,429,30,Shigetoshi Hasegawa,0.0,1997,2005,28-36,"Kobe, JPN",JPN,Hitter,34.6932379,135.1943764
@@ -369,7 +366,6 @@
 367,446,47,Hideki Okajima,0.0,2007,2013,31-37,"Kyoto, JPN",JPN,Hitter,35.021041,135.7556075
 368,448,49,Takashi Saito,0.0,2006,2012,36-42,"Sendai, JPN",JPN,Hitter,38.2677554.1,140.8691498.1
 369,450,51,Jeff McCurry,-0.1,1995,1999,25-29,"Tokyo, JPN",JPN,Hitter,35.6828387.3,139.7594549.3
-370,451,52,Masanori Murakami,-0.1,1964,1965,20-21,"Kita Tsuru-gun, JPN",JPN,Hitter,Unnamed: 370,Unnamed: 370
 371,452,53,Hisashi Iwakuma,-0.1,2012,2017,31-36,"Higashi Yamato, JPN",JPN,Hitter,35.740869,139.428831
 372,454,55,Tsuyoshi Wada,-0.2,2014,2015,33-34,"Izumo, JPN",JPN,Hitter,35.3668891,132.7548827
 373,455,56,Masahiro Tanaka,-0.2,2014,2020,25-31,"Itami, JPN",JPN,Hitter,34.786159,135.407994
@@ -386,38 +382,23 @@
 384,467,68,Hideo Nomo,-0.9,1995,2008,26-39,"Osaka, JPN",JPN,Hitter,34.6198813.1,135.490357.1
 385,468,69,Yoshi Tsutsugo,-2.0,2020,2022,28-30,"Hashimoto, JPN",JPN,Hitter,34.3258291,135.6190034
 386,469,70,Tsuyoshi Nishioka,-2.3,2011,2012,26-27,"Nara, JPN",JPN,Hitter,34.2963089.1,135.8816819.1
-387,473,1,Miguel Cabrera,67.7,2003,2022,20-39,"Maracay, VEN",VEN,Hitter,Unnamed: 387,Unnamed: 387
-388,474,2,Bobby Abreu,60.2,1996,2014,22-40,"Maracay, VEN",VEN,Hitter,Unnamed: 388,Unnamed: 388
 389,475,3,Luis Aparicio,55.9,1956,1973,22-39,"Maracaibo, VEN",VEN,Hitter,45.5238046,12.7029242
-390,476,4,Jose Altuve,46.5,2011,2022,21-32,"Puerto Cabello, VEN",VEN,Hitter,Unnamed: 390,Unnamed: 390
 391,477,5,Omar Vizquel,45.6,1989,2012,22-45,"Caracas, VEN",VEN,Hitter,10.49580205,-66.88148465866983
-392,478,6,Dave Concepción,40.1,1970,1988,22-40,"Ocumare de la Costa, VEN",VEN,Hitter,Unnamed: 392,Unnamed: 392
 393,479,7,Magglio Ordóñez,38.8,1997,2011,23-37,"Caracas, VEN",VEN,Hitter,10.49580205.1,-66.88148465866983.1
-394,480,8,Elvis Andrus,33.5,2009,2022,20-33,"Maracay, VEN",VEN,Hitter,Unnamed: 394,Unnamed: 394
 395,481,9,Salvador Perez,32.3,2011,2022,21-32,"Valencia, VEN",VEN,Hitter,38.3639982,-0.4319972
 396,482,10,Victor Martinez,32.0,2002,2018,23-39,"Ciudad Bolivar, VEN",VEN,Hitter,8.2815246,-62.7556103
 397,483,11,Andrés Galarraga,31.7,1985,2004,24-43,"Caracas, VEN",VEN,Hitter,10.49580205.2,-66.88148465866983.2
 398,484,12,Asdrúbal Cabrera,29.6,2007,2021,21-35,"Puerto La Cruz, VEN",VEN,Hitter,10.2200889,-64.6358614
-399,485,13,Edgardo Alfonzo,28.7,1995,2006,21-32,"Santa Teresa del Tuy, VEN",VEN,Hitter,Unnamed: 399,Unnamed: 399
-400,486,14,Melvin Mora,28.2,1999,2011,27-39,"Agua Negra, VEN",VEN,Hitter,Unnamed: 400,Unnamed: 400
 401,487,15,César Tovar,28.2,1965,1976,24-35,"Caracas, VEN",VEN,Hitter,10.49580205.3,-66.88148465866983.3
-402,488,16,Carlos Guillén,27.7,1998,2011,22-35,"Maracay, VEN",VEN,Hitter,Unnamed: 402,Unnamed: 402
-403,489,17,Martín Prado,27.7,2006,2019,22-35,"Maracay, VEN",VEN,Hitter,Unnamed: 403,Unnamed: 403
 404,490,18,Carlos González,24.4,2008,2019,22-33,"Maracaibo, VEN",VEN,Hitter,45.5238046.1,12.7029242.1
-405,491,19,Marco Scutaro,22.1,2002,2014,26-38,"San Felipe, VEN",VEN,Hitter,Unnamed: 405,Unnamed: 405
 406,492,20,Ramón Hernández,22.0,1999,2013,23-37,"Caracas, VEN",VEN,Hitter,10.49580205.4,-66.88148465866983.4
 407,493,21,Chico Carrasquel,21.3,1950,1959,24-33,"Caracas, VEN",VEN,Hitter,10.49580205.5,-66.88148465866983.5
-408,494,22,Ozzie Guillén,21.0,1985,2000,21-36,"Ocumare del Tuy, VEN",VEN,Hitter,Unnamed: 408,Unnamed: 408
-409,495,23,Willson Contreras,20.8,2016,2022,24-30,"Puerto Cabello, VEN",VEN,Hitter,Unnamed: 409,Unnamed: 409
 410,496,24,Richard Hidalgo,19.2,1997,2005,22-30,"Caracas, VEN",VEN,Hitter,10.49580205.6,-66.88148465866983.6
-411,497,25,Pablo Sandoval,19.0,2008,2021,21-34,"Puerto Cabello, VEN",VEN,Hitter,Unnamed: 411,Unnamed: 411
 412,498,26,Franklin Gutierrez,18.2,2005,2017,22-34,"Caracas, VEN",VEN,Hitter,10.49580205.7,-66.88148465866983.7
 413,499,27,Eugenio Suárez,18.0,2014,2022,22-30,"Puerto Ordaz, VEN",VEN,Hitter,8.2815246.1,-62.7556103.1
 414,500,28,Ender Inciarte,17.9,2014,2022,23-31,"Maracaibo, VEN",VEN,Hitter,45.5238046.2,12.7029242.2
 415,501,29,Ronald Acuña Jr.,17.6,2018,2022,20-24,"La Guaira, VEN",VEN,Hitter,10.603342,-67.0280938
 416,502,30,Omar Infante,16.9,2002,2016,20-34,"Puerto La Cruz, VEN",VEN,Hitter,10.2200889.1,-64.6358614.1
-417,503,31,Tony Armas,15.8,1976,1989,22-35,"Puerto Piritu, VEN",VEN,Hitter,Unnamed: 417,Unnamed: 417
-418,504,32,Vic Davalillo,15.7,1963,1980,23-40,"Cabimas, VEN",VEN,Hitter,Unnamed: 418,Unnamed: 418
 419,505,33,Wilson Ramos,15.2,2010,2021,22-33,"Valencia, VEN",VEN,Hitter,38.3639982.1,-0.4319972.1
 420,506,34,David Peralta,15.1,2014,2022,26-34,"Valencia, VEN",VEN,Hitter,38.3639982.2,-0.4319972.2
 421,507,35,Miguel Montero,14.3,2006,2018,22-34,"Caracas, VEN",VEN,Hitter,10.49580205.8,-66.88148465866983.8
@@ -426,205 +407,89 @@
 424,510,38,Odúbel Herrera,13.4,2015,2022,23-30,"San Jose, VEN",VEN,Hitter,45.6504043,12.2929334
 425,511,39,César Hernández,13.2,2013,2022,23-32,"Valencia, VEN",VEN,Hitter,38.3639982.4,-0.4319972.4
 426,512,40,Eduardo Escobar,13.0,2011,2022,22-33,"La Pica, VEN",VEN,Hitter,45.9205774,11.4847604
-427,513,41,Miguel Rojas,12.9,2014,2022,25-33,"Los Teques, VEN",VEN,Hitter,Unnamed: 427,Unnamed: 427
-428,514,42,Robinson Chirinos,12.7,2011,2022,27-38,"Punto Fijo, VEN",VEN,Hitter,Unnamed: 428,Unnamed: 428
 429,515,43,Bo Díaz,11.5,1977,1989,24-36,"Cua, VEN",VEN,Hitter,18.7893628,105.7149659
 430,516,44,Gleyber Torres,11.5,2018,2022,21-25,"Caracas, VEN",VEN,Hitter,10.49580205.9,-66.88148465866983.9
-431,517,45,Maicer Izturis,11.3,2004,2014,23-33,"Barquisimeto, VEN",VEN,Hitter,Unnamed: 431,Unnamed: 431
-432,518,46,Manny Trillo,11.2,1973,1989,22-38,"Caripito, VEN",VEN,Hitter,Unnamed: 432,Unnamed: 432
 433,519,47,Gerardo Parra,10.8,2009,2021,22-34,"Santa Barbara, VEN",VEN,Hitter,45.48674365,12.2139876735
-434,520,48,Luis Arraez,10.4,2019,2022,22-25,"San Felipe, VEN",VEN,Hitter,Unnamed: 434,Unnamed: 434
 435,521,49,Alcides Escobar,10.1,2008,2022,21-35,"La Sabana, VEN",VEN,Hitter,10.49580205.10,-66.88148465866983.10
 436,522,50,José López,10.0,2004,2012,20-28,"Barcelona, VEN",VEN,Hitter,10.1364149,-64.6901745
-437,523,51,Avisaíl García,9.8,2012,2022,21-31,"Anaco, VEN",VEN,Hitter,Unnamed: 437,Unnamed: 437
-438,524,52,Alberto Callaspo,9.6,2006,2015,23-32,"Maracay, VEN",VEN,Hitter,Unnamed: 438,Unnamed: 438
-439,525,53,Freddy Galvis,9.5,2012,2021,22-31,"Punto Fijo, VEN",VEN,Hitter,Unnamed: 439,Unnamed: 439
-440,526,54,Álex González,9.4,1998,2014,21-37,"Cagua, VEN",VEN,Hitter,Unnamed: 440,Unnamed: 440
-441,527,55,Andrés Giménez,9.2,2020,2022,21-23,"Barquisimeto, VEN",VEN,Hitter,Unnamed: 441,Unnamed: 441
 442,528,56,Juan Rivera,9.2,2001,2012,22-33,"Guarenas, VEN",VEN,Hitter,10.4721947,-66.6157456
 443,529,57,Luis Salazar,9.0,1980,1992,24-36,"Barcelona, VEN",VEN,Hitter,10.1364149.1,-64.6901745.1
-444,530,58,Luis Valbuena,8.5,2008,2018,22-32,"Caja Seca, VEN",VEN,Hitter,Unnamed: 444,Unnamed: 444
-445,531,59,Miguel Cairo,7.6,1996,2012,22-38,"Anaco, VEN",VEN,Hitter,Unnamed: 445,Unnamed: 445
 446,532,60,Grégor Blanco,7.4,2008,2018,24-34,"Caracas, VEN",VEN,Hitter,10.49580205.11,-66.88148465866983.11
 447,533,61,Dioner Navarro,7.1,2004,2016,20-32,"Caracas, VEN",VEN,Hitter,10.49580205.12,-66.88148465866983.12
 448,534,62,Wilmer Flores,7.0,2013,2022,21-30,"Valencia, VEN",VEN,Hitter,38.3639982.5,-0.4319972.5
-449,535,63,Omar Narváez,7.0,2016,2022,24-30,"Maracay, VEN",VEN,Hitter,Unnamed: 449,Unnamed: 449
 450,536,64,Yangervis Solarte,6.9,2014,2019,26-31,"Valencia, VEN",VEN,Hitter,38.3639982.6,-0.4319972.6
 451,537,65,Rougned Odor,6.4,2014,2022,20-28,"Maracaibo, VEN",VEN,Hitter,45.5238046.3,12.7029242.3
-452,538,66,Manny Piña,6.3,2011,2022,24-35,"Barquisimeto, VEN",VEN,Hitter,Unnamed: 452,Unnamed: 452
-453,539,67,Yolmer Sánchez,6.3,2014,2022,22-30,"Maracay, VEN",VEN,Hitter,Unnamed: 453,Unnamed: 453
-454,540,68,César Izturis,6.1,2001,2013,21-33,"Barquisimeto, VEN",VEN,Hitter,Unnamed: 454,Unnamed: 454
-455,541,69,Carlos Zambrano,5.6,2001,2012,20-31,"Puerto Cabello, VEN",VEN,Hitter,Unnamed: 455,Unnamed: 455
 456,542,70,Yorvit Torrealba,5.4,2001,2013,22-34,"Caracas, VEN",VEN,Hitter,10.49580205.13,-66.88148465866983.13
 457,543,71,Endy Chávez,5.0,2001,2014,23-36,"Valencia, VEN",VEN,Hitter,38.3639982.7,-0.4319972.7
 458,544,72,Anthony Santander,4.8,2017,2022,22-27,"Margarita, VEN",VEN,Hitter,46.3658764,11.7916082
 459,545,73,Luis Sojo,4.2,1990,2003,25-38,"Caracas, VEN",VEN,Hitter,10.49580205.14,-66.88148465866983.14
-460,546,74,Jesús Aguilar,4.1,2014,2022,24-32,"Maracay, VEN",VEN,Hitter,Unnamed: 460,Unnamed: 460
 461,547,75,Álvaro Espinoza,3.9,1984,1997,22-35,"Valencia, VEN",VEN,Hitter,38.3639982.8,-0.4319972.8
 462,548,76,Luis Guillorme,3.1,2018,2022,23-27,"Caracas, VEN",VEN,Hitter,10.49580205.15,-66.88148465866983.15
 463,549,77,Elias Díaz,3.0,2015,2022,24-31,"Maracaibo, VEN",VEN,Hitter,45.5238046.4,12.7029242.4
-464,550,78,Orlando Arcia,2.9,2016,2022,21-27,"Anaco, VEN",VEN,Hitter,Unnamed: 464,Unnamed: 464
-465,551,79,William Contreras,2.8,2020,2022,22-24,"Puerto Cabello, VEN",VEN,Hitter,Unnamed: 465,Unnamed: 465
-466,552,80,Luis Rengifo,2.8,2019,2022,22-25,"Naguanagua, VEN",VEN,Hitter,Unnamed: 466,Unnamed: 466
-467,553,81,Carlos Quintana,2.7,1988,1993,22-27,"Mamporal, VEN",VEN,Hitter,Unnamed: 467,Unnamed: 467
-468,554,82,Josh Barfield,2.6,2006,2009,23-26,"Barquisimeto, VEN",VEN,Hitter,Unnamed: 468,Unnamed: 468
 469,555,83,Fred Manrique,2.6,1981,1991,19-29,"Ciudad Bolivar, VEN",VEN,Hitter,8.2815246.3,-62.7556103.3
 470,556,84,Thairo Estrada,2.5,2019,2022,23-26,"Bejuma, VEN",VEN,Hitter,10.1684109,-68.2595399
 471,557,85,José Martínez,2.4,2016,2020,27-31,"La Guaira, VEN",VEN,Hitter,10.603342.1,-67.0280938.1
-472,558,86,Hernán Pérez,2.3,2012,2021,21-30,"Villa de Cura, VEN",VEN,Hitter,Unnamed: 472,Unnamed: 472
 473,559,87,Keibert Ruiz,2.3,2020,2022,21-23,"Valencia, VEN",VEN,Hitter,38.3639982.9,-0.4319972.9
 474,560,88,Renato Núñez,2.0,2016,2021,22-27,"Valencia, VEN",VEN,Hitter,38.3639982.10,-0.4319972.10
-475,561,89,José Tabata,1.9,2010,2015,21-26,"El Tigre, VEN",VEN,Hitter,Unnamed: 475,Unnamed: 475
-476,563,91,Eddie Pérez,1.8,1995,2005,27-37,"Ciudad Ojeda, VEN",VEN,Hitter,Unnamed: 476,Unnamed: 476
 477,564,92,Humberto Quintero,1.8,2003,2014,23-34,"Maracaibo, VEN",VEN,Hitter,45.5238046.5,12.7029242.5
 478,565,93,Jesús Guzmán,1.8,2009,2014,25-30,"Cumana, VEN",VEN,Hitter,45.6330719,11.6381815
 479,566,94,Roger Cedeño,1.7,1995,2005,20-30,"Valencia, VEN",VEN,Hitter,38.3639982.11,-0.4319972.11
-480,567,95,Germán Márquez,1.7,2016,2022,21-27,"San Felix, VEN",VEN,Hitter,Unnamed: 480,Unnamed: 480
-481,568,96,Andrés Blanco,1.6,2004,2017,20-33,"Urama, VEN",VEN,Hitter,Unnamed: 481,Unnamed: 481
 482,569,97,Ronald Torreyes,1.6,2015,2021,22-28,"Libertador, VEN",VEN,Hitter,10.49580205.16,-66.88148465866983.16
 483,570,98,Wiki González,1.5,1999,2006,25-32,"Aragua, VEN",VEN,Hitter,10.228217,-67.3232345
 484,571,99,Álex Escobar,1.5,2001,2006,22-27,"Valencia, VEN",VEN,Hitter,38.3639982.12,-0.4319972.12
 485,572,100,Elio Chacón,1.3,1960,1962,23-25,"Caracas, VEN",VEN,Hitter,10.49580205.17,-66.88148465866983.17
 486,573,101,Omar Daal,1.2,1993,2003,21-31,"Maracaibo, VEN",VEN,Hitter,45.5238046.6,12.7029242.6
 487,574,102,Sandy León,1.2,2012,2022,23-33,"Maracaibo, VEN",VEN,Hitter,45.5238046.7,12.7029242.7
-488,575,103,Ildemaro Vargas,1.2,2017,2022,25-30,"Caripito, VEN",VEN,Hitter,Unnamed: 488,Unnamed: 488
-489,576,104,Rafael Ortega,1.1,2012,2022,21-31,"El Tigre, VEN",VEN,Hitter,Unnamed: 489,Unnamed: 489
 490,577,105,Carlos Pérez,1.1,2015,2018,24-27,"Valencia, VEN",VEN,Hitter,38.3639982.13,-0.4319972.13
 491,578,106,Víctor Reyes,1.0,2018,2022,23-27,"Barcelona, VEN",VEN,Hitter,10.1364149.2,-64.6901745.2
-492,579,107,Carlos García,1.0,1990,1999,22-31,"Tachira, VEN",VEN,Hitter,Unnamed: 492,Unnamed: 492
 493,580,108,Ehire Adrianza,1.0,2013,2022,23-32,"Guarenas, VEN",VEN,Hitter,10.4721947.1,-66.6157456.1
-494,581,109,Jesús Flores,0.9,2007,2012,22-27,"Carupano, VEN",VEN,Hitter,Unnamed: 494,Unnamed: 494
-495,582,110,Yonny Hernández,0.9,2021,2022,23-24,"Maturin, VEN",VEN,Hitter,Unnamed: 495,Unnamed: 495
 496,583,111,Josmil Pinto,0.9,2013,2016,24-27,"Valencia, VEN",VEN,Hitter,38.3639982.14,-0.4319972.14
 497,584,112,Jhoulys Chacín,0.9,2009,2022,21-34,"Maracaibo, VEN",VEN,Hitter,45.5238046.8,12.7029242.8
 498,585,113,Al Pedrique,0.8,1987,1989,26-28,"Valencia, VEN",VEN,Hitter,38.3639982.15,-0.4319972.15
-499,586,114,José Peraza,0.8,2015,2021,21-27,"Barinas, VEN",VEN,Hitter,Unnamed: 499,Unnamed: 499
 500,588,116,Jonathan Herrera,0.7,2008,2015,23-30,"Maracaibo, VEN",VEN,Hitter,45.5238046.9,12.7029242.9
 501,589,117,Eddie Zambrano,0.7,1993,1994,27-28,"Maracaibo, VEN",VEN,Hitter,45.5238046.10,12.7029242.10
 502,590,118,Henderson Alvarez III,0.7,2011,2017,21-27,"Valencia, VEN",VEN,Hitter,38.3639982.16,-0.4319972.16
-503,591,119,Ezequiel Carrera,0.7,2011,2017,24-30,"Guiria, VEN",VEN,Hitter,Unnamed: 503,Unnamed: 503
-504,593,121,Luis Rodríguez,0.6,2005,2011,25-31,"San Carlos, VEN",VEN,Hitter,Unnamed: 504,Unnamed: 504
-505,594,122,Yonathan Daza,0.6,2019,2022,25-28,"Maracay, VEN",VEN,Hitter,Unnamed: 505,Unnamed: 505
 506,595,123,José Pirela,0.6,2014,2019,24-29,"Valera, VEN",VEN,Hitter,9.22640525,-70.65889167840999
-507,596,124,Johan Santana,0.6,2000,2012,21-33,"Tovar, VEN",VEN,Hitter,Unnamed: 507,Unnamed: 507
 508,598,126,José Briceño,0.6,2018,2020,25-27,"Caracas, VEN",VEN,Hitter,10.49580205.18,-66.88148465866983.18
 509,599,127,Ramón Cabrera,0.5,2015,2016,25-26,"Caracas, VEN",VEN,Hitter,10.49580205.19,-66.88148465866983.19
-510,600,128,Rafael Marchán,0.5,2020,2021,21-22,"San Cristobal, VEN",VEN,Hitter,Unnamed: 510,Unnamed: 510
-511,603,131,Héctor Giménez,0.4,2006,2013,23-30,"San Felipe, VEN",VEN,Hitter,Unnamed: 511,Unnamed: 511
-512,604,132,Enzo Hernández,0.4,1971,1978,22-29,"Valle de Guanape, VEN",VEN,Hitter,Unnamed: 512,Unnamed: 512
-513,605,133,Carlos Asuaje,0.3,2016,2018,24-26,"Barquisimeto, VEN",VEN,Hitter,Unnamed: 513,Unnamed: 513
 514,606,134,Enrique González,0.3,2006,2011,23-28,"Ciudad Bolivar, VEN",VEN,Hitter,8.2815246.4,-62.7556103.4
-515,607,135,Luis González,0.3,2004,2006,25-27,"Maracay, VEN",VEN,Hitter,Unnamed: 515,Unnamed: 515
-516,608,136,Robert Machado,0.3,1996,2004,23-31,"Puerto Cabello, VEN",VEN,Hitter,Unnamed: 516,Unnamed: 516
-517,609,137,Óscar Salazar,0.3,2002,2010,24-32,"Maracay, VEN",VEN,Hitter,Unnamed: 517,Unnamed: 517
 518,610,138,Adrián Sanchez,0.3,2017,2021,26-30,"Maracaibo, VEN",VEN,Hitter,45.5238046.11,12.7029242.11
-519,611,139,Ranger Suárez,0.3,2018,2022,22-26,"Piedecuesta, VEN",VEN,Hitter,Unnamed: 519,Unnamed: 519
-520,612,140,Max Ramírez,0.3,2008,2010,23-25,"Barquisimeto, VEN",VEN,Hitter,Unnamed: 520,Unnamed: 520
-521,615,143,Hernan Iribarren,0.2,2008,2016,24-32,"Barquisimeto, VEN",VEN,Hitter,Unnamed: 521,Unnamed: 521
-522,617,145,Felipe Lira,0.2,1995,2001,23-29,"Santa Teresa del Tuy, VEN",VEN,Hitter,Unnamed: 522,Unnamed: 522
 523,621,149,José Álvarez,0.1,2013,2022,24-33,"Barcelona, VEN",VEN,Hitter,10.1364149.3,-64.6901745.3
-524,622,150,Franklin Morales,0.1,2007,2016,21-30,"San Juan de los Morros, VEN",VEN,Hitter,Unnamed: 524,Unnamed: 524
-525,625,153,Fernando Nieve,0.1,2006,2010,23-27,"Puerto Cabello, VEN",VEN,Hitter,Unnamed: 525,Unnamed: 525
-526,628,156,Jean Machi,0.1,2012,2017,30-35,"El Tigre, VEN",VEN,Hitter,Unnamed: 526,Unnamed: 526
 527,629,157,Wilmer Font,0.1,2012,2020,22-30,"La Guaira, VEN",VEN,Hitter,10.603342.2,-67.0280938.2
-528,630,158,Juan Graterol,0.1,2016,2019,27-30,"Maracay, VEN",VEN,Hitter,Unnamed: 528,Unnamed: 528
 529,631,159,José Herrera,0.1,1967,1970,25-28,"San Lorenzo, VEN",VEN,Hitter,45.4278191,10.7258805
 530,632,160,Jorge Julio,0.1,2001,2009,22-30,"Caracas, VEN",VEN,Hitter,10.49580205.20,-66.88148465866983.20
-531,633,161,Albert Suárez,0.1,2016,2017,26-27,"San Felix, VEN",VEN,Hitter,Unnamed: 531,Unnamed: 531
-532,635,163,Carlos Carrasco,0.1,2009,2022,22-35,"Barquisimeto, VEN",VEN,Hitter,Unnamed: 532,Unnamed: 532
 533,636,164,Gustavo Chacin,0.1,2004,2010,23-29,"Maracaibo, VEN",VEN,Hitter,45.5238046.12,12.7029242.12
 534,637,165,Miguel García,0.1,1987,1989,20-22,"Caracas, VEN",VEN,Hitter,10.49580205.21,-66.88148465866983.21
 535,638,166,Luis Ugueto,0.1,2002,2003,23-24,"Caracas, VEN",VEN,Hitter,10.49580205.22,-66.88148465866983.22
 536,639,167,José Torres,0.1,2016,2017,22-23,"Caracas, VEN",VEN,Hitter,10.49580205.23,-66.88148465866983.23
-537,642,170,Carlos Hernández,0.0,1990,2000,23-33,"San Felix, VEN",VEN,Hitter,Unnamed: 537,Unnamed: 537
 538,643,171,Francisco Rodríguez,0.0,2002,2017,20-35,"Caracas, VEN",VEN,Hitter,10.49580205.24,-66.88148465866983.24
 539,644,172,Luis Avilán,0.0,2012,2021,22-31,"Caracas, VEN",VEN,Hitter,10.49580205.25,-66.88148465866983.25
-540,645,173,Horacio Estrada,0.0,1999,2001,23-25,"San Joaquin, VEN",VEN,Hitter,Unnamed: 540,Unnamed: 540
 541,647,175,Edubray Ramos,0.0,2016,2019,23-26,"Caracas, VEN",VEN,Hitter,10.49580205.26,-66.88148465866983.26
 542,649,177,J.C. Boscan,0.0,2010,2013,30-33,"Maracaibo, VEN",VEN,Hitter,45.5238046.13,12.7029242.13
 543,650,178,Juan Rincón,0.0,2001,2010,22-31,"Maracaibo, VEN",VEN,Hitter,45.5238046.14,12.7029242.14
 544,651,179,Roberto Rodríguez,0.0,1967,1970,26-29,"Caracas, VEN",VEN,Hitter,10.49580205.27,-66.88148465866983.27
 545,652,180,Héctor Rondón,0.0,2013,2020,25-32,"Guatire, VEN",VEN,Hitter,10.4720981,-66.6157041
-546,653,181,Héctor Sánchez,0.0,2011,2017,21-27,"Maracay, VEN",VEN,Hitter,Unnamed: 546,Unnamed: 546
 547,654,182,Marcos Carvajal,0.0,2005,2007,20-22,"Ciudad Bolivar, VEN",VEN,Hitter,8.2815246.5,-62.7556103.5
 548,655,183,José Castillo,0.0,2018,2022,22-26,"Valencia, VEN",VEN,Hitter,38.3639982.17,-0.4319972.17
 549,658,186,Leonel Campos,0.0,2014,2017,26-29,"Valera, VEN",VEN,Hitter,9.22640525.1,-70.65889167840999.1
-550,660,188,Kervin Castro,0.0,2021,2022,22-23,"Maracay, VEN",VEN,Hitter,Unnamed: 550,Unnamed: 550
 551,663,191,Raúl Chávez,0.0,1996,2009,23-36,"Valencia, VEN",VEN,Hitter,38.3639982.18,-0.4319972.18
 552,664,192,William Cuevas,0.0,2016,2018,25-27,"Caracas, VEN",VEN,Hitter,10.49580205.28,-66.88148465866983.28
 553,666,194,Jairo Díaz,0.0,2014,2020,23-29,"Puerto La Cruz, VEN",VEN,Hitter,10.2200889.2,-64.6358614.2
-554,667,195,Sergio Escalona,0.0,2009,2011,24-26,"El Tocuyo, VEN",VEN,Hitter,Unnamed: 554,Unnamed: 554
-555,672,200,Rosman García,0.0,2003,2004,24-25,"Maracay, VEN",VEN,Hitter,Unnamed: 555,Unnamed: 555
-556,673,1,Tayler Scott,0.0,2019,2022,27-30,"Johannesburg, ZAF",ZAF,Hitter,Unnamed: 556,Unnamed: 556
-557,674,2,Gift Ngoepe,0.0,2017,2018,27-28,"Pietersburg, ZAF",ZAF,Hitter,Unnamed: 557,Unnamed: 557
-558,677,2,Jake Gettman,0.2,1897,1899,21-23,"Medveditsa, RUS",RUS,Hitter,Unnamed: 558,Unnamed: 558
 559,681,6,Rube Schauer,-0.5,1913,1917,22-26,"Kamenka, RUS",RUS,Hitter,49.0379423,32.1009043
-560,683,1,Tony Solaita,8.0,1968,1979,21-32,"Nuuuli, ASM",ASM,Hitter,Unnamed: 560,Unnamed: 560
 561,684,1,Bobby Chouinard,0.0,1996,2001,24-29,"Manila, PHL",PHL,Hitter,14.5764843,120.9827242
-562,685,2,Claudio Manela,-0.3,1921,1925,27-31,"Cavite City, PHL",PHL,Hitter,Unnamed: 562,Unnamed: 562
-563,686,1,Glenn Hubbard,19.2,1978,1989,20-31,"Hahn, DEU",DEU,Hitter,Unnamed: 563,Unnamed: 563
-564,687,2,Max Kepler,16.9,2015,2022,22-29,"Berlin, DEU",DEU,Hitter,Unnamed: 564,Unnamed: 564
-565,688,3,Bill Kuehne,7.1,1883,1892,24-33,"Leipzig, DEU",DEU,Hitter,Unnamed: 565,Unnamed: 565
-566,689,4,Mike Blowers,4.3,1989,1999,24-34,"Wurzburg, DEU",DEU,Hitter,Unnamed: 566,Unnamed: 566
-567,691,6,Aaron Altherr,1.6,2014,2019,23-28,"Landstuhl, DEU",DEU,Hitter,Unnamed: 567,Unnamed: 567
-568,692,7,Jeff Baker,1.1,2005,2015,24-34,"Bad Kissingen, DEU",DEU,Hitter,Unnamed: 568,Unnamed: 568
-569,693,8,Heinz Becker,1.0,1943,1947,27-31,"Berlin, DEU",DEU,Hitter,Unnamed: 569,Unnamed: 569
-570,694,9,Ben Koehler,1.0,1905,1906,28-29,"Schoerndorn, DEU",DEU,Hitter,Unnamed: 570,Unnamed: 570
-571,695,10,Ron Gardenhire,0.8,1981,1985,23-27,"Butzbach, DEU",DEU,Hitter,Unnamed: 571,Unnamed: 571
-572,696,11,Edwin Jackson,0.7,2003,2019,19-35,"Neu-Ulm, DEU",DEU,Hitter,Unnamed: 572,Unnamed: 572
-573,697,12,Bruce Maxwell,0.5,2016,2018,25-27,"Wiesbaden, DEU",DEU,Hitter,Unnamed: 573,Unnamed: 573
 574,698,13,Marty Krug,0.5,1912,1922,23-33,"Koblenz, DEU",DEU,Hitter,50.4303105,7.3744955
-575,699,14,Otto Deininger,0.4,1902,1909,24-31,"Aalen, DEU",DEU,Hitter,Unnamed: 575,Unnamed: 575
 576,700,15,Will Ohman,0.2,2000,2012,22-34,"Frankfurt, DEU",DEU,Hitter,-54.8080887,-68.31381247286738
 577,702,17,Dave Pavlas,0.0,1990,1996,27-33,"Frankfurt, DEU",DEU,Hitter,-54.8080887.1,-68.31381247286738.1
-578,703,18,Mickey Scott,0.0,1972,1977,24-29,"Weimar, DEU",DEU,Hitter,Unnamed: 578,Unnamed: 578
-579,705,20,Tobi Stoner,0.0,2009,2010,24-25,"Landstuhl, DEU",DEU,Hitter,Unnamed: 579,Unnamed: 579
-580,713,28,Ed Eiteljorge,-0.1,1890,1891,18-19,"Berlin, DEU",DEU,Hitter,Unnamed: 580,Unnamed: 580
-581,718,33,Craig Lefferts,-0.5,1983,1994,25-36,"Munich, DEU",DEU,Hitter,Unnamed: 581,Unnamed: 581
-582,722,37,Fritz Buelow,-1.1,1899,1907,23-31,"Berlin, DEU",DEU,Hitter,Unnamed: 582,Unnamed: 582
-583,723,38,Gus Shallix,-1.5,1884,1885,26-27,"Paderborn, DEU",DEU,Hitter,Unnamed: 583,Unnamed: 583
-584,724,39,Rob Belloir,-1.9,1975,1978,26-29,"Heidelberg, DEU",DEU,Hitter,Unnamed: 584,Unnamed: 584
-585,725,40,Fritz Mollwitz,-2.9,1913,1919,23-29,"Koburg, DEU",DEU,Hitter,Unnamed: 585,Unnamed: 585
-586,731,1,Xander Bogaerts,34.9,2013,2022,20-29,"Oranjestad, ABW",ABW,Hitter,Unnamed: 586,Unnamed: 586
 587,732,2,Sidney Ponson,-0.1,1998,2009,21-32,"Noord, ABW",ABW,Hitter,34.2884334,35.9008474
-588,733,3,Chadwick Tromp,-0.1,2020,2022,25-27,"Oranjestad, ABW",ABW,Hitter,Unnamed: 588,Unnamed: 588
 589,734,4,Calvin Maduro,-0.3,1996,2002,21-27,"Santa Cruz, ABW",ABW,Hitter,30.412461800000003,-9.553095566691395
-590,735,5,Gene Kingsale,-0.8,1996,2003,19-26,"Solito, ABW",ABW,Hitter,Unnamed: 590,Unnamed: 590
 591,737,1,Craig Stansberry,0.0,2007,2009,25-27,"Dammam, SAU",SAU,Hitter,24.9602489,46.930187
-592,738,2,Alex Wilson,0.0,2013,2019,26-32,"Dhahran, SAU",SAU,Hitter,Unnamed: 592,Unnamed: 592
-593,739,1,John Anderson,28.8,1894,1908,20-34,"Sarpsborg, NOR",NOR,Hitter,Unnamed: 593,Unnamed: 593
 594,740,2,Jimmy Wiggs,-0.1,1903,1906,26-29,"Trondhjem, NOR",NOR,Hitter,63.4296702,10.3986138
-595,741,3,Arndt Jorgens,-0.6,1929,1939,24-34,"Modum, NOR",NOR,Hitter,Unnamed: 595,Unnamed: 595
-596,742,1,Didi Gregorius,17.8,2012,2022,22-32,"Amsterdam, NLD",NLD,Hitter,Unnamed: 596,Unnamed: 596
-597,744,3,Rynie Wolters,1.0,1871,1873,27-29,"Nieuweschans, NLD",NLD,Hitter,Unnamed: 597,Unnamed: 597
-598,746,5,Robert Eenhoorn,0.2,1994,1997,26-29,"Rotterdam, NLD",NLD,Hitter,Unnamed: 598,Unnamed: 598
-599,748,7,Rick van den Hurk,-0.5,2007,2012,22-27,"Eindhoven, NLD",NLD,Hitter,Unnamed: 599,Unnamed: 599
-600,749,8,Greg Halman,-0.5,2010,2011,22-23,"Haarlem, NLD",NLD,Hitter,Unnamed: 600,Unnamed: 600
-601,750,9,Rikkert Faneyte,-1.1,1993,1996,24-27,"Amsterdam, NLD",NLD,Hitter,Unnamed: 601,Unnamed: 601
-602,751,10,Bert Blyleven,-1.6,1970,1992,19-41,"Zeist, NLD",NLD,Hitter,Unnamed: 602,Unnamed: 602
-603,754,2,Al Pardo,-1.8,1985,1989,22-26,"Oviedo, ESP",ESP,Hitter,Unnamed: 603,Unnamed: 603
-604,757,1,Brian Lesher,-1.1,1996,2002,25-31,"Wilrijk, BEL",BEL,Hitter,Unnamed: 604,Unnamed: 604
 605,758,1,Gerald Young,6.0,1987,1994,22-29,"Tela, HND",HND,Hitter,30.8576397,78.6777305
-606,759,2,Mauricio Dubón,2.0,2019,2022,24-27,"San Pedro Sula, HND",HND,Hitter,Unnamed: 606,Unnamed: 606
-607,760,1,Shin-Soo Choo,34.6,2005,2020,22-37,"Busan, KOR",KOR,Hitter,Unnamed: 607,Unnamed: 607
-608,761,2,Ha-Seong Kim,7.1,2021,2022,25-26,"Bucheon, KOR",KOR,Hitter,Unnamed: 608,Unnamed: 608
-609,762,3,Jung Ho Kang,5.9,2015,2019,28-32,"Gwangju, KOR",KOR,Hitter,Unnamed: 609,Unnamed: 609
-610,763,4,Ji-Man Choi,5.2,2016,2022,25-31,"Incheon, KOR",KOR,Hitter,Unnamed: 610,Unnamed: 610
-611,764,5,Hee-Seop Choi,2.6,2002,2005,23-26,"Hwasun, KOR",KOR,Hitter,Unnamed: 611,Unnamed: 611
-612,765,6,Chan Ho Park,1.9,1994,2010,21-37,"Gongju, KOR",KOR,Hitter,Unnamed: 612,Unnamed: 612
-613,766,7,Hyun Jin Ryu,1.2,2013,2022,26-35,"Incheon, KOR",KOR,Hitter,Unnamed: 613,Unnamed: 613
 614,768,9,Rob Refsnyder,0.4,2015,2022,24-31,"Seoul, KOR",KOR,Hitter,11.5659958,104.9008631
-615,769,10,Sun-Woo Kim,0.4,2001,2006,23-28,"Incheon, KOR",KOR,Hitter,Unnamed: 615,Unnamed: 615
-616,770,11,Cha-Seung Baek,0.3,2004,2008,24-28,"Busan, KOR",KOR,Hitter,Unnamed: 616,Unnamed: 616
 617,771,12,Kwang Hyun Kim,0.2,2020,2021,31-32,"Seoul, KOR",KOR,Hitter,11.5659958.1,104.9008631.1
-618,776,17,Jin Ho Cho,0.0,1998,1999,22-23,"Jeonju, KOR",KOR,Hitter,Unnamed: 618,Unnamed: 618
-619,777,18,Jae Kuk Ryu,0.0,2006,2008,23-25,"Choon Chung Do, KOR",KOR,Hitter,Unnamed: 619,Unnamed: 619
-620,778,19,Seunghwan Oh,0.0,2016,2019,33-36,"Jeongeup, KOR",KOR,Hitter,Unnamed: 620,Unnamed: 620
 621,779,20,Tommy Phelps,-0.1,2003,2005,29-31,"Seoul, KOR",KOR,Hitter,11.5659958.2,104.9008631.2
 622,780,21,Jung Bong,-0.2,2002,2004,21-23,"Seoul, KOR",KOR,Hitter,11.5659958.3,104.9008631.3
-623,781,22,Jae Weong Seo,-0.2,2002,2007,25-30,"Gwangju, KOR",KOR,Hitter,Unnamed: 623,Unnamed: 623
 624,783,24,Hyun Soo Kim,-0.3,2016,2017,28-29,"Seoul, KOR",KOR,Hitter,11.5659958.4,104.9008631.4
-625,785,26,Byung-Hyun Kim,-0.5,1999,2007,20-28,"Gwangju, KOR",KOR,Hitter,Unnamed: 625,Unnamed: 625
 626,786,27,Hoy Park,-0.5,2021,2022,25-26,"Seoul, KOR",KOR,Hitter,11.5659958.5,104.9008631.5
 627,788,1,Marvin Benard,8.6,1995,2003,24-32,"Bluefields, NIC",NIC,Hitter,11.9908746,-83.8812402
 628,789,2,Everth Cabrera,5.3,2009,2015,22-28,"Nandaime, NIC",NIC,Hitter,11.6714384,-85.9789197
@@ -637,72 +502,11 @@
 635,796,9,Wilton López,-0.1,2009,2014,25-30,"Leon, NIC",NIC,Hitter,12.4266362,-86.9163858
 636,797,10,Dennis Martínez,-0.6,1976,1998,22-44,"Granada, NIC",NIC,Hitter,12.1490973,-85.8389107
 637,798,11,Vicente Padilla,-0.6,1999,2012,21-34,"Chinandega, NIC",NIC,Hitter,12.6257644.1,-87.13235.1
-638,799,12,Cheslor Cuthbert,-1.3,2015,2020,22-27,"Corn Island, NIC",NIC,Hitter,Unnamed: 638,Unnamed: 638
-639,803,1,Yu Chang,0.4,2019,2022,23-26,"Taitung, TWN",TWN,Hitter,Unnamed: 639,Unnamed: 639
-640,804,2,Hung-Chih Kuo,0.3,2005,2011,23-29,"Tainan City, TWN",TWN,Hitter,Unnamed: 640,Unnamed: 640
-641,805,3,Chin-hui Tsao,0.3,2003,2016,22-35,"Hualien, TWN",TWN,Hitter,Unnamed: 641,Unnamed: 641
-642,806,4,C.C. Lee,0.0,2013,2015,26-28,"Peng-Hu County, TWN",TWN,Hitter,Unnamed: 642,Unnamed: 642
-643,807,5,Fu-Te Ni,0.0,2009,2010,26-27,"Pingtung County, TWN",TWN,Hitter,Unnamed: 643,Unnamed: 643
-644,808,6,Wei-Chung Wang,0.0,2014,2019,22-27,"Taitung City, TWN",TWN,Hitter,Unnamed: 644,Unnamed: 644
-645,809,7,Jen-Ho Tseng,0.0,2017,2018,22-23,"Taipei, TWN",TWN,Hitter,Unnamed: 645,Unnamed: 645
-646,810,8,Chin-Feng Chen,0.0,2002,2005,24-27,"Tainan City, TWN",TWN,Hitter,Unnamed: 646,Unnamed: 646
-647,812,10,Chien-Ming Wang,-0.3,2005,2016,25-36,"Tainan City, TWN",TWN,Hitter,Unnamed: 647,Unnamed: 647
-648,813,11,Tzu-Wei Lin,-0.3,2017,2021,23-27,"Kaohsiung County, TWN",TWN,Hitter,Unnamed: 648,Unnamed: 648
-649,814,12,Chin-lung Hu,-0.3,2007,2011,23-27,"Tainan City, TWN",TWN,Hitter,Unnamed: 649,Unnamed: 649
-650,815,13,Wei-Yin Chen,-0.7,2012,2019,26-33,"Kaohsiung City, TWN",TWN,Hitter,Unnamed: 650,Unnamed: 650
 651,819,1,Otto Hess,-0.1,1902,1915,23-36,"Berne, CHE",CHE,Hitter,47.1450435,7.243294
-652,821,2,Kurt Krieger,0.0,1949,1951,22-24,"Traisen, AUT",AUT,Hitter,Unnamed: 652,Unnamed: 652
-653,823,1,Andruw Jones,62.7,1996,2012,19-35,"Willemstad, CUW",CUW,Hitter,Unnamed: 653,Unnamed: 653
-654,824,2,Andrelton Simmons,37.3,2012,2022,22-32,"Mundo Nobo, CUW",CUW,Hitter,Unnamed: 654,Unnamed: 654
-655,825,3,Jonathan Schoop,20.1,2013,2022,21-30,"Willemstad, CUW",CUW,Hitter,Unnamed: 655,Unnamed: 655
-656,826,4,Ozzie Albies,15.3,2017,2022,20-25,"Willemstad, CUW",CUW,Hitter,Unnamed: 656,Unnamed: 656
-657,827,5,Jurickson Profar,6.3,2012,2022,19-29,"Willemstad, CUW",CUW,Hitter,Unnamed: 657,Unnamed: 657
-658,828,6,Roger Bernadina,1.4,2008,2014,24-30,"Willemstad, CUW",CUW,Hitter,Unnamed: 658,Unnamed: 658
-659,829,7,Wladimir Balentien,0.5,2007,2009,22-24,"Willemstad, CUW",CUW,Hitter,Unnamed: 659,Unnamed: 659
-660,830,8,Randall Simon,0.3,1997,2006,22-31,"Willemstad, CUW",CUW,Hitter,Unnamed: 660,Unnamed: 660
-661,831,9,Shairon Martis,0.2,2008,2013,21-26,"Willemstad, CUW",CUW,Hitter,Unnamed: 661,Unnamed: 661
-662,832,10,Kenley Jansen,0.2,2010,2022,22-34,"Willemstad, CUW",CUW,Hitter,Unnamed: 662,Unnamed: 662
-663,833,11,Ralph Milliard,0.0,1996,1998,22-24,"Willemstad, CUW",CUW,Hitter,Unnamed: 663,Unnamed: 663
-664,836,14,Jair Jurrjens,-0.3,2007,2014,21-28,"Santa Maria, CUW",CUW,Hitter,Unnamed: 664,Unnamed: 664
-665,838,16,Hensley Meulens,-1.7,1989,1998,22-31,"Willemstad, CUW",CUW,Hitter,Unnamed: 665,Unnamed: 665
-666,842,4,Moe Drabowsky,-0.2,1956,1972,20-36,"Ozanna, POL",POL,Hitter,Unnamed: 666,Unnamed: 666
-667,844,6,Jack Katoll,-0.8,1898,1902,23-27,"Kamieniec, POL",POL,Hitter,Unnamed: 667,Unnamed: 667
-668,846,2,Sean Reid-Foley,0.0,2018,2022,22-26,"Agana Heights, GUM",GUM,Hitter,Unnamed: 668,Unnamed: 668
-669,847,1,Bobby Thomson,33.8,1946,1960,22-36,"Glasgow, GBR",GBR,Hitter,Unnamed: 669,Unnamed: 669
-670,848,2,Jimmy Austin,22.8,1909,1929,29-49,"Swansea, GBR",GBR,Hitter,Unnamed: 670,Unnamed: 670
-671,849,3,Tom Brown,16.5,1882,1898,21-37,"Liverpool, GBR",GBR,Hitter,Unnamed: 671,Unnamed: 671
-672,850,4,Hobe Ferris,16.5,1901,1909,26-34,"Trowbridge, GBR",GBR,Hitter,Unnamed: 672,Unnamed: 672
-673,851,5,Dave Brain,11.6,1901,1908,22-29,"Hereford, GBR",GBR,Hitter,Unnamed: 673,Unnamed: 673
-674,852,6,George Hall,10.5,1871,1877,22-28,"Stepney, GBR",GBR,Hitter,Unnamed: 674,Unnamed: 674
-675,853,7,Dick Higham,7.0,1871,1880,19-28,"Ipswich, GBR",GBR,Hitter,Unnamed: 675,Unnamed: 675
-676,854,8,Hugh Nicol,4.1,1881,1890,23-32,"Campsie, GBR",GBR,Hitter,Unnamed: 676,Unnamed: 676
-677,856,10,Charlie Hanford,2.7,1914,1915,32-33,"Tunstall, GBR",GBR,Hitter,Unnamed: 677,Unnamed: 677
-678,857,11,Al Reach,0.7,1871,1875,31-35,"London, GBR",GBR,Hitter,Unnamed: 678,Unnamed: 678
-679,859,13,Harry Wright,0.6,1871,1877,36-42,"Sheffield, GBR",GBR,Hitter,Unnamed: 679,Unnamed: 679
-680,860,14,Al Shaw,0.6,1901,1909,28-36,"Burslem, GBR",GBR,Hitter,Unnamed: 680,Unnamed: 680
-681,861,15,Keith Lampard,0.3,1969,1970,23-24,"Warrington, GBR",GBR,Hitter,Unnamed: 681,Unnamed: 681
-682,862,16,Jim McCormick,0.2,1878,1887,21-30,"Glasgow, GBR",GBR,Hitter,Unnamed: 682,Unnamed: 682
-683,863,17,Jack Burns,0.1,1903,1904,25-26,"Salford, GBR",GBR,Hitter,Unnamed: 683,Unnamed: 683
-684,867,21,Lance Painter,0.0,1993,2003,25-35,"Bedford, GBR",GBR,Hitter,Unnamed: 684,Unnamed: 684
-685,869,23,Ed Walker,0.0,1902,1903,27-28,"Cambois, GBR",GBR,Hitter,Unnamed: 685,Unnamed: 685
-686,871,25,Phil Stockman,0.0,2006,2008,26-28,"Oldham, GBR",GBR,Hitter,Unnamed: 686,Unnamed: 686
-687,872,26,Tom Waddell,0.0,1984,1987,25-28,"Dundee, GBR",GBR,Hitter,Unnamed: 687,Unnamed: 687
-688,873,27,Irish McIlveen,0.0,1906,1909,25-28,"Belfast, GBR",GBR,Hitter,Unnamed: 688,Unnamed: 688
-689,875,29,Les Rohr,0.0,1967,1969,21-23,"Lowestoft, GBR",GBR,Hitter,Unnamed: 689,Unnamed: 689
-690,877,31,Jim Wright,-0.1,1927,1928,26-27,"Hyde, GBR",GBR,Hitter,Unnamed: 690,Unnamed: 690
-691,884,38,Sam Jackson,-0.2,1871,1872,22-23,"Ripon, GBR",GBR,Hitter,Unnamed: 691,Unnamed: 691
-692,885,39,Ned Crompton,-0.3,1909,1910,20-21,"Liverpool, GBR",GBR,Hitter,Unnamed: 692,Unnamed: 692
-693,887,41,Ted Lewis,-0.4,1896,1901,23-28,"Machynlleth, GBR",GBR,Hitter,Unnamed: 693,Unnamed: 693
-694,888,42,Tim Manning,-0.5,1882,1885,28-31,"Henley-on-Thames, GBR",GBR,Hitter,Unnamed: 694,Unnamed: 694
-695,889,43,Al Nichols,-0.8,1875,1877,23-25,"Worcester, GBR",GBR,Hitter,Unnamed: 695,Unnamed: 695
-696,891,45,Marty Hogan,-0.9,1894,1895,24-25,"Wednesbury, GBR",GBR,Hitter,Unnamed: 696,Unnamed: 696
-697,893,47,George Chalmers,-1.1,1910,1916,22-28,"Aberdeen, GBR",GBR,Hitter,Unnamed: 697,Unnamed: 697
-698,894,48,Danny Cox,-1.3,1983,1995,23-35,"Northampton, GBR",GBR,Hitter,Unnamed: 698,Unnamed: 698
 699,896,1,Edgar Rentería,32.4,1996,2011,19-34,"Barranquilla, COL",COL,Hitter,-34.4342891,-57.2708981
 700,897,2,Orlando Cabrera,21.3,1997,2011,22-36,"Cartagena, COL",COL,Hitter,-33.8167099,-70.7395287
 701,898,3,Gio Urshela,8.3,2015,2022,23-30,"Cartagena, COL",COL,Hitter,-33.8167099.1,-70.7395287.1
 702,899,4,Donovan Solano,4.9,2012,2022,24-34,"Barranquilla, COL",COL,Hitter,-34.4342891.1,-57.2708981.1
-703,900,5,Jorge Alfaro,3.1,2016,2022,23-29,"Sincelejo, COL",COL,Hitter,Unnamed: 703,Unnamed: 703
 704,901,6,Óscar Mercado,2.7,2019,2022,24-27,"Cartagena, COL",COL,Hitter,-33.8167099.2,-70.7395287.2
 705,902,7,Harold Ramírez,1.3,2019,2022,24-27,"Cartagena, COL",COL,Hitter,-33.8167099.3,-70.7395287.3
 706,903,8,Julio Teheran,0.7,2011,2021,20-30,"Cartagena, COL",COL,Hitter,-33.8167099.4,-70.7395287.4
@@ -722,214 +526,37 @@
 720,924,29,Jackie Gutiérrez,-5.6,1983,1988,23-28,"Cartagena, COL",COL,Hitter,-33.8167099.13,-70.7395287.13
 721,926,1,Devon White,47.3,1985,2001,22-38,"Kingston, JAM",JAM,Hitter,17.97521495,-76.8175652619486
 722,927,2,Chili Davis,38.2,1981,1999,21-39,"Kingston, JAM",JAM,Hitter,17.97521495.1,-76.8175652619486.1
-723,928,3,Oscar Levis,1.3,1923,1929,24-30,"Oracabessa, JAM",JAM,Hitter,Unnamed: 723,Unnamed: 723
 724,929,4,Rolando Roomes,0.2,1988,1990,26-28,"Kingston, JAM",JAM,Hitter,17.97521495.2,-76.8175652619486.2
 725,930,5,Justin Masterson,0.1,2008,2015,23-30,"Kingston, JAM",JAM,Hitter,17.97521495.3,-76.8175652619486.3
-726,931,1,Danny Graves,-0.4,1996,2006,22-32,"Saigon, VNM",VNM,Hitter,Unnamed: 726,Unnamed: 726
-727,932,1,André Rodgers,6.2,1957,1967,22-32,"Nassau, BHS",BHS,Hitter,Unnamed: 727,Unnamed: 727
-728,933,2,Jazz Chisholm Jr.,4.9,2020,2022,22-24,"Nassau, BHS",BHS,Hitter,Unnamed: 728,Unnamed: 728
-729,934,3,Antoan Richardson,0.1,2011,2014,27-30,"Nassau, BHS",BHS,Hitter,Unnamed: 729,Unnamed: 729
-730,935,4,Ormond Sampson,0.1,1932,1941,22-31,"San Salvador Island, BHS",BHS,Hitter,Unnamed: 730,Unnamed: 730
-731,937,6,Ed Armbrister,-0.1,1973,1977,24-28,"Nassau, BHS",BHS,Hitter,Unnamed: 731,Unnamed: 731
-732,940,9,Tony Curry,-1.6,1960,1966,22-28,"Nassau, BHS",BHS,Hitter,Unnamed: 732,Unnamed: 732
-733,941,1,Elmer Valo,28.8,1940,1961,19-40,"Rybnik, SVK",SVK,Hitter,Unnamed: 733,Unnamed: 733
-734,942,2,Jack Quinn,-1.1,1909,1933,25-49,"Stefurov, SVK",SVK,Hitter,Unnamed: 734,Unnamed: 734
-735,943,1,Dave Nilsson,10.6,1992,1999,22-29,"Brisbane, AUS",AUS,Hitter,Unnamed: 735,Unnamed: 735
-736,944,2,Joe Quinn,4.7,1884,1901,21-38,"Ipswich, AUS",AUS,Hitter,Unnamed: 736,Unnamed: 736
-737,945,3,Luke Hughes,0.5,2010,2012,25-27,"Perth, AUS",AUS,Hitter,Unnamed: 737,Unnamed: 737
-738,946,4,Damian Moss,0.3,2001,2004,24-27,"Darlinghurst, AUS",AUS,Hitter,Unnamed: 738,Unnamed: 738
-739,947,5,Mark Hutton,0.3,1993,1998,23-28,"South Adelaide, AUS",AUS,Hitter,Unnamed: 739,Unnamed: 739
-740,948,6,Liam Hendriks,0.1,2011,2022,22-33,"Perth, AUS",AUS,Hitter,Unnamed: 740,Unnamed: 740
-741,949,7,Jeff Williams,0.1,1999,2002,27-30,"Canberra, AUS",AUS,Hitter,Unnamed: 741,Unnamed: 741
-742,950,8,Luke Prokopec,0.1,2000,2002,22-24,"Blackwood, AUS",AUS,Hitter,Unnamed: 742,Unnamed: 742
-743,952,10,Shayne Bennett,0.1,1997,1999,25-27,"Adelaide, AUS",AUS,Hitter,Unnamed: 743,Unnamed: 743
 744,953,11,Travis Blackley,0.0,2004,2013,21-30,"Melbourne, AUS",AUS,Hitter,-37.7360462,145.0486278
-745,954,12,Josh Spence,0.0,2011,2012,23-24,"Grovedale, AUS",AUS,Hitter,Unnamed: 745,Unnamed: 745
 746,955,13,Brad Thomas,0.0,2001,2011,23-33,"Sydney, AUS",AUS,Hitter,-33.9247891,151.2277413
-747,956,14,Rich Thompson,0.0,2007,2012,22-27,"Hornsby, AUS",AUS,Hitter,Unnamed: 747,Unnamed: 747
-748,957,15,Warwick Saupold,0.0,2016,2018,26-28,"Perth, AUS",AUS,Hitter,Unnamed: 748,Unnamed: 748
 749,958,16,Grant Balfour,0.0,2001,2015,23-37,"Sydney, AUS",AUS,Hitter,-33.9247891.1,151.2277413.1
-750,962,20,Graeme Lloyd,0.0,1993,2003,26-36,"Geelong, AUS",AUS,Hitter,Unnamed: 750,Unnamed: 750
 751,963,21,Trent Oeltjen,0.0,2009,2011,26-28,"Sydney, AUS",AUS,Hitter,-33.9247891.2,151.2277413.2
 752,964,22,Ryan Rowland-Smith,-0.1,2007,2014,24-31,"Sydney, AUS",AUS,Hitter,-33.9247891.3,151.2277413.3
-753,965,23,Peter Moylan,-0.1,2006,2018,27-39,"Attadale, AUS",AUS,Hitter,Unnamed: 753,Unnamed: 753
-754,967,25,Aaron Whitefield,-0.2,2020,2022,23-25,"Brisbane, AUS",AUS,Hitter,Unnamed: 754,Unnamed: 754
 755,968,26,Justin Huber,-1.1,2005,2009,22-26,"Melbourne, AUS",AUS,Hitter,-37.7360462.1,145.0486278.1
-756,969,27,Craig Shipley,-1.2,1986,1998,23-35,"Parramatta, AUS",AUS,Hitter,Unnamed: 756,Unnamed: 756
 757,970,28,Trent Durrington,-1.6,1999,2005,23-29,"Sydney, AUS",AUS,Hitter,-33.9247891.4,151.2277413.4
 758,976,1,Jesús Luzardo,0.1,2019,2022,21-24,"Lima, PER",PER,Hitter,-7.900719,-34.898389
 759,977,1,Roberto Clemente,94.8,1955,1972,20-37,"Carolina, PRI",PRI,Hitter,-27.2831687,28.4944783
-760,978,2,Carlos Beltrán,70.1,1998,2017,21-40,"Manati, PRI",PRI,Hitter,Unnamed: 760,Unnamed: 760
-761,979,3,Iván Rodríguez,68.7,1991,2011,19-39,"Manati, PRI",PRI,Hitter,Unnamed: 761,Unnamed: 761
-762,980,4,Roberto Alomar,67.0,1988,2004,20-36,"Ponce, PRI",PRI,Hitter,Unnamed: 762,Unnamed: 762
 763,981,5,José Cruz,54.4,1970,1988,22-40,"Arroyo, PRI",PRI,Hitter,24.0482159,-104.6812145
-764,982,6,Orlando Cepeda,50.1,1958,1974,20-36,"Ponce, PRI",PRI,Hitter,Unnamed: 764,Unnamed: 764
 765,983,7,Bernie Williams,49.6,1991,2006,22-37,"San Juan, PRI",PRI,Hitter,19.3511793,-99.0756653
-766,984,8,Carlos Delgado,44.4,1993,2009,21-37,"Aguadilla, PRI",PRI,Hitter,Unnamed: 766,Unnamed: 766
-767,985,9,Jorge Posada,42.7,1995,2011,24-40,"Santurce, PRI",PRI,Hitter,Unnamed: 767,Unnamed: 767
-768,986,10,Yadier Molina,42.3,2004,2022,21-39,"Bayamon, PRI",PRI,Hitter,Unnamed: 768,Unnamed: 768
-769,987,11,Carlos Correa,39.5,2015,2022,20-27,"Ponce, PRI",PRI,Hitter,Unnamed: 769,Unnamed: 769
-770,988,12,Juan González,38.7,1989,2005,19-35,"Arecibo, PRI",PRI,Hitter,Unnamed: 770,Unnamed: 770
-771,989,13,Francisco Lindor,36.6,2015,2022,21-28,"Caguas, PRI",PRI,Hitter,Unnamed: 771,Unnamed: 771
-772,990,14,José Valentín,31.6,1992,2007,22-37,"Manati, PRI",PRI,Hitter,Unnamed: 772,Unnamed: 772
-773,991,15,Javy López,29.7,1992,2006,21-35,"Ponce, PRI",PRI,Hitter,Unnamed: 773,Unnamed: 773
-774,992,16,Sixto Lezcano,28.2,1974,1985,20-31,"Arecibo, PRI",PRI,Hitter,Unnamed: 774,Unnamed: 774
-775,993,17,Benito Santiago,27.4,1986,2005,21-40,"Ponce, PRI",PRI,Hitter,Unnamed: 775,Unnamed: 775
-776,994,18,Javier Báez,25.9,2014,2022,21-29,"Bayamon, PRI",PRI,Hitter,Unnamed: 776,Unnamed: 776
 777,995,19,Mike Lowell,24.8,1998,2010,24-36,"San Juan, PRI",PRI,Hitter,19.3511793.1,-99.0756653.1
 778,996,20,Danny Tartabull,23.3,1984,1997,21-34,"San Juan, PRI",PRI,Hitter,19.3511793.2,-99.0756653.2
-779,997,21,Rey Sánchez,20.6,1991,2005,23-37,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 779,Unnamed: 779
-780,998,22,Carlos Baerga,19.6,1990,2005,21-36,"Santurce, PRI",PRI,Hitter,Unnamed: 780,Unnamed: 780
 781,999,23,José Cruz,19.6,1997,2008,23-34,"Arroyo, PRI",PRI,Hitter,24.0482159.1,-104.6812145.1
-782,1000,24,Ángel Pagán,18.0,2006,2016,24-34,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 782,Unnamed: 782
-783,1001,25,Félix Millan,17.6,1966,1977,22-33,"Yabucoa, PRI",PRI,Hitter,Unnamed: 783,Unnamed: 783
-784,1002,26,José Vidro,17.4,1997,2008,22-33,"Mayaguez, PRI",PRI,Hitter,Unnamed: 784,Unnamed: 784
-785,1003,27,Rubén Sierra,16.8,1986,2006,20-40,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 785,Unnamed: 785
 786,1004,28,Kiké Hernández,16.7,2014,2022,22-30,"San Juan, PRI",PRI,Hitter,19.3511793.3,-99.0756653.3
-787,1005,29,Orlando Merced,16.2,1990,2003,23-36,"Hato Rey, PRI",PRI,Hitter,Unnamed: 787,Unnamed: 787
-788,1006,30,Vic Power,15.3,1954,1965,26-37,"Arecibo, PRI",PRI,Hitter,Unnamed: 788,Unnamed: 788
-789,1007,31,Sandy Alomar,13.7,1988,2007,22-41,"Salinas, PRI",PRI,Hitter,Unnamed: 789,Unnamed: 789
-790,1008,32,José Oquendo,13.6,1983,1995,19-31,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 790,Unnamed: 790
-791,1009,33,Ellie Rodríguez,13.4,1968,1976,22-30,"Fajardo, PRI",PRI,Hitter,Unnamed: 791,Unnamed: 791
-792,1010,34,José Hernández,13.3,1991,2006,21-36,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 792,Unnamed: 792
-793,1011,35,Tony Bernazard,13.2,1979,1991,22-34,"Caguas, PRI",PRI,Hitter,Unnamed: 793,Unnamed: 793
 794,1012,36,Geovany Soto,12.0,2005,2017,22-34,"San Juan, PRI",PRI,Hitter,19.3511793.4,-99.0756653.4
-795,1013,37,Iván Calderon,12.0,1984,1993,22-31,"Fajardo, PRI",PRI,Hitter,Unnamed: 795,Unnamed: 795
-796,1014,38,Luis Alicea,11.9,1988,2002,22-36,"Santurce, PRI",PRI,Hitter,Unnamed: 796,Unnamed: 796
-797,1015,39,Eddie Rosario,11.3,2015,2022,23-30,"Guayama, PRI",PRI,Hitter,Unnamed: 797,Unnamed: 797
-798,1016,40,Iván de Jesus,11.1,1974,1988,21-35,"Santurce, PRI",PRI,Hitter,Unnamed: 798,Unnamed: 798
-799,1017,41,Carmelo Martínez,11.0,1983,1991,22-30,"Dorado, PRI",PRI,Hitter,Unnamed: 799,Unnamed: 799
-800,1018,42,Bengie Molina,10.7,1998,2010,23-35,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 800,Unnamed: 800
-801,1019,43,Sandy Alomar,10.5,1964,1978,20-34,"Salinas, PRI",PRI,Hitter,Unnamed: 801,Unnamed: 801
-802,1020,44,Candy Maldonado,10.0,1981,1995,20-34,"Humacao, PRI",PRI,Hitter,Unnamed: 802,Unnamed: 802
-803,1021,45,Leo Gómez,10.0,1990,1996,24-30,"Canovanas, PRI",PRI,Hitter,Unnamed: 803,Unnamed: 803
-804,1022,46,Juan Beníquez,9.9,1971,1988,21-38,"San Sebastian, PRI",PRI,Hitter,Unnamed: 804,Unnamed: 804
-805,1023,47,Otto Vélez,9.9,1973,1983,22-32,"Ponce, PRI",PRI,Hitter,Unnamed: 805,Unnamed: 805
-806,1024,48,Ozzie Virgil,9.0,1980,1990,23-33,"Mayaguez, PRI",PRI,Hitter,Unnamed: 806,Unnamed: 806
-807,1025,49,Roberto Pérez,8.1,2014,2022,25-33,"Mayaguez, PRI",PRI,Hitter,Unnamed: 807,Unnamed: 807
-808,1026,50,Joey Cora,7.9,1987,1998,22-33,"Caguas, PRI",PRI,Hitter,Unnamed: 808,Unnamed: 808
-809,1027,51,Martín Maldonado,7.5,2011,2022,24-35,"Naguabo, PRI",PRI,Hitter,Unnamed: 809,Unnamed: 809
-810,1028,52,Felipe López,7.5,2001,2011,21-31,"Bayamon, PRI",PRI,Hitter,Unnamed: 810,Unnamed: 810
-811,1029,53,Álex Cora,7.0,1998,2011,22-35,"Caguas, PRI",PRI,Hitter,Unnamed: 811,Unnamed: 811
-812,1030,54,Christian Vázquez,7.0,2014,2022,23-31,"Bayamon, PRI",PRI,Hitter,Unnamed: 812,Unnamed: 812
 813,1031,55,Félix Mantilla,6.5,1956,1966,21-31,"Isabella, PRI",PRI,Hitter,50.1122503,8.6805122
-814,1032,56,Wil Cordero,6.0,1992,2005,20-33,"Mayaguez, PRI",PRI,Hitter,Unnamed: 814,Unnamed: 814
-815,1033,57,José Pagán,5.7,1959,1973,24-38,"Barceloneta, PRI",PRI,Hitter,Unnamed: 815,Unnamed: 815
-816,1034,58,Luis Matos,4.7,2000,2006,21-27,"Bayamon, PRI",PRI,Hitter,Unnamed: 816,Unnamed: 816
-817,1035,59,Luis Márquez,4.1,1946,1954,20-28,"Aguadilla, PRI",PRI,Hitter,Unnamed: 817,Unnamed: 817
-818,1036,60,José Lind,3.8,1987,1995,23-31,"Toabaja, PRI",PRI,Hitter,Unnamed: 818,Unnamed: 818
-819,1037,61,Juan Pizarro,3.4,1957,1974,20-37,"Santurce, PRI",PRI,Hitter,Unnamed: 819,Unnamed: 819
 820,1038,62,Pancho Coimbre,3.3,1940,1944,31-35,"Arroyo, PRI",PRI,Hitter,24.0482159.2,-104.6812145.2
-821,1039,63,José Molina,3.1,1999,2014,24-39,"Bayamon, PRI",PRI,Hitter,Unnamed: 821,Unnamed: 821
-822,1040,64,Ramón Castro,3.0,1999,2011,23-35,"Vega Baja, PRI",PRI,Hitter,Unnamed: 822,Unnamed: 822
-823,1041,65,Ricky Ledée,2.8,1998,2007,24-33,"Ponce, PRI",PRI,Hitter,Unnamed: 823,Unnamed: 823
-824,1042,66,Armando Ríos,2.7,1998,2003,26-31,"Santurce, PRI",PRI,Hitter,Unnamed: 824,Unnamed: 824
-825,1043,67,Luis Aguayo,2.7,1980,1989,21-30,"Vega Baja, PRI",PRI,Hitter,Unnamed: 825,Unnamed: 825
-826,1044,68,Bombo Rivera,2.5,1975,1982,22-29,"Ponce, PRI",PRI,Hitter,Unnamed: 826,Unnamed: 826
-827,1045,69,Juan Bonilla,2.4,1981,1987,25-31,"Santurce, PRI",PRI,Hitter,Unnamed: 827,Unnamed: 827
-828,1046,70,René Rivera,2.4,2004,2021,20-37,"Bayamon, PRI",PRI,Hitter,Unnamed: 828,Unnamed: 828
-829,1047,71,Omar Olivares,2.2,1990,2001,22-33,"Mayaguez, PRI",PRI,Hitter,Unnamed: 829,Unnamed: 829
-830,1048,72,Javier Vázquez,2.2,1998,2011,21-34,"Ponce, PRI",PRI,Hitter,Unnamed: 830,Unnamed: 830
-831,1049,73,Ángel Mangual,2.1,1969,1976,22-29,"Juana Diaz, PRI",PRI,Hitter,Unnamed: 831,Unnamed: 831
-832,1050,74,Félix Torres,2.0,1962,1964,30-32,"Ponce, PRI",PRI,Hitter,Unnamed: 832,Unnamed: 832
-833,1051,75,Emmanuel Rivera,2.0,2021,2022,25-26,"Mayaguez, PRI",PRI,Hitter,Unnamed: 833,Unnamed: 833
-834,1052,76,Luis Olmo,1.7,1943,1951,23-31,"Arecibo, PRI",PRI,Hitter,Unnamed: 834,Unnamed: 834
-835,1053,77,Kennys Vargas,1.7,2014,2017,23-26,"Canovanas, PRI",PRI,Hitter,Unnamed: 835,Unnamed: 835
-836,1054,78,Víctor Caratini,1.6,2017,2022,23-28,"Ponce, PRI",PRI,Hitter,Unnamed: 836,Unnamed: 836
-837,1055,79,Willie Montañez,1.6,1966,1982,18-34,"Catano, PRI",PRI,Hitter,Unnamed: 837,Unnamed: 837
-838,1056,80,Héctor Villanueva,1.6,1990,1993,25-28,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 838,Unnamed: 838
 839,1057,81,Rico Rossy,1.4,1991,1998,27-34,"San Juan, PRI",PRI,Hitter,19.3511793.5,-99.0756653.5
-840,1058,82,Ramón Vázquez,1.4,2001,2009,24-32,"Aibonito, PRI",PRI,Hitter,Unnamed: 840,Unnamed: 840
-841,1059,83,Pepe Mangual,1.4,1972,1977,20-25,"Ponce, PRI",PRI,Hitter,Unnamed: 841,Unnamed: 841
-842,1060,84,Luis Rivera,1.2,1986,1998,22-34,"Cidra, PRI",PRI,Hitter,Unnamed: 842,Unnamed: 842
-843,1061,85,Christian Colón,1.1,2014,2020,25-31,"Cayey, PRI",PRI,Hitter,Unnamed: 843,Unnamed: 843
-844,1062,86,Benny Ayala,1.0,1974,1985,23-34,"Yauco, PRI",PRI,Hitter,Unnamed: 844,Unnamed: 844
-845,1064,88,Héctor Ortiz,0.9,1998,2002,28-32,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 845,Unnamed: 845
-846,1065,89,Valmy Thomas,0.8,1957,1961,31-35,"Santurce, PRI",PRI,Hitter,Unnamed: 846,Unnamed: 846
-847,1066,90,Javier Valentín,0.8,1997,2008,21-32,"Manati, PRI",PRI,Hitter,Unnamed: 847,Unnamed: 847
-848,1067,91,Germán Rivera,0.8,1983,1985,22-24,"Santurce, PRI",PRI,Hitter,Unnamed: 848,Unnamed: 848
-849,1068,92,Julio Gotay,0.7,1960,1969,21-30,"Fajardo, PRI",PRI,Hitter,Unnamed: 849,Unnamed: 849
-850,1069,93,José Morales,0.6,2007,2011,24-28,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 850,Unnamed: 850
-851,1070,94,Damon Mashore,0.5,1996,1998,26-28,"Ponce, PRI",PRI,Hitter,Unnamed: 851,Unnamed: 851
-852,1071,95,Felipe Crespo,0.5,1996,2001,23-28,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 852,Unnamed: 852
-853,1072,96,Willi Castro,0.4,2019,2022,22-25,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 853,Unnamed: 853
-854,1073,97,Edwin Ríos,0.4,2019,2022,25-28,"Caguas, PRI",PRI,Hitter,Unnamed: 854,Unnamed: 854
-855,1074,98,Mike Rivera,0.4,2001,2011,24-34,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 855,Unnamed: 855
-856,1075,99,Carlos Corporán,0.4,2009,2015,25-31,"Hato Rey, PRI",PRI,Hitter,Unnamed: 856,Unnamed: 856
-857,1076,100,Irving Falu,0.4,2012,2014,29-31,"Hato Rey, PRI",PRI,Hitter,Unnamed: 857,Unnamed: 857
-858,1078,102,Luis Arroyo,0.3,1955,1963,28-36,"Penuelas, PRI",PRI,Hitter,Unnamed: 858,Unnamed: 858
-859,1079,103,Luis Quinones,0.3,1983,1992,21-30,"Ponce, PRI",PRI,Hitter,Unnamed: 859,Unnamed: 859
-860,1080,104,José Santiago,0.3,1963,1970,22-29,"Juana Diaz, PRI",PRI,Hitter,Unnamed: 860,Unnamed: 860
-861,1081,105,Edwin Maysonet,0.3,2008,2012,26-30,"Arecibo, PRI",PRI,Hitter,Unnamed: 861,Unnamed: 861
-862,1084,108,Chico Ruiz,0.2,1978,1980,26-28,"Santurce, PRI",PRI,Hitter,Unnamed: 862,Unnamed: 862
-863,1085,109,Eddie Vargas,0.2,1982,1984,23-25,"Guanica, PRI",PRI,Hitter,Unnamed: 863,Unnamed: 863
-864,1086,110,Hiram Bocachica,0.1,2000,2007,24-31,"Ponce, PRI",PRI,Hitter,Unnamed: 864,Unnamed: 864
-865,1087,111,José Santiago,0.1,1948,1956,19-27,"Coamo, PRI",PRI,Hitter,Unnamed: 865,Unnamed: 865
-866,1088,112,Eduardo Rodríguez,0.1,1973,1979,21-27,"Barceloneta, PRI",PRI,Hitter,Unnamed: 866,Unnamed: 866
-867,1090,114,Willie Hernández,0.1,1977,1989,22-34,"Aguada, PRI",PRI,Hitter,Unnamed: 867,Unnamed: 867
-868,1091,115,Bobby Muñoz,0.1,1993,2001,25-33,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 868,Unnamed: 868
 869,1096,120,Saul Rivera,0.1,2006,2010,28-32,"San Juan, PRI",PRI,Hitter,19.3511793.6,-99.0756653.6
-870,1097,121,Julio Valera,0.1,1990,1996,21-27,"Aguadilla, PRI",PRI,Hitter,Unnamed: 870,Unnamed: 870
-871,1102,126,Roberto Vargas,0.1,1948,1955,19-26,"Santurce, PRI",PRI,Hitter,Unnamed: 871,Unnamed: 871
-872,1103,127,Charlie Rivera,0.1,1939,1944,27-32,"Santurce, PRI",PRI,Hitter,Unnamed: 872,Unnamed: 872
-873,1104,128,J.C. Romero,0.1,1999,2012,23-36,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 873,Unnamed: 873
-874,1106,130,Juan Padilla,0.0,2004,2005,27-28,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 874,Unnamed: 874
-875,1107,131,Mario Feliciano,0.0,2021,2022,22-23,"Bayamon, PRI",PRI,Hitter,Unnamed: 875,Unnamed: 875
-876,1108,132,Roberto Hernández,0.0,1991,2007,26-42,"Santurce, PRI",PRI,Hitter,Unnamed: 876,Unnamed: 876
-877,1109,133,Mike Pérez,0.0,1990,1997,25-32,"Yauco, PRI",PRI,Hitter,Unnamed: 877,Unnamed: 877
-878,1110,134,José Berríos,0.0,2016,2022,22-28,"Bayamon, PRI",PRI,Hitter,Unnamed: 878,Unnamed: 878
-879,1111,135,Pedro Feliciano,0.0,2002,2013,25-36,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 879,Unnamed: 879
-880,1112,136,Juan Guilbe,0.0,1940,1947,26-33,"Ponce, PRI",PRI,Hitter,Unnamed: 880,Unnamed: 880
-881,1114,138,Jorge López,0.0,2015,2022,22-29,"Caguas, PRI",PRI,Hitter,Unnamed: 881,Unnamed: 881
-882,1116,140,José Santiago,0.0,1997,2005,22-30,"Fajardo, PRI",PRI,Hitter,Unnamed: 882,Unnamed: 882
 883,1117,141,Jonathan Albaladejo,0.0,2007,2012,24-29,"San Juan, PRI",PRI,Hitter,19.3511793.7,-99.0756653.7
 884,1118,142,José Alberro,0.0,1995,1997,26-28,"San Juan, PRI",PRI,Hitter,19.3511793.8,-99.0756653.8
-885,1119,143,Ricky Bones,0.0,1991,2001,22-32,"Salinas, PRI",PRI,Hitter,Unnamed: 885,Unnamed: 885
-886,1120,144,Fernando Cabrera,0.0,2004,2010,22-28,"Toa Baja, PRI",PRI,Hitter,Unnamed: 886,Unnamed: 886
-887,1121,145,Rafael Carmona,0.0,1995,1999,23-27,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 887,Unnamed: 887
 888,1122,146,Álex Claudio,0.0,2014,2022,22-30,"San Juan, PRI",PRI,Hitter,19.3511793.9,-99.0756653.9
-889,1125,149,Onix Concepción,0.0,1980,1987,22-29,"Dorado, PRI",PRI,Hitter,Unnamed: 889,Unnamed: 889
-890,1126,150,Ed Correa,0.0,1985,1987,19-21,"Hato Rey, PRI",PRI,Hitter,Unnamed: 890,Unnamed: 890
-891,1127,151,Ed Figueroa,0.0,1974,1981,25-32,"Ciales, PRI",PRI,Hitter,Unnamed: 891,Unnamed: 891
 892,1128,152,Ramón Hernández,0.0,1967,1977,26-36,"Carolina, PRI",PRI,Hitter,-27.2831687.1,28.4944783.1
 893,1129,153,Joe Jiménez,0.0,2017,2022,22-27,"San Juan, PRI",PRI,Hitter,19.3511793.10,-99.0756653.10
-894,1130,154,Ángel Miranda,0.0,1993,1997,23-27,"Arecibo, PRI",PRI,Hitter,Unnamed: 894,Unnamed: 894
-895,1133,157,Ed Núñez,0.0,1982,1994,19-31,"Humacao, PRI",PRI,Hitter,Unnamed: 895,Unnamed: 895
-896,1134,158,Roberto Rivera,0.0,1995,1999,26-30,"Bayamon, PRI",PRI,Hitter,Unnamed: 896,Unnamed: 896
-897,1135,159,Xavier Cedeño,0.0,2011,2019,24-32,"Guayanilla, PRI",PRI,Hitter,Unnamed: 897,Unnamed: 897
-898,1136,160,José De León,0.0,2016,2021,23-28,"Isabela, PRI",PRI,Hitter,Unnamed: 898,Unnamed: 898
-899,1137,161,José Ortiz,0.0,1969,1971,22-24,"Ponce, PRI",PRI,Hitter,Unnamed: 899,Unnamed: 899
-900,1140,164,Kiko Calero,0.0,2003,2009,28-34,"Santurce, PRI",PRI,Hitter,Unnamed: 900,Unnamed: 900
-901,1141,165,Edwin Díaz,0.0,2016,2022,22-28,"Naguabo, PRI",PRI,Hitter,Unnamed: 901,Unnamed: 901
-902,1144,168,Yacksel Ríos,0.0,2017,2021,24-28,"Caguas, PRI",PRI,Hitter,Unnamed: 902,Unnamed: 902
-903,1145,169,Edwin Rodríguez,0.0,1982,1985,21-24,"Ponce, PRI",PRI,Hitter,Unnamed: 903,Unnamed: 903
-904,1146,170,José Rodríguez,0.0,2000,2002,25-27,"Cayey, PRI",PRI,Hitter,Unnamed: 904,Unnamed: 904
-905,1149,173,Gil Flores,0.0,1977,1979,24-26,"Ponce, PRI",PRI,Hitter,Unnamed: 905,Unnamed: 905
 906,1150,174,Javier López,0.0,2003,2016,25-38,"San Juan, PRI",PRI,Hitter,19.3511793.11,-99.0756653.11
-907,1151,175,Francisco Oliveras,0.0,1989,1992,26-29,"Santurce, PRI",PRI,Hitter,Unnamed: 907,Unnamed: 907
-908,1152,176,Jimmy Rosario,0.0,1971,1976,26-31,"Bayamon, PRI",PRI,Hitter,Unnamed: 908,Unnamed: 908
-909,1157,181,Juan Agosto,-0.1,1981,1993,23-35,"Rio Piedras, PRI",PRI,Hitter,Unnamed: 909,Unnamed: 909
 910,1159,183,Tommy Cruz,-0.1,1973,1977,22-26,"Arroyo, PRI",PRI,Hitter,24.0482159.3,-104.6812145.3
-911,1161,185,Héctor Mercado,-0.1,2000,2003,26-29,"Catano, PRI",PRI,Hitter,Unnamed: 911,Unnamed: 911
-912,1162,186,Julio Navarro,-0.1,1962,1970,28-36,"Vieques, PRI",PRI,Hitter,Unnamed: 912,Unnamed: 912
-913,1163,187,Félix Guilbe,-0.1,1946,1947,22-23,"Ponce, PRI",PRI,Hitter,Unnamed: 913,Unnamed: 913
-914,1164,188,Luis Pillot,-0.1,1941,1946,23-28,"Guayama, PRI",PRI,Hitter,Unnamed: 914,Unnamed: 914
-915,1166,190,Luis DeLeón,-0.1,1981,1989,22-30,"Ponce, PRI",PRI,Hitter,Unnamed: 915,Unnamed: 915
-916,1167,191,Dicky González,-0.1,2001,2004,22-25,"Bayamon, PRI",PRI,Hitter,Unnamed: 916,Unnamed: 916
-917,1168,192,Hiram Bithorn,-0.1,1942,1947,26-31,"Santurce, PRI",PRI,Hitter,Unnamed: 917,Unnamed: 917
-918,1169,193,Iván Cruz,-0.1,1997,2002,29-34,"Fajardo, PRI",PRI,Hitter,Unnamed: 918,Unnamed: 918
-919,1170,194,Pedro Valdés,-0.1,1996,2000,23-27,"Fajardo, PRI",PRI,Hitter,Unnamed: 919,Unnamed: 919
-920,1171,195,Michael Perez,-0.1,2018,2022,25-29,"Catano, PRI",PRI,Hitter,Unnamed: 920,Unnamed: 920
-921,1173,197,Ramón Aviles,-0.1,1977,1981,25-29,"Manati, PRI",PRI,Hitter,Unnamed: 921,Unnamed: 921
-922,1176,200,José Melendez,-0.2,1990,1994,24-28,"Naguabo, PRI",PRI,Hitter,Unnamed: 922,Unnamed: 922
 923,1177,1,Marino Pieretti,0.5,1945,1950,24-29,"Lucca, ITA",ITA,Hitter,51.1528711,4.1371156
-924,1178,2,Alex Liddi,0.0,2011,2013,22-24,"Sanremo, ITA",ITA,Hitter,Unnamed: 924,Unnamed: 924
-925,1180,4,Lou Polli,-0.1,1932,1944,30-42,"Baveno, ITA",ITA,Hitter,Unnamed: 925,Unnamed: 925
-926,1182,6,Julio Bonetti,-0.4,1937,1940,25-28,"Genoa, ITA",ITA,Hitter,Unnamed: 926,Unnamed: 926
-927,1183,7,Reno Bertoia,-1.2,1953,1962,18-27,"San Vito al Tagliamento, ITA",ITA,Hitter,Unnamed: 927,Unnamed: 927
-928,1184,1,Dovydas Neverauskas,0.0,2017,2020,24-27,"Vilnius, LTU",LTU,Hitter,Unnamed: 928,Unnamed: 928
 929,1186,1,Robin Jennings,-1.4,1996,2001,24-29,"Singapore, SGP",SGP,Hitter,1.3755326,103.8750766
-930,1187,1,Bruce Bochy,2.3,1978,1987,23-32,"Landes de Bussac, FRA",FRA,Hitter,Unnamed: 930,Unnamed: 930
 931,1190,4,Steve Jeltz,-0.3,1983,1990,24-31,"Paris, FRA",FRA,Hitter,39.95741,-82.817483
 932,1192,6,Paul Krichell,-0.5,1911,1912,28-29,"Paris, FRA",FRA,Hitter,39.95741.1,-82.817483.1
 933,1193,7,Charlie Lea,-1.0,1980,1988,23-31,"Orleans, FRA",FRA,Hitter,40.058645049999996,-83.12885978953504
@@ -937,23 +564,8 @@
 935,1195,2,Paulo Orlando,1.7,2015,2018,29-32,"Sao Paulo, BRA",BRA,Hitter,-15.8201646.1,-47.911731.1
 936,1196,3,Thyago Vieira,0.0,2017,2019,23-25,"Sao Paulo, BRA",BRA,Hitter,-15.8201646.2,-47.911731.2
 937,1197,4,André Rienzo,0.0,2013,2015,24-26,"Sao Paulo, BRA",BRA,Hitter,-15.8201646.3,-47.911731.3
-938,1198,5,Luiz Gohara,-0.2,2017,2018,20-21,"Tupa, BRA",BRA,Hitter,Unnamed: 938,Unnamed: 938
-939,1199,1,Horace Clarke,15.6,1965,1974,26-35,"Frederiksted, VIR",VIR,Hitter,Unnamed: 939,Unnamed: 939
-940,1200,2,Jerry Browne,11.9,1986,1995,20-29,"Christiansted, VIR",VIR,Hitter,Unnamed: 940,Unnamed: 940
-941,1201,3,Elrod Hendricks,7.4,1968,1979,27-38,"Charlotte Amalie, VIR",VIR,Hitter,Unnamed: 941,Unnamed: 941
-942,1202,4,Al McBean,1.4,1961,1970,23-32,"Charlotte Amalie, VIR",VIR,Hitter,Unnamed: 942,Unnamed: 942
-943,1203,5,Midre Cummings,0.9,1993,2005,21-33,"Christiansted, VIR",VIR,Hitter,Unnamed: 943,Unnamed: 943
-944,1205,7,Joe Christopher,0.1,1959,1966,23-30,"Frederiksted, VIR",VIR,Hitter,Unnamed: 944,Unnamed: 944
-945,1206,8,Jose Morales,0.1,1973,1984,28-39,"Frederiksted, VIR",VIR,Hitter,Unnamed: 945,Unnamed: 945
 946,1207,9,Akeel Morris,0.0,2015,2018,22-25,"St. Thomas, VIR",VIR,Hitter,48.8384234,-0.8862432
-947,1209,11,Henry Cruz,-0.3,1975,1978,23-26,"Christiansted, VIR",VIR,Hitter,Unnamed: 947,Unnamed: 947
-948,1210,12,Elmo Plaskett,-0.4,1962,1963,24-25,"Frederiksted, VIR",VIR,Hitter,Unnamed: 948,Unnamed: 948
-949,1212,14,Alphonso Gerard,-0.9,1945,1948,28-31,"Christiansted, VIR",VIR,Hitter,Unnamed: 949,Unnamed: 949
 950,1213,15,Jabari Blash,-1.0,2016,2018,26-28,"St. Thomas, VIR",VIR,Hitter,48.8384234.1,-0.8862432.1
-951,1217,4,Eric Erickson,-0.9,1914,1922,22-30,"Vargarda, SWE",SWE,Hitter,Unnamed: 951,Unnamed: 951
-952,1218,5,Beany Jacobson,-1.0,1904,1907,23-26,"Timra, SWE",SWE,Hitter,Unnamed: 952,Unnamed: 952
-953,1219,1,Rod Carew,81.2,1967,1985,21-39,"Gatun, PAN",PAN,Hitter,Unnamed: 953,Unnamed: 953
-954,1220,2,Carlos Lee,28.3,1999,2012,23-36,"Aguadulce, PAN",PAN,Hitter,Unnamed: 954,Unnamed: 954
 955,1221,3,Manny Sanguillén,27.5,1967,1980,23-36,"Colon, PAN",PAN,Hitter,-37.0313768,-64.2890431
 956,1222,4,Ben Oglivie,26.4,1971,1986,22-37,"Colon, PAN",PAN,Hitter,-37.0313768.1,-64.2890431.1
 957,1223,5,Carlos Ruiz,22.5,2006,2017,27-38,"David, PAN",PAN,Hitter,16.0454964,120.4216227
@@ -961,7 +573,6 @@
 959,1225,7,Rennie Stennett,13.9,1971,1981,22-32,"Colon, PAN",PAN,Hitter,-37.0313768.2,-64.2890431.2
 960,1226,8,Adolfo Phillips,13.7,1964,1972,22-30,"Bethania, PAN",PAN,Hitter,9.007204999999999,-79.53111206727111
 961,1227,9,Héctor López,12.9,1955,1966,25-36,"Colon, PAN",PAN,Hitter,-37.0313768.3,-64.2890431.3
-962,1229,11,Omar Moreno,9.5,1975,1986,22-33,"Puerto Armuelles, PAN",PAN,Hitter,Unnamed: 962,Unnamed: 962
 963,1230,12,Rubén Rivera,5.7,1995,2003,21-29,"Chorrera, PAN",PAN,Hitter,8.90873375,-79.78115889747751
 964,1231,13,Olmedo Sáenz,5.3,1994,2007,23-36,"Chitre, PAN",PAN,Hitter,7.9657477,-80.4303748
 965,1232,14,Edmundo Sosa,4.6,2018,2022,22-26,"Panama, PAN",PAN,Hitter,17.2528236.1,-88.7563566.1
@@ -969,10 +580,7 @@
 967,1234,16,Johan Camargo,3.5,2017,2022,23-28,"Panama, PAN",PAN,Hitter,17.2528236.2,-88.7563566.2
 968,1235,17,Einar Díaz,3.3,1996,2006,23-33,"Chiriqui, PAN",PAN,Hitter,8.162255,-81.770374
 969,1236,18,Ramón Webster,2.6,1967,1971,24-28,"Colon, PAN",PAN,Hitter,-37.0313768.4,-64.2890431.4
-970,1237,19,Pat Scantlebury,2.1,1944,1956,26-38,"Gatun, PAN",PAN,Hitter,Unnamed: 970,Unnamed: 970
 971,1238,20,José Macías,2.0,1999,2005,27-33,"Panama, PAN",PAN,Hitter,17.2528236.3,-88.7563566.3
-972,1239,21,Orlando Miller,1.6,1994,1997,25-28,"Changuinola, PAN",PAN,Hitter,Unnamed: 972,Unnamed: 972
-973,1240,22,León Kellman,1.0,1946,1948,27-29,"Gatun, PAN",PAN,Hitter,Unnamed: 973,Unnamed: 973
 974,1241,23,Chico Salmon,0.9,1964,1972,23-31,"Colon, PAN",PAN,Hitter,-37.0313768.5,-64.2890431.5
 975,1242,24,Iván Murrell,0.7,1963,1974,20-31,"Almirante, PAN",PAN,Hitter,-24.192919,-65.2785721
 976,1243,25,Archie Brathwaite,0.6,1944,1948,26-30,"Colon, PAN",PAN,Hitter,-37.0313768.6,-64.2890431.6
@@ -981,13 +589,10 @@
 979,1247,29,Gil Garrido,0.3,1964,1972,23-31,"Panama, PAN",PAN,Hitter,17.2528236.5,-88.7563566.5
 980,1248,30,Luis Durango,0.2,2009,2011,23-25,"Panama, PAN",PAN,Hitter,17.2528236.6,-88.7563566.6
 981,1249,31,Paolo Espino,0.2,2017,2022,30-35,"Panama, PAN",PAN,Hitter,17.2528236.7,-88.7563566.7
-982,1250,32,Randall Delgado,0.0,2011,2018,21-28,"Las Tablas, PAN",PAN,Hitter,Unnamed: 982,Unnamed: 982
 983,1251,33,Humberto Mejía,0.0,2020,2021,23-24,"Panama, PAN",PAN,Hitter,17.2528236.8,-88.7563566.8
-984,1253,35,Ariel Jurado,0.0,2018,2020,22-24,"Aguadulce, PAN",PAN,Hitter,Unnamed: 984,Unnamed: 984
 985,1255,37,Manuel Barrios,0.0,1997,1998,22-23,"Cabecera, PAN",PAN,Hitter,7.11564935,-73.10081898737477
 986,1256,38,Enrique Burgos,0.0,1993,1995,27-29,"Chorrera, PAN",PAN,Hitter,8.90873375.1,-79.78115889747751.1
 987,1257,39,Enrique Burgos,0.0,2015,2016,24-25,"Panama, PAN",PAN,Hitter,17.2528236.9,-88.7563566.9
-988,1261,43,Carlos Maldonado,0.0,1990,1993,23-26,"Chepo, PAN",PAN,Hitter,Unnamed: 988,Unnamed: 988
 989,1262,44,Ossie Chavarria,0.0,1966,1967,28-29,"Colon, PAN",PAN,Hitter,-37.0313768.8,-64.2890431.8
 990,1263,45,Mariano Rivera,0.0,1995,2013,25-43,"Panama, PAN",PAN,Hitter,17.2528236.10,-88.7563566.10
 991,1264,46,Manny Acosta,0.0,2007,2012,26-31,"Colon, PAN",PAN,Hitter,-37.0313768.9,-64.2890431.9
@@ -998,7 +603,6 @@
 996,1272,54,Manny Corpas,-0.1,2006,2013,23-30,"Panama, PAN",PAN,Hitter,17.2528236.11,-88.7563566.11
 997,1273,55,Javy Guerra,-0.1,2018,2022,22-26,"David, PAN",PAN,Hitter,16.0454964.1,120.4216227.1
 998,1275,57,Jaime Barria,-0.1,2018,2022,21-25,"Panama, PAN",PAN,Hitter,17.2528236.12,-88.7563566.12
-999,1276,58,Juan Berenguer,-0.2,1978,1992,23-37,"Aguadulce, PAN",PAN,Hitter,Unnamed: 999,Unnamed: 999
 1000,1278,60,Julio Mosquera,-0.2,1996,2005,24-33,"Panama, PAN",PAN,Hitter,17.2528236.13,-88.7563566.13
 1001,1279,61,Julio Zuleta,-0.2,2000,2001,25-26,"Panama, PAN",PAN,Hitter,17.2528236.14,-88.7563566.14
 1002,1281,63,Ed Acosta,-0.3,1970,1972,26-28,"Boquete, PAN",PAN,Hitter,11.9290244,-85.96233213818515
@@ -1006,64 +610,41 @@
 1004,1283,65,Rafael Medina,-0.3,1998,1999,23-24,"Panama, PAN",PAN,Hitter,17.2528236.16,-88.7563566.16
 1005,1285,67,Víctor Greenidge,-0.3,1941,1944,22-25,"Panama, PAN",PAN,Hitter,17.2528236.17,-88.7563566.17
 1006,1287,69,Gil Garrido,-0.3,1944,1945,24-25,"Panama, PAN",PAN,Hitter,17.2528236.18,-88.7563566.18
-1007,1289,71,Mike Eden,-0.5,1976,1978,27-29,"Fort Clayton, PAN",PAN,Hitter,Unnamed: 1007,Unnamed: 1007
 1008,1290,72,Dave Roberts,-0.5,1962,1966,29-33,"Panama, PAN",PAN,Hitter,17.2528236.19,-88.7563566.19
 1009,1291,73,Clyde Parris,-0.5,1946,1947,23-24,"Panama, PAN",PAN,Hitter,17.2528236.20,-88.7563566.20
 1010,1293,75,Fernando Seguignol,-0.6,1998,2003,23-28,"Bocas del Toro, PAN",PAN,Hitter,8.9154397,-82.0928478
-1011,1294,76,Jonathan Araúz,-0.7,2020,2022,21-23,"Alanje, PAN",PAN,Hitter,Unnamed: 1011,Unnamed: 1011
 1012,1295,77,Sherman Obando,-0.7,1993,1997,23-27,"Bocas del Toro, PAN",PAN,Hitter,8.9154397.1,-82.0928478.1
 1013,1297,1,Albert Pujols,101.7,2001,2022,21-42,"Santo Domingo, DOM",DOM,Hitter,18.46128065,-69.91675188782874
 1014,1298,2,Adrián Beltré,93.5,1998,2018,19-39,"Santo Domingo, DOM",DOM,Hitter,18.46128065.1,-69.91675188782874.1
 1015,1299,3,Manny Ramírez,69.3,1993,2011,21-39,"Santo Domingo, DOM",DOM,Hitter,18.46128065.2,-69.91675188782874.2
-1016,1300,4,Robinson Canó,68.1,2005,2022,22-39,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1016,Unnamed: 1016
 1017,1301,5,Vladimir Guerrero,59.5,1996,2011,21-36,"Nizao, DOM",DOM,Hitter,18.4916037,-69.9610423664048
-1018,1302,6,Sammy Sosa,58.6,1989,2007,20-38,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1018,Unnamed: 1018
 1019,1303,7,David Ortiz,55.3,1997,2016,21-40,"Santo Domingo, DOM",DOM,Hitter,18.46128065.3,-69.91675188782874.3
 1020,1304,8,César Cedeño,52.9,1970,1986,19-35,"Santo Domingo, DOM",DOM,Hitter,18.46128065.4,-69.91675188782874.4
 1021,1305,9,Miguel Tejada,47.1,1997,2013,23-39,"Bani, DOM",DOM,Hitter,18.4350075,-69.9490936
-1022,1306,10,Tony Fernández,45.3,1983,2001,21-39,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1022,Unnamed: 1022
-1023,1307,11,Julio Franco,43.6,1982,2007,23-48,"Hato Mayor del Rey, DOM",DOM,Hitter,Unnamed: 1023,Unnamed: 1023
-1024,1308,12,Nelson Cruz,42.5,2005,2022,24-41,"Las Matas de Santa Cruz, DOM",DOM,Hitter,Unnamed: 1024,Unnamed: 1024
-1025,1309,13,Felipe Alou,42.2,1958,1974,23-39,"Bajos de Haina, DOM",DOM,Hitter,Unnamed: 1025,Unnamed: 1025
 1026,1310,14,Plácido Polanco,41.9,1998,2013,22-37,"Santo Domingo, DOM",DOM,Hitter,18.46128065.5,-69.91675188782874.5
 1027,1311,15,José Ramírez,40.3,2013,2022,20-29,"Bani, DOM",DOM,Hitter,18.4350075.1,-69.9490936.1
-1028,1312,16,Rafael Furcal,39.5,2000,2014,22-36,"Loma de Cabrera, DOM",DOM,Hitter,Unnamed: 1028,Unnamed: 1028
 1029,1313,17,Starling Marte,38.6,2012,2022,23-33,"Santo Domingo, DOM",DOM,Hitter,18.46128065.6,-69.91675188782874.6
 1030,1314,18,Hanley Ramírez,38.0,2005,2019,21-35,"Samana, DOM",DOM,Hitter,18.4918662,-69.8840292
 1031,1315,19,José Reyes,37.5,2003,2018,20-35,"Santiago, DOM",DOM,Hitter,18.5048605,-69.8817293
 1032,1316,20,José Bautista,36.7,2004,2018,23-37,"Santo Domingo, DOM",DOM,Hitter,18.46128065.7,-69.91675188782874.7
-1033,1317,21,Edwin Encarnación,35.5,2005,2020,22-37,"La Romana, DOM",DOM,Hitter,Unnamed: 1033,Unnamed: 1033
-1034,1318,22,Pedro Guerrero,34.5,1978,1992,22-36,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1034,Unnamed: 1034
 1035,1319,23,Carlos Santana,32.8,2010,2022,24-36,"Santo Domingo, DOM",DOM,Hitter,18.46128065.8,-69.91675188782874.8
-1036,1320,24,Rico Carty,32.7,1963,1979,23-39,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1036,Unnamed: 1036
 1037,1321,25,Aramis Ramírez,32.4,1998,2015,20-37,"Santo Domingo, DOM",DOM,Hitter,18.46128065.9,-69.91675188782874.9
 1038,1322,26,Jhonny Peralta,30.4,2003,2017,21-35,"Santiago, DOM",DOM,Hitter,18.5048605.1,-69.8817293.1
 1039,1323,27,Raúl Mondesi,29.5,1993,2005,22-34,"San Cristobal, DOM",DOM,Hitter,18.4972887,-69.9619888
-1040,1324,28,Luis Castillo,29.1,1996,2010,20-34,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1040,Unnamed: 1040
-1041,1325,29,Alfonso Soriano,28.6,1999,2014,23-38,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1041,Unnamed: 1041
 1042,1326,30,Jean Segura,28.0,2012,2022,22-32,"San Juan de la Maguana, DOM",DOM,Hitter,18.5017065,-69.9154806
 1043,1327,31,Carlos Peña,25.5,2001,2014,23-36,"Santo Domingo, DOM",DOM,Hitter,18.46128065.10,-69.91675188782874.10
 1044,1328,32,Stan Javier,25.4,1984,2001,20-37,"San Francisco de Macoris, DOM",DOM,Hitter,18.4788104,-69.9053596
-1045,1329,33,Tony Peña,24.7,1980,1997,23-40,"Monte Cristi, DOM",DOM,Hitter,Unnamed: 1045,Unnamed: 1045
 1046,1330,34,Carlos Gómez,24.4,2007,2019,21-33,"Santiago, DOM",DOM,Hitter,18.5048605.2,-69.8817293.2
 1047,1331,35,Juan Soto,23.2,2018,2022,19-23,"Santo Domingo, DOM",DOM,Hitter,18.46128065.11,-69.91675188782874.11
-1048,1332,36,Matty Alou,23.0,1960,1974,21-35,"Bajos de Haina, DOM",DOM,Hitter,Unnamed: 1048,Unnamed: 1048
 1049,1333,37,Erick Aybar,22.7,2006,2017,22-33,"Bani, DOM",DOM,Hitter,18.4350075.2,-69.9490936.2
-1050,1334,38,Juan Uribe,22.6,2001,2016,22-37,"Sabana Grande de Palenque, DOM",DOM,Hitter,Unnamed: 1050,Unnamed: 1050
 1051,1335,39,Melky Cabrera,20.6,2005,2019,20-34,"Santo Domingo, DOM",DOM,Hitter,18.46128065.12,-69.91675188782874.12
 1052,1336,40,Marcell Ozuna,20.1,2013,2022,22-31,"Santo Domingo, DOM",DOM,Hitter,18.46128065.13,-69.91675188782874.13
-1053,1337,41,George Bell,20.0,1981,1993,21-33,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1053,Unnamed: 1053
 1054,1338,42,Ketel Marte,19.5,2015,2022,21-28,"Nizao, DOM",DOM,Hitter,18.4916037.1,-69.9610423664048.1
-1055,1339,43,Starlin Castro,18.2,2010,2021,20-31,"Monte Cristi, DOM",DOM,Hitter,Unnamed: 1055,Unnamed: 1055
 1056,1340,44,Manny Mota,17.4,1962,1982,24-44,"Santo Domingo, DOM",DOM,Hitter,18.46128065.14,-69.91675188782874.14
-1057,1341,45,José Offerman,17.1,1990,2005,21-36,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1057,Unnamed: 1057
-1058,1342,46,Juan Samuel,17.0,1983,1998,22-37,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1058,Unnamed: 1058
 1059,1343,47,Willy Adames,15.5,2018,2022,22-26,"Santiago, DOM",DOM,Hitter,18.5048605.3,-69.8817293.3
-1060,1344,48,Jorge Polanco,15.3,2014,2022,20-28,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1060,Unnamed: 1060
 1061,1345,49,Rafael Devers,15.2,2017,2022,20-25,"Sanchez, DOM",DOM,Hitter,18.470424,-69.888229
 1062,1346,50,Julián Javier,13.8,1960,1972,23-35,"San Francisco de Macoris, DOM",DOM,Hitter,18.4788104.1,-69.9053596.1
 1063,1347,51,Tony Batista,13.8,1996,2007,22-33,"Puerto Plata, DOM",DOM,Hitter,18.5028514,-69.9140966
-1064,1348,52,Fernando Tatis Jr.,13.6,2019,2021,20-22,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1064,Unnamed: 1064
 1065,1349,53,Julio Lugo,13.5,2000,2011,24-35,"Barahona, DOM",DOM,Hitter,18.4801857,-69.8975526
 1066,1350,54,César Gerónimo,13.0,1969,1983,21-35,"El Seibo, DOM",DOM,Hitter,18.49079475,-69.90547287457336
 1067,1351,55,Quilvio Veras,12.9,1995,2001,24-30,"Santo Domingo, DOM",DOM,Hitter,18.46128065.15,-69.91675188782874.15
@@ -1073,31 +654,20 @@
 1071,1355,59,Jonathan Villar,12.3,2013,2022,22-31,"La Vega, DOM",DOM,Hitter,45.5299657,4.9029879
 1072,1356,60,Manuel Margot,11.5,2016,2022,21-27,"San Cristobal, DOM",DOM,Hitter,18.4972887.1,-69.9619888.1
 1073,1357,61,Juan Lagares,11.2,2013,2022,24-33,"Constanza, DOM",DOM,Hitter,47.664214,9.1758078
-1074,1358,62,Teoscar Hernández,10.8,2016,2022,23-29,"Cotui, DOM",DOM,Hitter,Unnamed: 1074,Unnamed: 1074
 1075,1359,63,Ramón Laureano,10.6,2018,2022,23-27,"Santo Domingo, DOM",DOM,Hitter,18.46128065.18,-69.91675188782874.18
-1076,1360,64,Manuel Lee,9.7,1985,1995,20-30,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1076,Unnamed: 1076
 1077,1361,65,Amed Rosario,9.7,2017,2022,21-26,"Santo Domingo Centro, DOM",DOM,Hitter,18.4703362,-69.88413851121737
 1078,1362,66,Luis Polonia,9.0,1987,2000,23-36,"Santiago, DOM",DOM,Hitter,18.5048605.4,-69.8817293.4
 1079,1363,67,José Uribe,8.7,1984,1993,25-34,"San Cristobal, DOM",DOM,Hitter,18.4972887.2,-69.9619888.2
-1080,1364,68,Juan Encarnación,8.6,1997,2007,21-31,"Las Matas de Farfan, DOM",DOM,Hitter,Unnamed: 1080,Unnamed: 1080
 1081,1365,69,D'Angelo Jiménez,8.0,1999,2007,21-29,"Santo Domingo, DOM",DOM,Hitter,18.46128065.19,-69.91675188782874.19
-1082,1366,70,Miguel Olivo,8.0,2002,2014,23-35,"Villa Vasquez, DOM",DOM,Hitter,Unnamed: 1082,Unnamed: 1082
-1083,1367,71,Miguel Sanó,7.6,2015,2022,22-29,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1083,Unnamed: 1083
 1084,1368,72,Deivi Cruz,7.4,1997,2005,24-32,"Bani, DOM",DOM,Hitter,18.4350075.3,-69.9490936.3
 1085,1369,73,Gerónimo Berroa,7.4,1989,2000,24-35,"Santo Domingo, DOM",DOM,Hitter,18.46128065.20,-69.91675188782874.20
-1086,1370,74,Ramón Santiago,7.3,2002,2014,22-34,"Las Matas de Farfan, DOM",DOM,Hitter,Unnamed: 1086,Unnamed: 1086
-1087,1371,75,Alejandro De Aza,7.2,2007,2017,23-33,"Guaymate, DOM",DOM,Hitter,Unnamed: 1087,Unnamed: 1087
 1088,1372,76,Dámaso García,7.2,1978,1989,21-32,"Moca, DOM",DOM,Hitter,18.5021434,-69.9085623
 1089,1373,77,José Vizcaíno,7.0,1989,2006,21-38,"San Cristobal, DOM",DOM,Hitter,18.4972887.3,-69.9619888.3
 1090,1374,78,Víctor Robles,6.4,2017,2022,20-25,"Santo Domingo Este, DOM",DOM,Hitter,18.489231,-69.87012990361507
 1091,1375,79,José Guillén,6.4,1997,2010,21-34,"San Cristobal, DOM",DOM,Hitter,18.4972887.4,-69.9619888.4
 1092,1376,80,Félix José,6.4,1988,2003,23-38,"Santo Domingo, DOM",DOM,Hitter,18.46128065.21,-69.91675188782874.21
 1093,1377,81,Gerónimo Peña,6.3,1990,1996,23-29,"Los Alcarrizos, DOM",DOM,Hitter,18.5207139,-69.9924913
-1094,1378,82,Fernando Tatís,6.3,1997,2010,22-35,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1094,Unnamed: 1094
 1095,1380,84,Wander Franco,6.1,2021,2022,20-21,"Bani, DOM",DOM,Hitter,18.4350075.4,-69.9490936.4
-1096,1381,85,Rafael Ramírez,6.0,1980,1992,22-34,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1096,Unnamed: 1096
-1097,1382,86,Junior Félix,6.0,1989,1994,21-26,"Laguna Salada, DOM",DOM,Hitter,Unnamed: 1097,Unnamed: 1097
-1098,1383,87,Mariano Duncan,5.7,1985,1997,22-34,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1098,Unnamed: 1098
 1099,1384,88,Pedro Feliz,5.6,2000,2010,25-35,"Azua, DOM",DOM,Hitter,18.4444541,-69.931869
 1100,1385,89,Ronny Paulino,5.3,2005,2012,24-31,"Santo Domingo, DOM",DOM,Hitter,18.46128065.22,-69.91675188782874.22
 1101,1386,90,Eloy Jiménez,5.3,2019,2022,22-25,"Santo Domingo, DOM",DOM,Hitter,18.46128065.23,-69.91675188782874.23
@@ -1116,35 +686,23 @@
 1114,1400,104,Emilio Bonifácio,3.2,2007,2020,22-35,"Santo Domingo, DOM",DOM,Hitter,18.46128065.29,-69.91675188782874.29
 1115,1401,105,Alfredo Griffin,3.0,1976,1993,18-35,"Santo Domingo, DOM",DOM,Hitter,18.46128065.30,-69.91675188782874.30
 1116,1402,106,Nelson Liriano,3.0,1987,1998,23-34,"Puerto Plata, DOM",DOM,Hitter,18.5028514.1,-69.9140966.1
-1117,1403,107,Franmil Reyes,2.9,2018,2022,22-26,"Sabana Grande de Palenque, DOM",DOM,Hitter,Unnamed: 1117,Unnamed: 1117
 1118,1404,108,Wilson Betemit,2.8,2001,2013,19-31,"Santo Domingo, DOM",DOM,Hitter,18.46128065.31,-69.91675188782874.31
 1119,1405,109,Willy Aybar,2.8,2005,2010,22-27,"Bani, DOM",DOM,Hitter,18.4350075.5,-69.9490936.5
 1120,1406,110,Neifi Pérez,2.6,1996,2007,23-34,"Villa Mella, DOM",DOM,Hitter,18.5159206,-69.9144308
 1121,1407,111,Miguel Diloné,2.5,1974,1985,19-30,"Santiago, DOM",DOM,Hitter,18.5048605.7,-69.8817293.7
 1122,1408,112,Oneil Cruz,2.4,2021,2022,22-23,"Nizao, DOM",DOM,Hitter,18.4916037.2,-69.9610423664048.2
 1123,1409,113,Henry Rodríguez,2.4,1992,2002,24-34,"Santo Domingo, DOM",DOM,Hitter,18.46128065.32,-69.91675188782874.32
-1124,1410,114,Pedro Severino,2.3,2015,2022,21-28,"Bonao, DOM",DOM,Hitter,Unnamed: 1124,Unnamed: 1124
 1125,1411,115,Francisco Mejía,2.3,2017,2022,21-26,"Bani, DOM",DOM,Hitter,18.4350075.6,-69.9490936.6
-1126,1413,117,Danny Santana,2.1,2014,2021,23-30,"Monte Plata, DOM",DOM,Hitter,Unnamed: 1126,Unnamed: 1126
 1127,1414,118,Aristides Aquino,2.1,2018,2022,24-28,"Santo Domingo, DOM",DOM,Hitter,18.46128065.33,-69.91675188782874.33
-1128,1415,119,Rufino Linares,2.0,1981,1985,30-34,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1128,Unnamed: 1128
 1129,1416,120,Leody Taveras,2.0,2020,2022,21-23,"Tenares, DOM",DOM,Hitter,18.4551346.1,-69.9677875.1
-1130,1417,121,Pedro Florimón,1.9,2011,2018,24-31,"La Romana, DOM",DOM,Hitter,Unnamed: 1130,Unnamed: 1130
 1131,1418,122,Félix Fermín,1.8,1987,1996,23-32,"Mao, DOM",DOM,Hitter,18.4863613,-69.9011274
-1132,1419,123,Frank Taveras,1.8,1971,1982,21-32,"Las Matas de Santa Cruz, DOM",DOM,Hitter,Unnamed: 1132,Unnamed: 1132
 1133,1420,124,Jesús Sánchez,1.8,2020,2022,22-24,"Higuey, DOM",DOM,Hitter,18.4520517,-69.9650232
 1134,1421,125,Alberto Castillo,1.7,1995,2007,25-37,"San Juan de la Maguana, DOM",DOM,Hitter,18.5017065.1,-69.9154806.1
-1135,1422,126,Jose Siri,1.6,2021,2022,25-26,"Sabana Grande de Boya, DOM",DOM,Hitter,Unnamed: 1135,Unnamed: 1135
-1136,1423,127,Wilin Rosario,1.6,2011,2015,22-26,"Bonao, DOM",DOM,Hitter,Unnamed: 1136,Unnamed: 1136
-1137,1424,128,Esteban Germán,1.6,2002,2011,24-33,"Bajos de Haina, DOM",DOM,Hitter,Unnamed: 1137,Unnamed: 1137
 1138,1425,129,Bryan De La Cruz,1.6,2021,2022,24-25,"Santo Domingo Este, DOM",DOM,Hitter,18.489231.1,-69.87012990361507.1
 1139,1426,130,José Rijo,1.6,1984,2002,19-37,"San Cristobal, DOM",DOM,Hitter,18.4972887.6,-69.9619888.6
 1140,1427,131,José Báez,1.5,1977,1978,23-24,"San Cristobal, DOM",DOM,Hitter,18.4972887.7,-69.9619888.7
 1141,1428,132,Timo Pérez,1.5,2000,2007,25-32,"Bani, DOM",DOM,Hitter,18.4350075.7,-69.9490936.7
 1142,1429,133,Miguel Andújar,1.4,2017,2022,22-27,"San Cristobal, DOM",DOM,Hitter,18.4972887.8,-69.9619888.8
-1143,1430,134,Juan Francisco,1.4,2009,2014,22-27,"Bonao, DOM",DOM,Hitter,Unnamed: 1143,Unnamed: 1143
-1144,1431,135,César Puello,1.4,2017,2020,26-29,"La Romana, DOM",DOM,Hitter,Unnamed: 1144,Unnamed: 1144
-1145,1433,137,Pedro González,1.3,1963,1967,25-29,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1145,Unnamed: 1145
 1146,1434,138,Nomar Mazara,1.2,2016,2022,21-27,"Santo Domingo, DOM",DOM,Hitter,18.46128065.34,-69.91675188782874.34
 1147,1435,139,Erik González,1.2,2016,2022,24-30,"Puerto Plata, DOM",DOM,Hitter,18.5028514.2,-69.9140966.2
 1148,1436,140,Abraham Almonte,1.1,2013,2022,24-33,"Santo Domingo, DOM",DOM,Hitter,18.46128065.35,-69.91675188782874.35
@@ -1153,222 +711,107 @@
 1151,1439,143,Ángel Berroa,1.0,2001,2009,23-31,"Santo Domingo, DOM",DOM,Hitter,18.46128065.37,-69.91675188782874.37
 1152,1440,144,Rodolfo Castro,1.0,2021,2022,22-23,"Los Llanos, DOM",DOM,Hitter,18.4879003.1,-69.9712655.1
 1153,1441,145,Joaquín Árias,1.0,2006,2015,21-30,"Santo Domingo, DOM",DOM,Hitter,18.46128065.38,-69.91675188782874.38
-1154,1442,146,Pedro Ciriaco,0.9,2010,2015,24-29,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1154,Unnamed: 1154
 1155,1443,147,Félix Martínez,0.9,1997,2001,23-27,"Nagua, DOM",DOM,Hitter,18.4871794,-69.892788
 1156,1444,148,Abraham Núñez,0.9,1997,2008,21-32,"Santo Domingo, DOM",DOM,Hitter,18.46128065.39,-69.91675188782874.39
 1157,1445,149,Carlos Martínez,0.8,2013,2021,21-29,"Puerto Plata, DOM",DOM,Hitter,18.5028514.3,-69.9140966.3
 1158,1446,150,Ronald Guzmán,0.8,2018,2022,23-27,"La Vega, DOM",DOM,Hitter,45.5299657.1,4.9029879.1
-1159,1447,151,Jesús Alou,0.8,1963,1979,21-37,"Bajos de Haina, DOM",DOM,Hitter,Unnamed: 1159,Unnamed: 1159
 1160,1448,152,José Constanza,0.8,2011,2014,27-30,"Santo Domingo, DOM",DOM,Hitter,18.46128065.40,-69.91675188782874.40
-1161,1449,153,Raimel Tapia,0.8,2016,2022,22-28,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1161,Unnamed: 1161
-1162,1450,154,Francisco Peguero,0.7,2012,2013,24-25,"Nigua, DOM",DOM,Hitter,Unnamed: 1162,Unnamed: 1162
 1163,1451,155,Wilson Delgado,0.7,1996,2004,23-31,"San Cristobal, DOM",DOM,Hitter,18.4972887.9,-69.9619888.9
-1164,1452,156,Rudy Pemberton,0.7,1995,1997,25-27,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1164,Unnamed: 1164
 1165,1453,157,Jesús Tavárez,0.7,1994,1998,23-27,"Santo Domingo, DOM",DOM,Hitter,18.46128065.41,-69.91675188782874.41
 1166,1454,158,Víctor Díaz,0.7,2004,2007,22-25,"Santo Domingo, DOM",DOM,Hitter,18.46128065.42,-69.91675188782874.42
 1167,1455,159,Antonio Pérez,0.6,2003,2006,23-26,"Bani, DOM",DOM,Hitter,18.4350075.8,-69.9490936.8
 1168,1456,160,Jorge Sosa,0.6,2002,2010,24-32,"Santo Domingo, DOM",DOM,Hitter,18.46128065.43,-69.91675188782874.43
 1169,1457,161,Maikel Franco,0.6,2014,2022,21-29,"Azua, DOM",DOM,Hitter,18.4444541.1,-69.931869.1
-1170,1458,162,Carlos Pérez,0.6,1995,2000,24-29,"Nigua, DOM",DOM,Hitter,Unnamed: 1170,Unnamed: 1170
 1171,1459,163,Rafael Landestoy,0.6,1977,1984,24-31,"Bani, DOM",DOM,Hitter,18.4350075.9,-69.9490936.9
-1172,1460,164,Robinzon Díaz,0.5,2008,2009,24-25,"Monte Plata, DOM",DOM,Hitter,Unnamed: 1172,Unnamed: 1172
 1173,1461,165,Freddy Guzmán,0.5,2004,2013,23-32,"Santo Domingo, DOM",DOM,Hitter,18.46128065.44,-69.91675188782874.44
 1174,1463,167,Francisco Cabrera,0.5,1989,1993,22-26,"Santo Domingo, DOM",DOM,Hitter,18.46128065.45,-69.91675188782874.45
-1175,1464,168,Rafael Santana,0.4,1983,1990,25-32,"La Romana, DOM",DOM,Hitter,Unnamed: 1175,Unnamed: 1175
 1176,1465,169,Sam Mejias,0.4,1976,1981,24-29,"Santiago, DOM",DOM,Hitter,18.5048605.8,-69.8817293.8
 1177,1466,170,Gil Reyes,0.4,1983,1991,19-27,"Santo Domingo, DOM",DOM,Hitter,18.46128065.46,-69.91675188782874.46
-1178,1467,171,Norberto Martín,0.4,1993,1999,26-32,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1178,Unnamed: 1178
 1179,1468,172,Juan Pérez,0.4,2013,2015,26-28,"Santiago, DOM",DOM,Hitter,18.5048605.9,-69.8817293.9
 1180,1470,174,Pedro Borbón,0.3,1969,1980,22-33,"Mao, DOM",DOM,Hitter,18.4863613.1,-69.9011274.1
 1181,1471,175,Domingo Martínez,0.3,1992,1993,26-27,"Santo Domingo, DOM",DOM,Hitter,18.46128065.47,-69.91675188782874.47
 1182,1472,176,Esteban Yan,0.3,1996,2006,21-31,"Campina, DOM",DOM,Hitter,47.492020600000004,7.6209251065934
 1183,1473,177,Huascar Ynoa,0.3,2019,2022,21-24,"Puerto Plata, DOM",DOM,Hitter,18.5028514.4,-69.9140966.4
-1184,1474,178,Juan Bell,0.3,1989,1995,21-27,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1184,Unnamed: 1184
-1185,1475,179,Yermín Mercedes,0.3,2020,2022,27-29,"La Romana, DOM",DOM,Hitter,Unnamed: 1185,Unnamed: 1185
 1186,1476,180,Henry Mercedes,0.3,1992,1997,22-27,"Santo Domingo, DOM",DOM,Hitter,18.46128065.48,-69.91675188782874.48
 1187,1477,181,Luis Perdomo,0.3,2016,2022,23-29,"Santo Domingo, DOM",DOM,Hitter,18.46128065.49,-69.91675188782874.49
 1188,1478,182,Luis Barrera,0.3,2021,2022,25-26,"Tamboril, DOM",DOM,Hitter,-8.4122765,-37.0660514
 1189,1479,183,Manny Aybar,0.3,1997,2005,25-33,"Bani, DOM",DOM,Hitter,18.4350075.10,-69.9490936.10
 1190,1481,185,Richard Ureña,0.3,2017,2019,21-23,"San Francisco de Macoris, DOM",DOM,Hitter,18.4788104.3,-69.9053596.3
-1191,1482,186,Guillermo Mota,0.3,1999,2012,25-38,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1191,Unnamed: 1191
-1192,1484,188,Félix Rodríguez,0.2,1995,2006,22-33,"Monte Cristi, DOM",DOM,Hitter,Unnamed: 1192,Unnamed: 1192
 1193,1485,189,Wilmer Difo,0.2,2015,2022,23-30,"Santiago, DOM",DOM,Hitter,18.5048605.10,-69.8817293.10
 1194,1486,190,Anderson Tejeda,0.2,2020,2021,22-23,"Bani, DOM",DOM,Hitter,18.4350075.11,-69.9490936.11
 1195,1487,191,Eduardo Núñez,0.2,2010,2020,23-33,"Santo Domingo, DOM",DOM,Hitter,18.46128065.50,-69.91675188782874.50
-1196,1488,192,Jefry Marté,0.2,2015,2018,24-27,"La Romana, DOM",DOM,Hitter,Unnamed: 1196,Unnamed: 1196
 1197,1491,195,José Sosa,0.2,1975,1976,22-23,"Santo Domingo, DOM",DOM,Hitter,18.46128065.51,-69.91675188782874.51
-1198,1493,197,Elian Herrera,0.2,2012,2015,27-30,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1198,Unnamed: 1198
-1199,1495,199,Elvis Peña,0.2,2000,2001,23-24,"San Pedro de Macoris, DOM",DOM,Hitter,Unnamed: 1199,Unnamed: 1199
 1200,1496,200,Francisco Liriano,0.1,2005,2019,21-35,"San Cristobal, DOM",DOM,Hitter,18.4972887.10,-69.9619888.10
 1201,1497,1,Rafael Palmeiro,71.9,1986,2005,21-40,"La Habana, CUB",CUB,Hitter,23.0926744,-82.4534509
-1202,1498,2,Tony Pérez,54.0,1964,1986,22-44,"Camaguey, CUB",CUB,Hitter,Unnamed: 1202,Unnamed: 1202
-1203,1499,3,Minnie Miñoso,53.8,1946,1980,20-54,"Perico, CUB",CUB,Hitter,Unnamed: 1203,Unnamed: 1203
-1204,1500,4,Bert Campaneris,53.1,1964,1983,22-41,"Pueblo Nuevo, CUB",CUB,Hitter,Unnamed: 1204,Unnamed: 1204
-1205,1501,5,Tony Oliva,43.0,1962,1976,23-37,"Pinar del Rio, CUB",CUB,Hitter,Unnamed: 1205,Unnamed: 1205
 1206,1502,6,José Canseco,42.5,1985,2001,20-36,"La Habana, CUB",CUB,Hitter,23.0926744.1,-82.4534509.1
-1207,1503,7,José Abreu,31.9,2014,2022,27-35,"Cienfuegos, CUB",CUB,Hitter,Unnamed: 1207,Unnamed: 1207
-1208,1504,8,Leo Cardenas,27.2,1960,1975,21-36,"Matanzas, CUB",CUB,Hitter,Unnamed: 1208,Unnamed: 1208
-1209,1505,9,Tony González,27.0,1960,1971,23-34,"Central Cunagua, CUB",CUB,Hitter,Unnamed: 1209,Unnamed: 1209
 1210,1506,10,Yunel Escobar,26.8,2007,2017,24-34,"La Habana, CUB",CUB,Hitter,23.0926744.2,-82.4534509.2
-1211,1507,11,Cristóbal Torriente,25.9,1920,1932,26-38,"Cienfuegos, CUB",CUB,Hitter,Unnamed: 1211,Unnamed: 1211
-1212,1508,12,Tony Taylor,23.2,1958,1976,22-40,"Central Alava, CUB",CUB,Hitter,Unnamed: 1212,Unnamed: 1212
-1213,1509,13,Yoenis Céspedes,21.6,2012,2020,26-34,"Campechuela, CUB",CUB,Hitter,Unnamed: 1213,Unnamed: 1213
-1214,1510,14,Alexei Ramírez,21.4,2008,2016,26-34,"Pinar del Rio, CUB",CUB,Hitter,Unnamed: 1214,Unnamed: 1214
-1215,1511,15,José Cardenal,20.7,1963,1980,19-36,"Matanzas, CUB",CUB,Hitter,Unnamed: 1215,Unnamed: 1215
 1216,1512,16,Yasmani Grandal,20.3,2012,2022,23-33,"La Habana, CUB",CUB,Hitter,23.0926744.3,-82.4534509.3
-1217,1513,17,Yasiel Puig,18.6,2013,2019,22-28,"Cienfuegos, CUB",CUB,Hitter,Unnamed: 1217,Unnamed: 1217
-1218,1514,18,Yordan Alvarez,13.6,2019,2022,22-25,"Las Tunas, CUB",CUB,Hitter,Unnamed: 1218,Unnamed: 1218
-1219,1515,19,Yoán Moncada,13.4,2016,2022,21-27,"Cienfuegos, CUB",CUB,Hitter,Unnamed: 1219,Unnamed: 1219
-1220,1516,20,Yuli Gurriel,13.4,2016,2022,32-38,"Sancti Spiritus, CUB",CUB,Hitter,Unnamed: 1220,Unnamed: 1220
-1221,1517,21,Kendrys Morales,13.3,2006,2019,23-36,"Fomento, CUB",CUB,Hitter,Unnamed: 1221,Unnamed: 1221
-1222,1518,22,Bobby Estalella,13.1,1935,1949,24-38,"Cardenas, CUB",CUB,Hitter,Unnamed: 1222,Unnamed: 1222
 1223,1519,23,Zoilo Versalles,12.6,1959,1971,19-31,"La Habana, CUB",CUB,Hitter,23.0926744.4,-82.4534509.4
-1224,1520,24,Martín Dihigo,12.6,1923,1945,18-40,"Cidra, CUB",CUB,Hitter,Unnamed: 1224,Unnamed: 1224
 1225,1521,25,Tito Fuentes,11.7,1965,1978,23-36,"La Habana, CUB",CUB,Hitter,23.0926744.5,-82.4534509.5
 1226,1522,26,José Iglesias,11.7,2011,2022,21-32,"La Habana, CUB",CUB,Hitter,23.0926744.6,-82.4534509.6
-1227,1523,27,Leonys Martín,11.5,2011,2019,23-31,"Villa Clara, CUB",CUB,Hitter,Unnamed: 1227,Unnamed: 1227
-1228,1524,28,Valentín Dreke,11.2,1920,1927,22-29,"Union de Reyes, CUB",CUB,Hitter,Unnamed: 1228,Unnamed: 1228
 1229,1525,29,Mike González,9.4,1912,1932,21-41,"La Habana, CUB",CUB,Hitter,23.0926744.7,-82.4534509.7
 1230,1526,30,Cookie Rojas,9.1,1962,1977,23-38,"La Habana, CUB",CUB,Hitter,23.0926744.8,-82.4534509.8
 1231,1527,31,Alejandro Oms,9.0,1923,1935,27-39,"Santa Clara, CUB",CUB,Hitter,37.3787267,-122.07084
-1232,1528,32,Joe Azcue,8.6,1960,1972,20-32,"Cienfuegos, CUB",CUB,Hitter,Unnamed: 1232,Unnamed: 1232
 1233,1529,33,Aledmys Díaz,8.5,2016,2022,25-31,"Santa Clara, CUB",CUB,Hitter,37.3787267.1,-122.07084.1
-1234,1530,34,Yandy Díaz,8.2,2017,2022,25-30,"Sagua la Grande, CUB",CUB,Hitter,Unnamed: 1234,Unnamed: 1234
 1235,1531,35,Yonder Alonso,8.1,2010,2019,23-32,"La Habana, CUB",CUB,Hitter,23.0926744.9,-82.4534509.9
 1236,1532,36,Randy Arozarena,8.0,2019,2022,24-27,"La Habana, CUB",CUB,Hitter,23.0926744.10,-82.4534509.10
-1237,1533,37,Lourdes Gurriel Jr.,8.0,2018,2022,24-28,"Sancti Spiritus, CUB",CUB,Hitter,Unnamed: 1237,Unnamed: 1237
-1238,1534,38,Luis Robert,7.5,2020,2022,22-24,"Ciego de Avila, CUB",CUB,Hitter,Unnamed: 1238,Unnamed: 1238
-1239,1535,39,Sandy Amoros,7.3,1952,1960,22-30,"Matanzas, CUB",CUB,Hitter,Unnamed: 1239,Unnamed: 1239
-1240,1536,40,Adolis García,6.9,2018,2022,25-29,"Ciego de Avila, CUB",CUB,Hitter,Unnamed: 1240,Unnamed: 1240
-1241,1537,41,Liván Hernández,5.2,1996,2012,21-37,"Villa Clara, CUB",CUB,Hitter,Unnamed: 1241,Unnamed: 1241
 1242,1538,42,Adeiny Hechavarría,5.1,2012,2020,23-31,"Santiago de Cuba, CUB",CUB,Hitter,38.223330950000005,-7.845041730853854
 1243,1539,43,Ángel Alfonso,5.0,1924,1930,23-29,"La Habana, CUB",CUB,Hitter,23.0926744.11,-82.4534509.11
 1244,1540,44,Eli Marrero,4.9,1997,2006,23-32,"La Habana, CUB",CUB,Hitter,23.0926744.12,-82.4534509.12
-1245,1541,45,Bernardo Baró,4.5,1920,1929,24-33,"Cardenas, CUB",CUB,Hitter,Unnamed: 1245,Unnamed: 1245
-1246,1542,46,Silvio García,4.3,1936,1947,22-33,"Limonar, CUB",CUB,Hitter,Unnamed: 1246,Unnamed: 1246
 1247,1543,47,Dolf Luque,4.3,1914,1935,23-44,"La Habana, CUB",CUB,Hitter,23.0926744.13,-82.4534509.13
 1248,1544,48,Jorge Soler,4.0,2014,2022,22-30,"La Habana, CUB",CUB,Hitter,23.0926744.14,-82.4534509.14
 1249,1545,49,Camilo Pascual,3.4,1954,1971,20-37,"La Habana, CUB",CUB,Hitter,23.0926744.15,-82.4534509.15
 1250,1546,50,Mike Herrera,3.4,1920,1928,22-30,"La Habana, CUB",CUB,Hitter,23.0926744.16,-82.4534509.16
-1251,1547,51,Bienvenido Jiménez,3.2,1920,1929,30-39,"Cienfuegos, CUB",CUB,Hitter,Unnamed: 1251,Unnamed: 1251
-1252,1548,52,Armando Marsans,2.8,1911,1918,23-30,"Matanzas, CUB",CUB,Hitter,Unnamed: 1252,Unnamed: 1252
-1253,1549,53,Guillermo Heredia,2.8,2016,2022,25-31,"Matanzas, CUB",CUB,Hitter,Unnamed: 1253,Unnamed: 1253
-1254,1550,54,Esteban Montalvo,2.7,1923,1928,27-32,"Matanzas, CUB",CUB,Hitter,Unnamed: 1254,Unnamed: 1254
 1255,1551,55,Pelayo Chacón,2.6,1923,1927,34-38,"La Habana, CUB",CUB,Hitter,23.0926744.17,-82.4534509.17
-1256,1552,56,Pancho Herrera,2.5,1958,1961,24-27,"Santiago de las Vegas, CUB",CUB,Hitter,Unnamed: 1256,Unnamed: 1256
-1257,1553,57,Julio Rojo,2.4,1923,1929,29-35,"Sagua la Grande, CUB",CUB,Hitter,Unnamed: 1257,Unnamed: 1257
 1258,1554,58,Lázaro Salazar,2.4,1930,1936,17-23,"La Habana, CUB",CUB,Hitter,23.0926744.18,-82.4534509.18
-1259,1555,59,José Méndez,2.2,1920,1926,35-41,"Cardenas, CUB",CUB,Hitter,Unnamed: 1259,Unnamed: 1259
 1260,1556,60,Nap Reyes,2.0,1943,1950,23-30,"Santiago de Cuba, CUB",CUB,Hitter,38.223330950000005.1,-7.845041730853854.1
-1261,1557,61,Pedro Díaz,1.9,1930,1932,20-22,"Bauta, CUB",CUB,Hitter,Unnamed: 1261,Unnamed: 1261
-1262,1558,62,Lucas Boada,1.8,1921,1924,28-31,"Matanzas, CUB",CUB,Hitter,Unnamed: 1262,Unnamed: 1262
 1263,1559,63,Andy Ibáñez,1.8,2021,2022,28-29,"La Habana, CUB",CUB,Hitter,23.0926744.19,-82.4534509.19
 1264,1560,64,Reinaldo Drake,1.6,1945,1948,22-25,"La Habana, CUB",CUB,Hitter,23.0926744.20,-82.4534509.20
-1265,1561,65,Rusney Castillo,1.6,2014,2016,26-28,"Ciego de Avila, CUB",CUB,Hitter,Unnamed: 1265,Unnamed: 1265
-1266,1562,66,Lorenzo Cabrera,1.5,1947,1948,27-28,"Cienfuegos, CUB",CUB,Hitter,Unnamed: 1266,Unnamed: 1266
-1267,1563,67,Nelson Santovenia,1.5,1987,1993,25-31,"Pinar del Rio, CUB",CUB,Hitter,Unnamed: 1267,Unnamed: 1267
-1268,1564,68,Basilio Rosell,1.4,1926,1929,24-27,"Los Arabos, CUB",CUB,Hitter,Unnamed: 1268,Unnamed: 1268
-1269,1566,70,Pablo Mesa,1.3,1923,1927,25-29,"Caibarien, CUB",CUB,Hitter,Unnamed: 1269,Unnamed: 1269
 1270,1567,71,Paul Casanova,1.3,1965,1974,23-32,"Colon, CUB",CUB,Hitter,38.1658588,-7.8917556
 1271,1568,72,Miguel de la Hoz,1.3,1960,1969,21-30,"La Habana, CUB",CUB,Hitter,23.0926744.21,-82.4534509.21
 1272,1570,74,Bartolo Portuondo,1.2,1920,1927,26-33,"La Habana, CUB",CUB,Hitter,23.0926744.22,-82.4534509.22
 1273,1571,75,Clemente Carreras,1.2,1940,1941,26-27,"La Habana, CUB",CUB,Hitter,23.0926744.23,-82.4534509.23
 1274,1572,76,Rey Ordóñez,1.2,1996,2004,25-33,"La Habana, CUB",CUB,Hitter,23.0926744.24,-82.4534509.24
-1275,1573,77,Ray Noble,1.2,1945,1953,26-34,"Central Hatillo, CUB",CUB,Hitter,Unnamed: 1275,Unnamed: 1275
-1276,1574,78,Felipe Sierra,1.2,1922,1930,20-28,"Sagua la Grande, CUB",CUB,Hitter,Unnamed: 1276,Unnamed: 1276
-1277,1575,79,Alejandro Crespo,1.2,1940,1946,25-31,"Guira de Melena, CUB",CUB,Hitter,Unnamed: 1277,Unnamed: 1277
 1278,1576,80,José Fernández,1.2,2013,2016,20-23,"Santa Clara, CUB",CUB,Hitter,37.3787267.2,-122.07084.2
-1279,1577,81,Dayán Viciedo,1.1,2010,2014,21-25,"Remedios, CUB",CUB,Hitter,Unnamed: 1279,Unnamed: 1279
-1280,1578,82,Cleveland Clark,1.1,1945,1948,25-28,"Victoria de las Tunas, CUB",CUB,Hitter,Unnamed: 1280,Unnamed: 1280
-1281,1579,83,Javier Pérez,1.1,1934,1945,32-43,"San Antonio de los Banos, CUB",CUB,Hitter,Unnamed: 1281,Unnamed: 1281
 1282,1580,84,Álex Sánchez,1.1,2001,2005,24-28,"La Habana, CUB",CUB,Hitter,23.0926744.25,-82.4534509.25
 1283,1581,85,José Colás,1.1,1947,1948,23-24,"La Habana, CUB",CUB,Hitter,23.0926744.26,-82.4534509.26
-1284,1582,86,Román Mejias,1.1,1955,1964,24-33,"Abreus, CUB",CUB,Hitter,Unnamed: 1284,Unnamed: 1284
 1285,1583,87,Anastasio Santaella,1.1,1935,1936,32-33,"La Habana, CUB",CUB,Hitter,23.0926744.27,-82.4534509.27
 1286,1584,88,José Pérez,1.0,1923,1929,24-30,"Marianao, CUB",CUB,Hitter,23.0926744.28,-82.4534509.28
-1287,1585,89,Héctor Rodríguez,1.0,1944,1952,24-32,"Alquizar, CUB",CUB,Hitter,Unnamed: 1287,Unnamed: 1287
 1288,1586,90,Rafael Almeida,1.0,1911,1913,24-26,"La Habana, CUB",CUB,Hitter,23.0926744.29,-82.4534509.29
 1289,1587,91,Fernando Díaz,0.9,1945,1947,21-23,"Marianao, CUB",CUB,Hitter,23.0926744.30,-82.4534509.30
 1290,1588,92,Leovigildo Xiqués,0.8,1944,1947,26-29,"La Habana, CUB",CUB,Hitter,23.0926744.31,-82.4534509.31
-1291,1589,93,Marcelino Guerra,0.8,1920,1924,30-34,"Union de Reyes, CUB",CUB,Hitter,Unnamed: 1291,Unnamed: 1291
-1292,1590,94,José Leblanc,0.8,1920,1921,26-27,"Cienfuegos, CUB",CUB,Hitter,Unnamed: 1292,Unnamed: 1292
-1293,1591,95,Merito Acosta,0.7,1913,1918,17-22,"Bauta, CUB",CUB,Hitter,Unnamed: 1293,Unnamed: 1293
 1294,1593,97,Pedro Arango,0.6,1925,1939,23-37,"La Habana, CUB",CUB,Hitter,23.0926744.32,-82.4534509.32
 1295,1594,98,Cando López,0.6,1926,1939,20-33,"La Habana, CUB",CUB,Hitter,23.0926744.33,-82.4534509.33
 1296,1596,100,Francisco Correa,0.6,1926,1936,21-31,"La Habana, CUB",CUB,Hitter,23.0926744.34,-82.4534509.34
-1297,1597,101,Diego Seguí,0.6,1962,1977,24-39,"Holguin, CUB",CUB,Hitter,Unnamed: 1297,Unnamed: 1297
-1298,1598,102,José Martínez,0.6,1969,1970,26-27,"Cardenas, CUB",CUB,Hitter,Unnamed: 1298,Unnamed: 1298
-1299,1599,103,Heberto Blanco,0.5,1941,1942,20-21,"Bayamo, CUB",CUB,Hitter,Unnamed: 1299,Unnamed: 1299
 1300,1600,104,Marcelino López,0.5,1963,1972,19-28,"La Habana, CUB",CUB,Hitter,23.0926744.35,-82.4534509.35
 1301,1601,105,Raúl Valdés,0.5,2010,2014,32-36,"La Habana, CUB",CUB,Hitter,23.0926744.36,-82.4534509.36
-1302,1602,106,Claro Duany,0.5,1944,1947,26-29,"Caibarien, CUB",CUB,Hitter,Unnamed: 1302,Unnamed: 1302
-1303,1603,107,Heliodoro Díaz,0.5,1926,1935,21-30,"Puerto Padre, CUB",CUB,Hitter,Unnamed: 1303,Unnamed: 1303
-1304,1604,108,Ramón Heredia,0.5,1939,1941,22-24,"Matanzas, CUB",CUB,Hitter,Unnamed: 1304,Unnamed: 1304
-1305,1605,109,Yadiel Hernández,0.4,2020,2022,32-34,"Matanzas, CUB",CUB,Hitter,Unnamed: 1305,Unnamed: 1305
 1306,1606,110,Ramón Hernández,0.4,1929,1930,22-23,"La Habana, CUB",CUB,Hitter,23.0926744.37,-82.4534509.37
 1307,1607,111,Luis Tiant,0.4,1964,1982,23-41,"Marianao, CUB",CUB,Hitter,23.0926744.38,-82.4534509.38
-1308,1608,112,José María Fernández,0.4,1923,1944,27-48,"Guanabacoa, CUB",CUB,Hitter,Unnamed: 1308,Unnamed: 1308
-1309,1609,113,Armando Vázquez,0.4,1944,1948,22-26,"Guines, CUB",CUB,Hitter,Unnamed: 1309,Unnamed: 1309
 1310,1612,116,René Monteagudo,0.4,1938,1945,22-29,"La Habana, CUB",CUB,Hitter,23.0926744.39,-82.4534509.39
-1311,1614,118,Pedro Dibut,0.3,1923,1925,30-32,"Cienfuegos, CUB",CUB,Hitter,Unnamed: 1311,Unnamed: 1311
 1312,1616,120,Jesús Lorenzo,0.3,1929,1930,23-24,"La Habana, CUB",CUB,Hitter,23.0926744.40,-82.4534509.40
 1313,1618,122,Cándido Gálvez,0.3,1929,1932,28-31,"La Habana, CUB",CUB,Hitter,23.0926744.41,-82.4534509.41
-1314,1619,123,Cocaína García,0.3,1927,1935,21-29,"Manacas, CUB",CUB,Hitter,Unnamed: 1314,Unnamed: 1314
 1315,1623,127,Sandy Ullrich,0.2,1944,1945,22-23,"La Habana, CUB",CUB,Hitter,23.0926744.42,-82.4534509.42
 1316,1627,131,Agustín Parpetti,0.2,1921,1923,34-36,"La Habana, CUB",CUB,Hitter,23.0926744.43,-82.4534509.43
 1317,1628,132,Óscar Tuero,0.2,1918,1920,24-26,"La Habana, CUB",CUB,Hitter,23.0926744.44,-82.4534509.44
 1318,1629,133,Brayan Peña,0.2,2005,2016,23-34,"La Habana, CUB",CUB,Hitter,23.0926744.45,-82.4534509.45
 1319,1634,138,Barbaro Garbey,0.2,1984,1988,27-31,"Santiago de Cuba, CUB",CUB,Hitter,38.223330950000005.2,-7.845041730853854.2
-1320,1635,139,Gil Torres,0.2,1940,1946,24-30,"Regla, CUB",CUB,Hitter,Unnamed: 1320,Unnamed: 1320
-1321,1636,140,José Vargas,0.2,1939,1944,34-39,"Manzanillo, CUB",CUB,Hitter,Unnamed: 1321,Unnamed: 1321
-1322,1638,142,Emilio Palmero,0.1,1915,1928,20-33,"Guanabacoa, CUB",CUB,Hitter,Unnamed: 1322,Unnamed: 1322
 1323,1640,144,Earl Ashby,0.1,1945,1948,24-27,"La Habana, CUB",CUB,Hitter,23.0926744.46,-82.4534509.46
-1324,1641,145,Héctor Martínez,0.1,1962,1963,23-24,"Las Villas, CUB",CUB,Hitter,Unnamed: 1324,Unnamed: 1324
 1325,1642,146,Johan Oviedo,0.1,2020,2022,22-24,"La Habana, CUB",CUB,Hitter,23.0926744.47,-82.4534509.47
-1326,1643,147,Rafael Cabrera,0.1,1944,1948,19-23,"Guane, CUB",CUB,Hitter,Unnamed: 1326,Unnamed: 1326
 1327,1644,148,Chico Ruiz,0.1,1964,1971,25-32,"Santo Domingo, CUB",CUB,Hitter,18.4682627,-69.9275823
-1328,1645,149,Dariel Álvarez,0.1,2015,2016,26-27,"Camaguey, CUB",CUB,Hitter,Unnamed: 1328,Unnamed: 1328
-1329,1647,151,Lázaro Medina,0.1,1944,1945,21-22,"Quivican, CUB",CUB,Hitter,Unnamed: 1329,Unnamed: 1329
-1330,1648,152,Bobby Ramos,0.1,1978,1984,22-28,"Calabazar de Sagua, CUB",CUB,Hitter,Unnamed: 1330,Unnamed: 1330
-1331,1651,155,Pedro Miró,0.1,1945,1948,22-25,"Alquizar, CUB",CUB,Hitter,Unnamed: 1331,Unnamed: 1331
-1332,1652,156,Aurelio Monteagudo,0.1,1963,1973,19-29,"Caibarien, CUB",CUB,Hitter,Unnamed: 1332,Unnamed: 1332
-1333,1657,161,Manuel Cueto,0.1,1914,1919,22-27,"Guanajay, CUB",CUB,Hitter,Unnamed: 1333,Unnamed: 1333
 1334,1659,163,George Lauzerique,0.1,1967,1970,19-22,"La Habana, CUB",CUB,Hitter,23.0926744.48,-82.4534509.48
 1335,1661,165,Raúl Sánchez,0.1,1952,1960,21-29,"Marianao, CUB",CUB,Hitter,23.0926744.49,-82.4534509.49
 1336,1662,166,Vicente Amor,0.0,1955,1957,22-24,"La Habana, CUB",CUB,Hitter,23.0926744.50,-82.4534509.50
-1337,1664,168,Benito Calderón,0.0,1926,1927,24-25,"Cienfuegos, CUB",CUB,Hitter,Unnamed: 1337,Unnamed: 1337
-1338,1666,170,Adrián Zabala,0.0,1945,1949,28-32,"San Antonio de los Banos, CUB",CUB,Hitter,Unnamed: 1338,Unnamed: 1338
-1339,1667,171,Orlando Hernández,0.0,1998,2007,32-41,"Villa Clara, CUB",CUB,Hitter,Unnamed: 1339,Unnamed: 1339
 1340,1674,178,Michael Tejera,0.0,1999,2005,22-28,"La Habana, CUB",CUB,Hitter,23.0926744.51,-82.4534509.51
 1341,1676,180,Ed Bauta,0.0,1960,1964,25-29,"Florida, CUB",CUB,Hitter,29.0365836,-81.3019019096829
 1342,1679,183,Michel Báez,0.0,2019,2022,23-26,"La Habana, CUB",CUB,Hitter,23.0926744.52,-82.4534509.52
-1343,1680,184,Danys Báez,0.0,2001,2011,23-33,"Pinar del Rio, CUB",CUB,Hitter,Unnamed: 1343,Unnamed: 1343
 1344,1681,185,Francisley Bueno,0.0,2008,2014,27-33,"La Habana, CUB",CUB,Hitter,23.0926744.53,-82.4534509.53
 1345,1682,186,Frank Campos,0.0,1951,1953,27-29,"La Habana, CUB",CUB,Hitter,23.0926744.54,-82.4534509.54
 1346,1683,187,Alberto Castillo,0.0,2008,2011,32-35,"La Habana, CUB",CUB,Hitter,23.0926744.55,-82.4534509.55
-1347,1685,189,Onelki García,0.0,2013,2017,23-27,"Guantanamo, CUB",CUB,Hitter,Unnamed: 1347,Unnamed: 1347
-1348,1688,192,Dalier Hinojosa,0.0,2015,2016,29-30,"Isla de la Juventud, CUB",CUB,Hitter,Unnamed: 1348,Unnamed: 1348
-1349,1690,194,Yoan López,0.0,2018,2022,25-29,"Nueva Gerona, CUB",CUB,Hitter,Unnamed: 1349,Unnamed: 1349
 1350,1695,199,Eddie Oropesa,0.0,2001,2004,29-32,"Colon, CUB",CUB,Hitter,38.1658588.1,-7.8917556.1
 1351,1697,1,Chito Martinez,2.2,1991,1993,25-27,"Belize, BLZ",BLZ,Hitter,16.8259793,-88.7600927
-1352,1703,1,Tom Mastny,0.0,2006,2008,25-27,"East Bontang, IDN",IDN,Hitter,Unnamed: 1352,Unnamed: 1352
-1353,1704,1,Jack Doyle,25.9,1889,1905,19-35,"Killorglin, IRL",IRL,Hitter,Unnamed: 1353,Unnamed: 1353
-1354,1705,2,Patsy Donovan,18.4,1890,1907,25-42,"Queenstown, IRL",IRL,Hitter,Unnamed: 1354,Unnamed: 1354
 1355,1706,3,Jimmy Archer,10.3,1904,1918,21-35,"Dublin, IRL",IRL,Hitter,53.328274,-6.2768521
-1356,1709,6,Jimmy Walsh,5.8,1912,1917,24-29,"Rathroe, IRL",IRL,Hitter,Unnamed: 1356,Unnamed: 1356
-1357,1710,7,Tony Mullane,5.6,1881,1894,22-35,"Cork, IRL",IRL,Hitter,Unnamed: 1357,Unnamed: 1357
-1358,1711,8,Mike Muldoon,3.9,1882,1886,26-30,"Ballyloughloe, IRL",IRL,Hitter,Unnamed: 1358,Unnamed: 1358
-1359,1712,9,Curry Foley,3.8,1879,1883,23-27,"Milltown, IRL",IRL,Hitter,Unnamed: 1359,Unnamed: 1359
-1360,1714,11,Jocko Fields,3.2,1887,1892,22-27,"Cork, IRL",IRL,Hitter,Unnamed: 1360,Unnamed: 1360
-1361,1716,13,Mike O'Neill,2.5,1901,1907,23-29,"Maam, IRL",IRL,Hitter,Unnamed: 1361,Unnamed: 1361
-1362,1719,16,Jack O'Neill,0.4,1902,1906,29-33,"Galway, IRL",IRL,Hitter,Unnamed: 1362,Unnamed: 1362
 1363,1720,17,Con Lucid,0.2,1893,1897,19-23,"Dublin, IRL",IRL,Hitter,53.328274.1,-6.2768521.1
-1364,1732,29,Tommy Bond,-0.1,1874,1884,18-28,"Granard, IRL",IRL,Hitter,Unnamed: 1364,Unnamed: 1364
-1365,1736,33,Cyclone Ryan,-0.2,1887,1891,21-25,"Capperwhite, IRL",IRL,Hitter,Unnamed: 1365,Unnamed: 1365
 1366,1737,34,Bill Collins,-0.3,1887,1892,24-29,"Dublin, IRL",IRL,Hitter,53.328274.2,-6.2768521.2
-1367,1747,44,Andy Cusick,-2.3,1884,1887,26-29,"Limerick, IRL",IRL,Hitter,Unnamed: 1367,Unnamed: 1367
-1368,1750,47,Tom Dowse,-3.2,1890,1892,23-25,"Mohill, IRL",IRL,Hitter,Unnamed: 1368,Unnamed: 1368
-1369,1751,1,Jeff Bronkey,0.0,1993,1995,27-29,"Kabul, AFG",AFG,Hitter,Unnamed: 1369,Unnamed: 1369
 1370,1752,1,Bobby Avila,28.4,1949,1959,25-35,"Veracruz, MEX",MEX,Hitter,19.5685916,-99.0659791
 1371,1753,2,Vinny Castilla,19.3,1991,2006,23-38,"Oaxaca, MEX",MEX,Hitter,19.5902906,-99.0196352
 1372,1754,3,Aurelio Rodríguez,15.1,1967,1983,19-35,"Cananea, MEX",MEX,Hitter,30.9969922,-110.2888663
@@ -1388,7 +831,6 @@
 1386,1768,17,Carlos López,1.6,1976,1978,27-29,"Mazatlan, MEX",MEX,Hitter,23.16484775.1,-106.26951604534133.1
 1387,1769,18,Luis Cruz,1.4,2008,2013,24-29,"Navojoa, MEX",MEX,Hitter,19.4244934.1,-98.88112.1
 1388,1771,20,Mel Almada,1.1,1933,1939,20-26,"Huatabampo, MEX",MEX,Hitter,26.6701542,-109.2383748
-1389,1772,21,Gerónimo Gil,1.1,2001,2007,25-31,"Estacion Lagunas, MEX",MEX,Hitter,Unnamed: 1389,Unnamed: 1389
 1390,1773,22,Ramiro Peña,1.0,2009,2016,23-30,"Monterrey, MEX",MEX,Hitter,19.6350115.1,-99.0879075.1
 1391,1774,23,Jesse Flores,0.7,1942,1950,27-35,"Guadalajara, MEX",MEX,Hitter,19.4232374.1,-98.8868808.1
 1392,1775,24,Carlos Rodríguez,0.6,1991,1995,23-27,"Mexico, MEX",MEX,Hitter,19.4839446,-99.6899716
@@ -1477,7 +919,6 @@
 1475,1882,131,Chile Gómez,-3.6,1935,1942,26-33,"Mazatlan, MEX",MEX,Hitter,23.16484775.3,-106.26951604534133.3
 1476,1883,132,Luis Gómez,-4.3,1974,1981,22-29,"Guadalajara, MEX",MEX,Hitter,19.4232374.3,-98.8868808.3
 1477,1884,133,Juan Castro,-5.4,1995,2011,23-39,"Los Mochis, MEX",MEX,Hitter,19.2681997.4,-98.8307063.4
-1478,1897,1,Olaf Henriksen,1.8,1911,1917,23-29,"Kirkerup, DNK",DNK,Hitter,Unnamed: 1478,Unnamed: 1478
 1479,1899,1,Austin Brice,-0.1,2016,2022,24-30,"Hong Kong, HKG",HKG,Hitter,22.3125986,113.91732378641939
 1480,1377,1,Cy Young,165.6,1890,1911,23-44,"Gilmore, OH",USA,Pitcher,40.2909018,-81.4403921
 1481,1378,2,Walter Johnson,152.3,1907,1927,19-39,"Humboldt, KS",USA,Pitcher,37.8105961,-95.4369264
@@ -1794,18 +1235,15 @@
 1792,1729,18,Junichi Tazawa,2.2,2009,2018,23-32,"Yokohama, JPN",JPN,Pitcher,35.444991.1,139.636768.1
 1793,1730,19,Shingo Takatsu,2.1,2004,2005,35-36,"Hiroshima, JPN",JPN,Pitcher,34.3916058.2,132.4518156.2
 1794,1731,20,Tsuyoshi Wada,1.9,2014,2015,33-34,"Izumo, JPN",JPN,Pitcher,35.3668891.1,132.7548827.1
-1795,1732,21,Masanori Murakami,1.6,1964,1965,20-21,"Kita Tsuru-gun, JPN",JPN,Pitcher,Unnamed: 1795,Unnamed: 1795
 1796,1733,22,Hirokazu Sawamura,1.4,2021,2022,33-34,"Tochigi, JPN",JPN,Pitcher,36.6782167.1,139.8096549.1
 1797,1734,23,Kenshin Kawakami,1.2,2009,2010,34-35,"Tokushima, JPN",JPN,Pitcher,33.9196418.1,134.2509634.1
 1798,1735,24,Hisanori Takahashi,1.0,2010,2013,35-38,"Tokyo, JPN",JPN,Pitcher,35.6828387.6,139.7594549.6
 1799,1736,25,Yusei Kikuchi,0.9,2019,2022,28-31,"Morioka, JPN",JPN,Pitcher,39.7021331.1,141.1545397.1
-1800,1737,26,Keiichi Yabu,0.8,2005,2008,36-39,"Minami Muro-gun, JPN",JPN,Pitcher,Unnamed: 1800,Unnamed: 1800
 1801,1738,27,Yoshihisa Hirano,0.6,2018,2020,34-36,"Uji, JPN",JPN,Pitcher,34.8933744.1,135.8059219.1
 1802,1740,29,Steve Chitren,0.4,1990,1991,23-24,"Tokyo, JPN",JPN,Pitcher,35.6828387.7,139.7594549.7
 1803,1741,30,Kazuhisa Ishii,0.3,2002,2005,28-31,"Chiba, JPN",JPN,Pitcher,35.549399.4,140.2647303.4
 1804,1742,31,Kazuhito Tadano,0.2,2004,2005,24-25,"Tokyo, JPN",JPN,Pitcher,35.6828387.8,139.7594549.8
 1805,1743,32,Mac Suzuki,0.2,1996,2002,21-27,"Kobe, JPN",JPN,Pitcher,34.6932379.3,135.1943764.3
-1806,1745,34,Ichiro Suzuki,0.0,2001,2019,27-45,"Nichi Kasugai-gun, JPN",JPN,Pitcher,Unnamed: 1806,Unnamed: 1806
 1807,1746,35,Nori Aoki,-0.1,2012,2017,30-35,"Hyuga, JPN",JPN,Pitcher,32.4225483.1,131.6244443.1
 1808,1748,37,Masahide Kobayashi,-0.2,2008,2009,34-35,"Otsuki, JPN",JPN,Pitcher,35.643042.1,138.916862.1
 1809,1750,39,Steve Randolph,-0.3,2003,2007,29-33,"Okinawa, JPN",JPN,Pitcher,26.5707754.1,128.0255901.1
@@ -1818,197 +1256,97 @@
 1816,1762,51,Micheal Nakamura,-0.9,2003,2004,26-27,"Nara, JPN",JPN,Pitcher,34.2963089.2,135.8816819.2
 1817,1764,53,Ryota Igarashi,-1.4,2010,2012,31-33,"Chiba, JPN",JPN,Pitcher,35.549399.5,140.2647303.5
 1818,1765,54,Kohei Arihara,-1.5,2021,2022,28-29,"Hiroshima, JPN",JPN,Pitcher,34.3916058.3,132.4518156.3
-1819,1766,1,Johan Santana,51.1,2000,2012,21-33,"Tovar, VEN",VEN,Pitcher,Unnamed: 1819,Unnamed: 1819
 1820,1767,2,Félix Hernández,49.9,2005,2019,19-33,"Valencia, VEN",VEN,Pitcher,38.3639982.19,-0.4319972.19
-1821,1768,3,Carlos Zambrano,38.3,2001,2012,20-31,"Puerto Cabello, VEN",VEN,Pitcher,Unnamed: 1821,Unnamed: 1821
 1822,1769,4,Freddy García,34.4,1999,2013,22-36,"Caracas, VEN",VEN,Pitcher,10.49580205.29,-66.88148465866983.29
-1823,1770,5,Aníbal Sánchez,30.0,2006,2022,22-38,"Maracay, VEN",VEN,Pitcher,Unnamed: 1823,Unnamed: 1823
 1824,1771,6,Wilson Álvarez,25.0,1989,2005,19-35,"Maracaibo, VEN",VEN,Pitcher,45.5238046.15,12.7029242.15
 1825,1772,7,Kelvim Escobar,24.6,1997,2009,21-33,"La Guaira, VEN",VEN,Pitcher,10.603342.3,-67.0280938.3
 1826,1773,8,Francisco Rodríguez,24.2,2002,2017,20-35,"Caracas, VEN",VEN,Pitcher,10.49580205.30,-66.88148465866983.30
-1827,1774,9,Carlos Carrasco,21.9,2009,2022,22-35,"Barquisimeto, VEN",VEN,Pitcher,Unnamed: 1827,Unnamed: 1827
 1828,1775,10,Jhoulys Chacín,18.2,2009,2022,21-34,"Maracaibo, VEN",VEN,Pitcher,45.5238046.16,12.7029242.16
-1829,1776,11,Germán Márquez,15.7,2016,2022,21-27,"San Felix, VEN",VEN,Pitcher,Unnamed: 1829,Unnamed: 1829
 1830,1777,12,Eduardo Rodriguez,14.5,2015,2022,22-29,"Valencia, VEN",VEN,Pitcher,38.3639982.20,-0.4319972.20
 1831,1778,13,Rafael Betancourt,14.1,2003,2015,28-40,"Cumana, VEN",VEN,Pitcher,45.6330719.1,11.6381815.1
 1832,1779,14,Ugueth Urbina,13.3,1995,2005,21-31,"Caracas, VEN",VEN,Pitcher,10.49580205.31,-66.88148465866983.31
-1833,1780,15,Martín Pérez,12.9,2012,2022,21-31,"Guanare, VEN",VEN,Pitcher,Unnamed: 1833,Unnamed: 1833
-1834,1781,16,Luis Leal,10.6,1980,1985,23-28,"Barquisimeto, VEN",VEN,Pitcher,Unnamed: 1834,Unnamed: 1834
 1835,1782,17,Yusmeiro Petit,9.6,2006,2021,21-36,"Maracaibo, VEN",VEN,Pitcher,45.5238046.17,12.7029242.17
 1836,1783,18,Carlos Silva,9.0,2002,2010,23-31,"Bolivar, VEN",VEN,Pitcher,45.4902185,12.6032331
-1837,1784,19,Pablo López,8.5,2018,2022,22-26,"Cabimas, VEN",VEN,Pitcher,Unnamed: 1837,Unnamed: 1837
-1838,1785,20,Tony Armas,8.3,1999,2008,21-30,"Puerto Piritu, VEN",VEN,Pitcher,Unnamed: 1838,Unnamed: 1838
-1839,1786,21,Felipe Vázquez,8.3,2015,2019,23-27,"San Felipe, VEN",VEN,Pitcher,Unnamed: 1839,Unnamed: 1839
-1840,1787,22,Ranger Suárez,8.2,2018,2022,22-26,"Piedecuesta, VEN",VEN,Pitcher,Unnamed: 1840,Unnamed: 1840
 1841,1788,23,Henderson Alvarez III,7.8,2011,2017,21-27,"Valencia, VEN",VEN,Pitcher,38.3639982.21,-0.4319972.21
 1842,1789,24,Omar Daal,7.4,1993,2003,21-31,"Maracaibo, VEN",VEN,Pitcher,45.5238046.18,12.7029242.18
 1843,1790,25,Antonio Senzatela,7.3,2017,2022,22-27,"Valencia, VEN",VEN,Pitcher,38.3639982.22,-0.4319972.22
-1844,1791,26,Tony Castillo,6.4,1988,1998,25-35,"Quibor, VEN",VEN,Pitcher,Unnamed: 1844,Unnamed: 1844
 1845,1792,27,Álex Carrasquel,6.0,1939,1949,26-36,"Caracas, VEN",VEN,Pitcher,10.49580205.32,-66.88148465866983.32
-1846,1793,28,Víctor Zambrano,5.4,2001,2007,25-31,"Los Teques, VEN",VEN,Pitcher,Unnamed: 1846,Unnamed: 1846
-1847,1794,29,Junior Guerra,5.2,2015,2021,30-36,"San Felix, VEN",VEN,Pitcher,Unnamed: 1847,Unnamed: 1847
-1848,1795,30,Felipe Lira,5.0,1995,2001,23-29,"Santa Teresa del Tuy, VEN",VEN,Pitcher,Unnamed: 1848,Unnamed: 1848
 1849,1796,31,Héctor Rondón,4.9,2013,2020,25-32,"Guatire, VEN",VEN,Pitcher,10.4720981.1,-66.6157041.1
-1850,1797,32,Rich Garcés,4.8,1990,2002,19-31,"Maracay, VEN",VEN,Pitcher,Unnamed: 1850,Unnamed: 1850
 1851,1798,33,Juan Rincón,4.7,2001,2010,22-31,"Maracaibo, VEN",VEN,Pitcher,45.5238046.19,12.7029242.19
 1852,1799,34,José Álvarez,4.5,2013,2022,24-33,"Barcelona, VEN",VEN,Pitcher,10.1364149.4,-64.6901745.4
 1853,1800,35,Luis Avilán,4.4,2012,2021,22-31,"Caracas, VEN",VEN,Pitcher,10.49580205.33,-66.88148465866983.33
-1854,1801,36,Luis Aponte,4.4,1980,1984,27-31,"El Tigre, VEN",VEN,Pitcher,Unnamed: 1854,Unnamed: 1854
 1855,1802,37,Luis Garcia,4.3,2020,2022,23-25,"Bolivar, VEN",VEN,Pitcher,45.4902185.1,12.6032331.1
 1856,1803,38,José Mijares,4.2,2008,2013,23-28,"Caracas, VEN",VEN,Pitcher,10.49580205.34,-66.88148465866983.34
 1857,1804,39,Gustavo Chacin,4.0,2004,2010,23-29,"Maracaibo, VEN",VEN,Pitcher,45.5238046.20,12.7029242.20
-1858,1805,40,Yonny Chirinos,3.9,2018,2022,24-28,"Bachaquero, VEN",VEN,Pitcher,Unnamed: 1858,Unnamed: 1858
-1859,1806,41,Luis Sánchez,3.9,1981,1985,27-31,"Cariaco, VEN",VEN,Pitcher,Unnamed: 1859,Unnamed: 1859
-1860,1807,42,Manny Sarmiento,3.9,1976,1983,20-27,"Cagua, VEN",VEN,Pitcher,Unnamed: 1860,Unnamed: 1860
 1861,1808,43,Edward Mujica,3.9,2006,2017,22-33,"Valencia, VEN",VEN,Pitcher,38.3639982.23,-0.4319972.23
-1862,1809,44,Renyel Pinto,3.3,2006,2010,23-27,"Cupira, VEN",VEN,Pitcher,Unnamed: 1862,Unnamed: 1862
-1863,1810,45,Pablo Torrealba,3.3,1975,1979,27-31,"Barquisimeto, VEN",VEN,Pitcher,Unnamed: 1863,Unnamed: 1863
 1864,1811,46,Les Straker,3.0,1987,1988,27-28,"Ciudad Bolivar, VEN",VEN,Pitcher,8.2815246.6,-62.7556103.6
-1865,1812,47,Yoervis Medina,2.8,2013,2015,24-26,"Puerto Cabello, VEN",VEN,Pitcher,Unnamed: 1865,Unnamed: 1865
 1866,1813,48,Armando Galarraga,2.8,2007,2012,25-30,"Cumana, VEN",VEN,Pitcher,45.6330719.2,11.6381815.2
 1867,1814,49,José Alvarado,2.7,2017,2022,22-27,"Maracaibo, VEN",VEN,Pitcher,45.5238046.21,12.7029242.21
-1868,1815,50,Julio Machado,2.6,1989,1991,23-25,"San Carlos del Zulia, VEN",VEN,Pitcher,Unnamed: 1868,Unnamed: 1868
 1869,1816,51,Geremi González,2.4,1997,2006,22-31,"Maracaibo, VEN",VEN,Pitcher,45.5238046.22,12.7029242.22
-1870,1817,52,Carlos Hernández,2.3,2001,2004,21-24,"Guacara, VEN",VEN,Pitcher,Unnamed: 1870,Unnamed: 1870
 1871,1818,53,Álex Torres,2.0,2011,2015,23-27,"Valencia, VEN",VEN,Pitcher,38.3639982.24,-0.4319972.24
-1872,1819,54,Jean Machi,2.0,2012,2017,30-35,"El Tigre, VEN",VEN,Pitcher,Unnamed: 1872,Unnamed: 1872
-1873,1820,55,Guillermo Moscoso,2.0,2009,2013,25-29,"Maracay, VEN",VEN,Pitcher,Unnamed: 1873,Unnamed: 1873
 1874,1821,56,Edubray Ramos,2.0,2016,2019,23-26,"Caracas, VEN",VEN,Pitcher,10.49580205.35,-66.88148465866983.35
-1875,1822,57,Giovanni Carrara,1.8,1995,2006,27-38,"El Tigre, VEN",VEN,Pitcher,Unnamed: 1875,Unnamed: 1875
-1876,1823,58,Franklin Morales,1.8,2007,2016,21-30,"San Juan de los Morros, VEN",VEN,Pitcher,Unnamed: 1876,Unnamed: 1876
-1877,1824,59,José Suarez,1.8,2019,2022,21-24,"Naguanagua, VEN",VEN,Pitcher,Unnamed: 1877,Unnamed: 1877
 1878,1825,60,Jorge Julio,1.5,2001,2009,22-30,"Caracas, VEN",VEN,Pitcher,10.49580205.36,-66.88148465866983.36
-1879,1826,61,José Ruiz,1.5,2017,2022,22-27,"Guacara, VEN",VEN,Pitcher,Unnamed: 1879,Unnamed: 1879
-1880,1827,62,Adbert Alzolay,1.4,2019,2022,24-27,"San Felix, VEN",VEN,Pitcher,Unnamed: 1880,Unnamed: 1880
 1881,1829,64,Ángel Guzmán,1.4,2006,2009,24-27,"Caracas, VEN",VEN,Pitcher,10.49580205.37,-66.88148465866983.37
 1882,1830,65,Ramón Monzant,1.3,1954,1960,21-27,"Maracaibo, VEN",VEN,Pitcher,45.5238046.23,12.7029242.23
-1883,1831,66,Ramón Ramírez,1.1,2008,2009,25-26,"Cagua, VEN",VEN,Pitcher,Unnamed: 1883,Unnamed: 1883
 1884,1832,67,César Jiménez,1.0,2006,2015,21-30,"Cumana, VEN",VEN,Pitcher,45.6330719.3,11.6381815.3
 1885,1833,68,Gregory Infante,1.0,2010,2018,22-30,"Caracas, VEN",VEN,Pitcher,10.49580205.38,-66.88148465866983.38
-1886,1834,69,Brusdar Graterol,0.9,2019,2022,20-23,"Calabozo, VEN",VEN,Pitcher,Unnamed: 1886,Unnamed: 1886
-1887,1835,70,Fernando Nieve,0.9,2006,2010,23-27,"Puerto Cabello, VEN",VEN,Pitcher,Unnamed: 1887,Unnamed: 1887
-1888,1836,71,Ronald Belisario,0.9,2009,2015,26-32,"Maracay, VEN",VEN,Pitcher,Unnamed: 1888,Unnamed: 1888
 1889,1837,72,José Rodríguez,0.7,2019,2020,23-24,"Ciudad Bolivar, VEN",VEN,Pitcher,8.2815246.7,-62.7556103.7
-1890,1838,73,Jesús Tinoco,0.7,2019,2022,24-27,"San Antonio de Maturin, VEN",VEN,Pitcher,Unnamed: 1890,Unnamed: 1890
 1891,1839,74,Jhonathan Diaz,0.7,2021,2022,24-25,"Valencia, VEN",VEN,Pitcher,38.3639982.25,-0.4319972.25
-1892,1840,75,Eduardo Sánchez,0.6,2011,2013,22-24,"Maracay, VEN",VEN,Pitcher,Unnamed: 1892,Unnamed: 1892
 1893,1841,76,José Torres,0.6,2016,2017,22-23,"Caracas, VEN",VEN,Pitcher,10.49580205.39,-66.88148465866983.39
 1894,1842,77,José Castillo,0.6,2018,2022,22-26,"Valencia, VEN",VEN,Pitcher,38.3639982.26,-0.4319972.26
-1895,1843,78,Ángel Zerpa,0.6,2021,2022,21-22,"Valle de la Pascua, VEN",VEN,Pitcher,Unnamed: 1895,Unnamed: 1895
 1896,1844,79,Edgmer Escalona,0.6,2010,2013,23-26,"La Guaira, VEN",VEN,Pitcher,10.603342.4,-67.0280938.4
 1897,1845,80,Carlos Hernández,0.6,2020,2022,23-25,"Ciudad Guayana, VEN",VEN,Pitcher,8.2815246.8,-62.7556103.8
-1898,1847,82,Sergio Escalona,0.5,2009,2011,24-26,"El Tocuyo, VEN",VEN,Pitcher,Unnamed: 1898,Unnamed: 1898
 1899,1848,83,Darwinzon Hernandez,0.5,2019,2022,22-25,"Ciudad Bolivar, VEN",VEN,Pitcher,8.2815246.9,-62.7556103.9
-1900,1849,84,Albert Suárez,0.5,2016,2017,26-27,"San Felix, VEN",VEN,Pitcher,Unnamed: 1900,Unnamed: 1900
-1901,1850,85,Eduard Bazardo,0.5,2021,2022,25-26,"Maracay, VEN",VEN,Pitcher,Unnamed: 1901,Unnamed: 1901
-1902,1851,86,Juan Moreno,0.4,2001,2002,26-27,"Maiquetia, VEN",VEN,Pitcher,Unnamed: 1902,Unnamed: 1902
-1903,1852,87,Kervin Castro,0.4,2021,2022,22-23,"Maracay, VEN",VEN,Pitcher,Unnamed: 1903,Unnamed: 1903
-1904,1853,88,Romulo Sánchez,0.3,2007,2010,23-26,"Carora, VEN",VEN,Pitcher,Unnamed: 1904,Unnamed: 1904
 1905,1854,89,Pedro Avila,0.3,2019,2022,22-25,"Caracas, VEN",VEN,Pitcher,10.49580205.40,-66.88148465866983.40
-1906,1855,90,José Quijada,0.3,2019,2022,23-26,"Caripito, VEN",VEN,Pitcher,Unnamed: 1906,Unnamed: 1906
-1907,1856,91,Yohan Pino,0.3,2014,2015,30-31,"Turmero, VEN",VEN,Pitcher,Unnamed: 1907,Unnamed: 1907
 1908,1857,92,Jairo Díaz,0.3,2014,2020,23-29,"Puerto La Cruz, VEN",VEN,Pitcher,10.2200889.3,-64.6358614.3
-1909,1858,93,Germán González,0.2,1988,1989,26-27,"Rio Caribe, VEN",VEN,Pitcher,Unnamed: 1909,Unnamed: 1909
 1910,1859,94,Marcos Carvajal,0.2,2005,2007,20-22,"Ciudad Bolivar, VEN",VEN,Pitcher,8.2815246.10,-62.7556103.10
-1911,1860,95,Elieser Hernández,0.2,2018,2022,23-27,"Ocumare del Tuy, VEN",VEN,Pitcher,Unnamed: 1911,Unnamed: 1911
 1912,1861,96,Orber Moreno,0.2,1999,2004,22-27,"Caracas, VEN",VEN,Pitcher,10.49580205.41,-66.88148465866983.41
-1913,1862,97,Gabriel Moya,0.2,2017,2018,22-23,"Cabimas, VEN",VEN,Pitcher,Unnamed: 1913,Unnamed: 1913
 1914,1863,98,Brayan Villarreal,0.1,2011,2013,24-26,"La Guaira, VEN",VEN,Pitcher,10.603342.5,-67.0280938.5
 1915,1867,102,Harold Castro,0.1,2018,2022,24-28,"Caracas, VEN",VEN,Pitcher,10.49580205.42,-66.88148465866983.42
 1916,1870,105,Miguel Socolovich,0.1,2012,2018,25-31,"Caracas, VEN",VEN,Pitcher,10.49580205.43,-66.88148465866983.43
-1917,1872,107,Luis Sardiñas,0.1,2014,2018,21-25,"Upata, VEN",VEN,Pitcher,Unnamed: 1917,Unnamed: 1917
 1918,1873,108,César Tovar,0.1,1965,1976,24-35,"Caracas, VEN",VEN,Pitcher,10.49580205.44,-66.88148465866983.44
-1919,1876,111,Pablo Sandoval,0.1,2008,2021,21-34,"Puerto Cabello, VEN",VEN,Pitcher,Unnamed: 1919,Unnamed: 1919
 1920,1877,112,Asdrúbal Cabrera,0.1,2007,2021,21-35,"Puerto La Cruz, VEN",VEN,Pitcher,10.2200889.4,-64.6358614.4
 1921,1878,113,Marwin Gonzalez,0.1,2012,2022,23-33,"Puerto Ordaz, VEN",VEN,Pitcher,8.2815246.11,-62.7556103.11
-1922,1880,115,Dave Concepción,0.0,1970,1988,22-40,"Ocumare de la Costa, VEN",VEN,Pitcher,Unnamed: 1922,Unnamed: 1922
 1923,1881,116,Eduardo Escobar,0.0,2011,2022,22-33,"La Pica, VEN",VEN,Pitcher,45.9205774.1,11.4847604.1
-1924,1882,117,José Rondón,0.0,2016,2021,22-27,"Villa de Cura, VEN",VEN,Pitcher,Unnamed: 1924,Unnamed: 1924
 1925,1884,119,Wiki González,0.0,1999,2006,25-32,"Aragua, VEN",VEN,Pitcher,10.228217.1,-67.3232345.1
 1926,1885,120,Álex Herrera,0.0,2002,2003,22-23,"Maracaibo, VEN",VEN,Pitcher,45.5238046.24,12.7029242.24
 1927,1886,121,José Osuna,0.0,2017,2020,24-27,"Trujillo, VEN",VEN,Pitcher,9.22640525.2,-70.65889167840999.2
-1928,1887,122,Ricardo Rodríguez,0.0,2017,2018,24-25,"Maracay, VEN",VEN,Pitcher,Unnamed: 1928,Unnamed: 1928
-1929,1889,124,Ildemaro Vargas,0.0,2017,2022,25-30,"Caripito, VEN",VEN,Pitcher,Unnamed: 1929,Unnamed: 1929
 1930,1890,125,Alexi Amarista,0.0,2011,2017,22-28,"Barcelona, VEN",VEN,Pitcher,10.1364149.5,-64.6901745.5
 1931,1891,126,Silvino Bracho,0.0,2015,2022,22-29,"Maracaibo, VEN",VEN,Pitcher,45.5238046.25,12.7029242.25
 1932,1892,127,Álvaro Espinoza,0.0,1984,1997,22-35,"Valencia, VEN",VEN,Pitcher,38.3639982.27,-0.4319972.27
-1933,1894,129,José Peraza,0.0,2015,2021,21-27,"Barinas, VEN",VEN,Pitcher,Unnamed: 1933,Unnamed: 1933
 1934,1895,130,Humberto Arteaga,0.0,2019,2021,25-27,"Caracas, VEN",VEN,Pitcher,10.49580205.45,-66.88148465866983.45
 1935,1897,132,Alberto González,0.0,2007,2013,24-30,"Maracaibo, VEN",VEN,Pitcher,45.5238046.26,12.7029242.26
-1936,1899,134,Andrés Machado,0.0,2017,2022,24-29,"Urama, VEN",VEN,Pitcher,Unnamed: 1936,Unnamed: 1936
 1937,1900,135,Miguel Montero,0.0,2006,2018,22-34,"Caracas, VEN",VEN,Pitcher,10.49580205.46,-66.88148465866983.46
-1938,1901,136,Tomás Pérez,0.0,1995,2008,21-34,"Barquisimeto, VEN",VEN,Pitcher,Unnamed: 1938,Unnamed: 1938
 1939,1902,137,Luis Salazar,0.0,1980,1992,24-36,"Barcelona, VEN",VEN,Pitcher,10.1364149.6,-64.6901745.6
-1940,1903,138,Vic Davalillo,0.0,1963,1980,23-40,"Cabimas, VEN",VEN,Pitcher,Unnamed: 1940,Unnamed: 1940
 1941,1904,139,Gerardo Parra,0.0,2009,2021,22-34,"Santa Barbara, VEN",VEN,Pitcher,45.48674365.1,12.2139876735.1
 1942,1905,140,Willians Astudillo,0.0,2018,2022,26-30,"Barcelona, VEN",VEN,Pitcher,10.1364149.7,-64.6901745.7
 1943,1908,143,Sandy León,0.0,2012,2022,23-33,"Maracaibo, VEN",VEN,Pitcher,45.5238046.27,12.7029242.27
-1944,1909,144,José Ortega,0.0,2012,2014,23-25,"Caja Seca, VEN",VEN,Pitcher,Unnamed: 1944,Unnamed: 1944
-1945,1910,145,Hernán Pérez,0.0,2012,2021,21-30,"Villa de Cura, VEN",VEN,Pitcher,Unnamed: 1945,Unnamed: 1945
 1946,1911,146,Jeanmar Gómez,0.0,2010,2019,22-31,"Caracas, VEN",VEN,Pitcher,10.49580205.47,-66.88148465866983.47
 1947,1912,147,Luis Guillorme,0.0,2018,2022,23-27,"Caracas, VEN",VEN,Pitcher,10.49580205.48,-66.88148465866983.48
 1948,1913,148,Lino Urdaneta,0.0,2004,2007,24-27,"Caracas, VEN",VEN,Pitcher,10.49580205.49,-66.88148465866983.49
-1949,1914,149,Andrés Blanco,0.0,2004,2017,20-33,"Urama, VEN",VEN,Pitcher,Unnamed: 1949,Unnamed: 1949
 1950,1915,150,Alcides Escobar,0.0,2008,2022,21-35,"La Sabana, VEN",VEN,Pitcher,10.49580205.50,-66.88148465866983.50
-1951,1917,152,Yolmer Sánchez,0.0,2014,2022,22-30,"Maracay, VEN",VEN,Pitcher,Unnamed: 1951,Unnamed: 1951
-1952,1921,156,Lester Oliveros,-0.1,2011,2014,23-26,"Maracay, VEN",VEN,Pitcher,Unnamed: 1952,Unnamed: 1952
 1953,1922,157,Ehire Adrianza,-0.1,2013,2022,23-32,"Guarenas, VEN",VEN,Pitcher,10.4721947.2,-66.6157456.2
-1954,1923,158,Orlando Arcia,-0.1,2016,2022,21-27,"Anaco, VEN",VEN,Pitcher,Unnamed: 1954,Unnamed: 1954
 1955,1924,159,David Peralta,-0.1,2014,2022,26-34,"Valencia, VEN",VEN,Pitcher,38.3639982.28,-0.4319972.28
-1956,1926,161,Nivaldo Rodríguez,-0.1,2020,2021,23-24,"Naguanagua, VEN",VEN,Pitcher,Unnamed: 1956,Unnamed: 1956
 1957,1927,162,Ronald Torreyes,-0.1,2015,2021,22-28,"Libertador, VEN",VEN,Pitcher,10.49580205.51,-66.88148465866983.51
 1958,1928,163,Luis Torrens,-0.1,2017,2022,21-26,"Valencia, VEN",VEN,Pitcher,38.3639982.29,-0.4319972.29
-1959,1929,164,Mauricio Llovera,-0.1,2020,2022,24-26,"El Tigre, VEN",VEN,Pitcher,Unnamed: 1959,Unnamed: 1959
 1960,1933,168,Wilmer Font,-0.1,2012,2020,22-30,"La Guaira, VEN",VEN,Pitcher,10.603342.6,-67.0280938.6
-1961,1934,169,Diego Moreno,-0.1,2015,2017,27-29,"Higuerote, VEN",VEN,Pitcher,Unnamed: 1961,Unnamed: 1961
 1962,1935,170,Yohander Méndez,-0.1,2016,2019,21-24,"Valencia, VEN",VEN,Pitcher,38.3639982.30,-0.4319972.30
 1963,1938,173,Carlos Pulido,-0.2,1994,2004,22-32,"Caracas, VEN",VEN,Pitcher,10.49580205.52,-66.88148465866983.52
 1964,1941,176,Leonel Campos,-0.2,2014,2017,26-29,"Valera, VEN",VEN,Pitcher,9.22640525.3,-70.65889167840999.3
-1965,1944,179,Ramón García,-0.2,1991,1997,22-28,"Guanare, VEN",VEN,Pitcher,Unnamed: 1965,Unnamed: 1965
-1966,1946,181,José Ascanio,-0.2,2007,2011,22-26,"Maracay, VEN",VEN,Pitcher,Unnamed: 1966,Unnamed: 1966
 1967,1949,184,Eduardo Paredes,-0.2,2017,2018,22-23,"Valera, VEN",VEN,Pitcher,9.22640525.4,-70.65889167840999.4
 1968,1950,185,Jesús Sucre,-0.2,2013,2019,25-31,"Cumana, VEN",VEN,Pitcher,45.6330719.4,11.6381815.4
-1969,1958,193,Deolis Guerra,-0.3,2015,2021,26-32,"San Felix, VEN",VEN,Pitcher,Unnamed: 1969,Unnamed: 1969
 1970,1961,196,Enrique González,-0.3,2006,2011,23-28,"Ciudad Bolivar, VEN",VEN,Pitcher,8.2815246.12,-62.7556103.12
 1971,1962,197,David Martínez,-0.4,2013,2014,25-26,"Cumana, VEN",VEN,Pitcher,45.6330719.5,11.6381815.5
-1972,1964,199,Williams Pérez,-0.4,2015,2016,24-25,"Acarigua, VEN",VEN,Pitcher,Unnamed: 1972,Unnamed: 1972
-1973,1965,200,Rosman García,-0.4,2003,2004,24-25,"Maracay, VEN",VEN,Pitcher,Unnamed: 1973,Unnamed: 1973
-1974,1966,1,Tayler Scott,-1.2,2019,2022,27-30,"Johannesburg, ZAF",ZAF,Pitcher,Unnamed: 1974,Unnamed: 1974
 1975,1971,5,Rube Schauer,-1.9,1913,1917,22-26,"Kamenka, RUS",RUS,Pitcher,49.0379423.1,32.1009043.1
 1976,1972,1,Bobby Chouinard,1.4,1996,2001,24-29,"Manila, PHL",PHL,Pitcher,14.5764843.1,120.9827242.1
-1977,1973,2,Claudio Manela,0.4,1921,1925,27-31,"Cavite City, PHL",PHL,Pitcher,Unnamed: 1977,Unnamed: 1977
-1978,1975,2,Craig Lefferts,9.4,1983,1994,25-36,"Munich, DEU",DEU,Pitcher,Unnamed: 1978,Unnamed: 1978
-1979,1976,3,Edwin Jackson,8.2,2003,2019,19-35,"Neu-Ulm, DEU",DEU,Pitcher,Unnamed: 1979,Unnamed: 1979
 1980,1977,4,Will Ohman,3.1,2000,2012,22-34,"Frankfurt, DEU",DEU,Pitcher,-54.8080887.2,-68.31381247286738.2
 1981,1979,6,Dave Pavlas,1.5,1990,1996,27-33,"Frankfurt, DEU",DEU,Pitcher,-54.8080887.3,-68.31381247286738.3
-1982,1980,7,Gus Shallix,1.5,1884,1885,26-27,"Paderborn, DEU",DEU,Pitcher,Unnamed: 1982,Unnamed: 1982
-1983,1981,8,Tom McCarthy,0.7,1985,1989,24-28,"Landstuhl, DEU",DEU,Pitcher,Unnamed: 1983,Unnamed: 1983
-1984,1983,10,Tobi Stoner,0.1,2009,2010,24-25,"Landstuhl, DEU",DEU,Pitcher,Unnamed: 1984,Unnamed: 1984
-1985,1985,12,Aaron Altherr,0.0,2014,2019,23-28,"Landstuhl, DEU",DEU,Pitcher,Unnamed: 1985,Unnamed: 1985
-1986,1989,16,Mickey Scott,-0.2,1972,1977,24-29,"Weimar, DEU",DEU,Pitcher,Unnamed: 1986,Unnamed: 1986
-1987,1992,19,Otto Deininger,-0.5,1902,1909,24-31,"Aalen, DEU",DEU,Pitcher,Unnamed: 1987,Unnamed: 1987
-1988,1994,21,Ed Eiteljorge,-1.4,1890,1891,18-19,"Berlin, DEU",DEU,Pitcher,Unnamed: 1988,Unnamed: 1988
 1989,1995,1,Sidney Ponson,11.2,1998,2009,21-32,"Noord, ABW",ABW,Pitcher,34.2884334.1,35.9008474.1
 1990,1997,3,Calvin Maduro,-0.3,1996,2002,21-27,"Santa Cruz, ABW",ABW,Pitcher,30.412461800000003.1,-9.553095566691395.1
-1991,1998,1,Alex Wilson,5.4,2013,2019,26-32,"Dhahran, SAU",SAU,Pitcher,Unnamed: 1991,Unnamed: 1991
 1992,1999,1,Jimmy Wiggs,-0.9,1903,1906,26-29,"Trondhjem, NOR",NOR,Pitcher,63.4296702.1,10.3986138.1
-1993,2000,1,Bert Blyleven,96.1,1970,1992,19-41,"Zeist, NLD",NLD,Pitcher,Unnamed: 1993,Unnamed: 1993
-1994,2001,2,Rynie Wolters,2.0,1871,1873,27-29,"Nieuweschans, NLD",NLD,Pitcher,Unnamed: 1994,Unnamed: 1994
-1995,2002,3,Win Remmerswaal,0.1,1979,1980,25-26,"The Hague, NLD",NLD,Pitcher,Unnamed: 1995,Unnamed: 1995
-1996,2004,5,Rick van den Hurk,-0.9,2007,2012,22-27,"Eindhoven, NLD",NLD,Pitcher,Unnamed: 1996,Unnamed: 1996
 1997,2005,1,Danny Rios,-0.6,1997,1998,24-25,"Madrid, ESP",ESP,Pitcher,27.104734450000002,-82.46071071981582
-1998,2006,2,Bryan Oelkers,-0.9,1983,1986,22-25,"Zaragoza, ESP",ESP,Pitcher,Unnamed: 1998,Unnamed: 1998
-1999,2007,1,Hyun Jin Ryu,18.2,2013,2022,26-35,"Incheon, KOR",KOR,Pitcher,Unnamed: 1999,Unnamed: 1999
-2000,2008,2,Chan Ho Park,18.1,1994,2010,21-37,"Gongju, KOR",KOR,Pitcher,Unnamed: 2000,Unnamed: 2000
-2001,2009,3,Byung-Hyun Kim,11.1,1999,2007,20-28,"Gwangju, KOR",KOR,Pitcher,Unnamed: 2001,Unnamed: 2001
-2002,2010,4,Jae Weong Seo,6.4,2002,2007,25-30,"Gwangju, KOR",KOR,Pitcher,Unnamed: 2002,Unnamed: 2002
-2003,2011,5,Seunghwan Oh,4.4,2016,2019,33-36,"Jeongeup, KOR",KOR,Pitcher,Unnamed: 2003,Unnamed: 2003
 2004,2012,6,Kwang Hyun Kim,1.9,2020,2021,31-32,"Seoul, KOR",KOR,Pitcher,11.5659958.6,104.9008631.6
-2005,2013,7,Cha-Seung Baek,1.0,2004,2008,24-28,"Busan, KOR",KOR,Pitcher,Unnamed: 2005,Unnamed: 2005
 2006,2014,8,Tommy Phelps,0.4,2003,2005,29-31,"Seoul, KOR",KOR,Pitcher,11.5659958.7,104.9008631.7
-2007,2015,9,Sun-Woo Kim,0.4,2001,2006,23-28,"Incheon, KOR",KOR,Pitcher,Unnamed: 2007,Unnamed: 2007
-2008,2019,13,Jin Ho Cho,-0.4,1998,1999,22-23,"Jeonju, KOR",KOR,Pitcher,Unnamed: 2008,Unnamed: 2008
-2009,2021,15,Jae Kuk Ryu,-0.5,2006,2008,23-25,"Choon Chung Do, KOR",KOR,Pitcher,Unnamed: 2009,Unnamed: 2009
 2010,2022,16,Jung Bong,-0.7,2002,2004,21-23,"Seoul, KOR",KOR,Pitcher,11.5659958.8,104.9008631.8
 2011,2023,1,Dennis Martínez,49.3,1976,1998,22-44,"Granada, NIC",NIC,Pitcher,12.1490973.1,-85.8389107.1
 2012,2024,2,Vicente Padilla,12.0,1999,2012,21-34,"Chinandega, NIC",NIC,Pitcher,12.6257644.2,-87.13235.2
@@ -2020,39 +1358,7 @@
 2018,2030,8,Porfi Altamirano,0.4,1982,1984,30-32,"Ciudad Dario, NIC",NIC,Pitcher,12.7532395.1,-86.1246425.1
 2019,2031,9,Devern Hansack,0.4,2006,2008,28-30,"Pearl Lagoon, NIC",NIC,Pitcher,12.3203152.1,-83.6757723.1
 2020,2032,10,Oswaldo Mairena,-0.4,2000,2002,24-26,"Chinandega, NIC",NIC,Pitcher,12.6257644.3,-87.13235.3
-2021,2034,1,Chien-Ming Wang,12.8,2005,2016,25-36,"Tainan City, TWN",TWN,Pitcher,Unnamed: 2021,Unnamed: 2021
-2022,2035,2,Wei-Yin Chen,9.0,2012,2019,26-33,"Kaohsiung City, TWN",TWN,Pitcher,Unnamed: 2022,Unnamed: 2022
-2023,2036,3,Hung-Chih Kuo,4.7,2005,2011,23-29,"Tainan City, TWN",TWN,Pitcher,Unnamed: 2023,Unnamed: 2023
-2024,2037,4,Chih-Wei Hu,0.2,2017,2018,23-24,"Taichung, TWN",TWN,Pitcher,Unnamed: 2024,Unnamed: 2024
-2025,2039,6,Fu-Te Ni,0.1,2009,2010,26-27,"Pingtung County, TWN",TWN,Pitcher,Unnamed: 2025,Unnamed: 2025
-2026,2041,8,C.C. Lee,-0.1,2013,2015,26-28,"Peng-Hu County, TWN",TWN,Pitcher,Unnamed: 2026,Unnamed: 2026
-2027,2042,9,Yu Chang,-0.1,2019,2022,23-26,"Taitung, TWN",TWN,Pitcher,Unnamed: 2027,Unnamed: 2027
-2028,2043,10,Tzu-Wei Lin,-0.1,2017,2021,23-27,"Kaohsiung County, TWN",TWN,Pitcher,Unnamed: 2028,Unnamed: 2028
-2029,2044,11,Chin-hui Tsao,-0.2,2003,2016,22-35,"Hualien, TWN",TWN,Pitcher,Unnamed: 2029,Unnamed: 2029
-2030,2045,12,Jen-Ho Tseng,-0.4,2017,2018,22-23,"Taipei, TWN",TWN,Pitcher,Unnamed: 2030,Unnamed: 2030
-2031,2046,13,Wei-Chung Wang,-0.4,2014,2019,22-27,"Taitung City, TWN",TWN,Pitcher,Unnamed: 2031,Unnamed: 2031
 2032,2047,1,Otto Hess,8.0,1902,1915,23-36,"Berne, CHE",CHE,Pitcher,47.1450435.1,7.243294.1
-2033,2049,2,Kurt Krieger,-0.2,1949,1951,22-24,"Traisen, AUT",AUT,Pitcher,Unnamed: 2033,Unnamed: 2033
-2034,2051,1,Kenley Jansen,19.5,2010,2022,22-34,"Willemstad, CUW",CUW,Pitcher,Unnamed: 2034,Unnamed: 2034
-2035,2052,2,Jair Jurrjens,10.7,2007,2014,21-28,"Santa Maria, CUW",CUW,Pitcher,Unnamed: 2035,Unnamed: 2035
-2036,2053,3,Shairon Martis,0.4,2008,2013,21-26,"Willemstad, CUW",CUW,Pitcher,Unnamed: 2036,Unnamed: 2036
-2037,2054,4,Andrelton Simmons,-0.2,2012,2022,22-32,"Mundo Nobo, CUW",CUW,Pitcher,Unnamed: 2037,Unnamed: 2037
-2038,2055,1,Moe Drabowsky,19.9,1956,1972,20-36,"Ozanna, POL",POL,Pitcher,Unnamed: 2038,Unnamed: 2038
-2039,2057,3,Jack Katoll,-0.3,1898,1902,23-27,"Kamieniec, POL",POL,Pitcher,Unnamed: 2039,Unnamed: 2039
-2040,2058,1,Sean Reid-Foley,-0.5,2018,2022,22-26,"Agana Heights, GUM",GUM,Pitcher,Unnamed: 2040,Unnamed: 2040
-2041,2059,1,Jim McCormick,76.0,1878,1887,21-30,"Glasgow, GBR",GBR,Pitcher,Unnamed: 2041,Unnamed: 2041
-2042,2060,2,Ted Lewis,19.0,1896,1901,23-28,"Machynlleth, GBR",GBR,Pitcher,Unnamed: 2042,Unnamed: 2042
-2043,2061,3,Danny Cox,10.6,1983,1995,23-35,"Northampton, GBR",GBR,Pitcher,Unnamed: 2043,Unnamed: 2043
-2044,2062,4,Tom Waddell,2.8,1984,1987,25-28,"Dundee, GBR",GBR,Pitcher,Unnamed: 2044,Unnamed: 2044
-2045,2063,5,Lance Painter,1.8,1993,2003,25-35,"Bedford, GBR",GBR,Pitcher,Unnamed: 2045,Unnamed: 2045
-2046,2064,6,George Chalmers,0.8,1910,1916,22-28,"Aberdeen, GBR",GBR,Pitcher,Unnamed: 2046,Unnamed: 2046
-2047,2066,8,Phil Stockman,0.4,2006,2008,26-28,"Oldham, GBR",GBR,Pitcher,Unnamed: 2047,Unnamed: 2047
-2048,2067,9,Harry Wright,0.3,1871,1877,36-42,"Sheffield, GBR",GBR,Pitcher,Unnamed: 2048,Unnamed: 2048
-2049,2069,11,Jim Wright,0.1,1927,1928,26-27,"Hyde, GBR",GBR,Pitcher,Unnamed: 2049,Unnamed: 2049
-2050,2072,14,Irish McIlveen,-0.3,1906,1909,25-28,"Belfast, GBR",GBR,Pitcher,Unnamed: 2050,Unnamed: 2050
-2051,2073,15,Les Rohr,-0.3,1967,1969,21-23,"Lowestoft, GBR",GBR,Pitcher,Unnamed: 2051,Unnamed: 2051
-2052,2074,16,Ed Walker,-0.5,1902,1903,27-28,"Cambois, GBR",GBR,Pitcher,Unnamed: 2052,Unnamed: 2052
-2053,2077,19,Tom Brown,-1.6,1882,1898,21-37,"Liverpool, GBR",GBR,Pitcher,Unnamed: 2053,Unnamed: 2053
 2054,2078,1,José Quintana,27.4,2012,2022,23-33,"Arjona, COL",COL,Pitcher,20.6965068.2,-88.21183324230387.2
 2055,2079,2,Julio Teheran,19.4,2011,2021,20-30,"Cartagena, COL",COL,Pitcher,-33.8167099.14,-70.7395287.14
 2056,2080,3,Ernesto Frieri,2.0,2009,2017,23-31,"Arjona, COL",COL,Pitcher,20.6965068.3,-88.21183324230387.3
@@ -2063,131 +1369,45 @@
 2061,2089,12,Dayan Díaz,-0.9,2016,2017,27-28,"Cartagena, COL",COL,Pitcher,-33.8167099.17,-70.7395287.17
 2062,2090,13,Tayron Guerrero,-1.6,2016,2019,25-28,"Boca Chica, COL",COL,Pitcher,18.46243055.1,-69.60510953395622.1
 2063,2091,1,Justin Masterson,10.0,2008,2015,23-30,"Kingston, JAM",JAM,Pitcher,17.97521495.4,-76.8175652619486.4
-2064,2092,2,Oscar Levis,9.7,1923,1929,24-30,"Oracabessa, JAM",JAM,Pitcher,Unnamed: 2064,Unnamed: 2064
 2065,2093,3,Chili Davis,0.1,1981,1999,21-39,"Kingston, JAM",JAM,Pitcher,17.97521495.5,-76.8175652619486.5
-2066,2094,1,Danny Graves,5.9,1996,2006,22-32,"Saigon, VNM",VNM,Pitcher,Unnamed: 2066,Unnamed: 2066
-2067,2096,1,Jack Quinn,59.8,1909,1933,25-49,"Stefurov, SVK",SVK,Pitcher,Unnamed: 2067,Unnamed: 2067
 2068,2097,1,Grant Balfour,9.2,2001,2015,23-37,"Sydney, AUS",AUS,Pitcher,-33.9247891.5,151.2277413.5
-2069,2098,2,Liam Hendriks,9.2,2011,2022,22-33,"Perth, AUS",AUS,Pitcher,Unnamed: 2069,Unnamed: 2069
-2070,2099,3,Peter Moylan,6.0,2006,2018,27-39,"Attadale, AUS",AUS,Pitcher,Unnamed: 2070,Unnamed: 2070
-2071,2100,4,Graeme Lloyd,5.3,1993,2003,26-36,"Geelong, AUS",AUS,Pitcher,Unnamed: 2071,Unnamed: 2071
-2072,2101,5,Damian Moss,1.4,2001,2004,24-27,"Darlinghurst, AUS",AUS,Pitcher,Unnamed: 2072,Unnamed: 2072
-2073,2102,6,Rich Thompson,0.9,2007,2012,22-27,"Hornsby, AUS",AUS,Pitcher,Unnamed: 2073,Unnamed: 2073
 2074,2103,7,Ryan Rowland-Smith,0.8,2007,2014,24-31,"Sydney, AUS",AUS,Pitcher,-33.9247891.6,151.2277413.6
-2075,2104,8,Warwick Saupold,0.7,2016,2018,26-28,"Perth, AUS",AUS,Pitcher,Unnamed: 2075,Unnamed: 2075
-2076,2105,9,Mark Hutton,0.7,1993,1998,23-28,"South Adelaide, AUS",AUS,Pitcher,Unnamed: 2076,Unnamed: 2076
-2077,2106,10,Josh Spence,0.5,2011,2012,23-24,"Grovedale, AUS",AUS,Pitcher,Unnamed: 2077,Unnamed: 2077
-2078,2107,11,Luke Prokopec,0.3,2000,2002,22-24,"Blackwood, AUS",AUS,Pitcher,Unnamed: 2078,Unnamed: 2078
 2079,2109,13,Trent Durrington,0.0,1999,2005,23-29,"Sydney, AUS",AUS,Pitcher,-33.9247891.7,151.2277413.7
 2080,2111,15,Travis Blackley,-0.1,2004,2013,21-30,"Melbourne, AUS",AUS,Pitcher,-37.7360462.2,145.0486278.2
-2081,2113,17,Alex Wells,-0.3,2021,2022,24-25,"Newcastle, AUS",AUS,Pitcher,Unnamed: 2081,Unnamed: 2081
 2082,2116,20,Lewis Thorpe,-0.7,2019,2021,23-25,"Melbourne, AUS",AUS,Pitcher,-37.7360462.3,145.0486278.3
 2083,2117,21,Brad Thomas,-1.1,2001,2011,23-33,"Sydney, AUS",AUS,Pitcher,-33.9247891.8,151.2277413.8
-2084,2118,22,Jeff Williams,-1.2,1999,2002,27-30,"Canberra, AUS",AUS,Pitcher,Unnamed: 2084,Unnamed: 2084
-2085,2119,23,Shayne Bennett,-1.6,1997,1999,25-27,"Adelaide, AUS",AUS,Pitcher,Unnamed: 2085,Unnamed: 2085
 2086,2120,1,Jesús Luzardo,1.9,2019,2022,21-24,"Lima, PER",PER,Pitcher,-7.900719.1,-34.898389.1
-2087,2121,1,Javier Vázquez,43.4,1998,2011,21-34,"Ponce, PRI",PRI,Pitcher,Unnamed: 2087,Unnamed: 2087
-2088,2122,2,Roberto Hernández,18.5,1991,2007,26-42,"Santurce, PRI",PRI,Pitcher,Unnamed: 2088,Unnamed: 2088
-2089,2123,3,Willie Hernández,16.6,1977,1989,22-34,"Aguada, PRI",PRI,Pitcher,Unnamed: 2089,Unnamed: 2089
-2090,2124,4,Juan Pizarro,16.2,1957,1974,20-37,"Santurce, PRI",PRI,Pitcher,Unnamed: 2090,Unnamed: 2090
-2091,2125,5,Ed Figueroa,15.9,1974,1981,25-32,"Ciales, PRI",PRI,Pitcher,Unnamed: 2091,Unnamed: 2091
 2092,2126,6,Rubén Gómez,13.9,1953,1967,25-39,"Arroyo, PRI",PRI,Pitcher,24.0482159.4,-104.6812145.4
-2093,2127,7,José Guzmán,13.4,1985,1994,22-31,"Santa Isabel, PRI",PRI,Pitcher,Unnamed: 2093,Unnamed: 2093
-2094,2128,8,Joel Piñeiro,13.3,2000,2011,21-32,"Rio Piedras, PRI",PRI,Pitcher,Unnamed: 2094,Unnamed: 2094
-2095,2129,9,Omar Olivares,13.2,1990,2001,22-33,"Mayaguez, PRI",PRI,Pitcher,Unnamed: 2095,Unnamed: 2095
-2096,2130,10,José Berríos,10.8,2016,2022,22-28,"Bayamon, PRI",PRI,Pitcher,Unnamed: 2096,Unnamed: 2096
-2097,2131,11,Luis Aquino,10.5,1986,1995,22-31,"Santurce, PRI",PRI,Pitcher,Unnamed: 2097,Unnamed: 2097
-2098,2132,12,Edwin Díaz,10.4,2016,2022,22-28,"Naguabo, PRI",PRI,Pitcher,Unnamed: 2098,Unnamed: 2098
-2099,2133,13,Jaime Navarro,9.9,1989,2000,22-33,"Bayamon, PRI",PRI,Pitcher,Unnamed: 2099,Unnamed: 2099
 2100,2134,14,Javier López,8.1,2003,2016,25-38,"San Juan, PRI",PRI,Pitcher,19.3511793.12,-99.0756653.12
-2101,2135,15,J.C. Romero,7.7,1999,2012,23-36,"Rio Piedras, PRI",PRI,Pitcher,Unnamed: 2101,Unnamed: 2101
-2102,2136,16,Roger Moret,7.4,1970,1978,20-28,"Guayama, PRI",PRI,Pitcher,Unnamed: 2102,Unnamed: 2102
-2103,2137,17,Ricky Bones,6.9,1991,2001,22-32,"Salinas, PRI",PRI,Pitcher,Unnamed: 2103,Unnamed: 2103
 2104,2138,18,Álex Claudio,6.3,2014,2022,22-30,"San Juan, PRI",PRI,Pitcher,19.3511793.13,-99.0756653.13
-2105,2139,19,Kiko Calero,6.2,2003,2009,28-34,"Santurce, PRI",PRI,Pitcher,Unnamed: 2105,Unnamed: 2105
 2106,2140,20,Ramón Hernández,6.2,1967,1977,26-36,"Carolina, PRI",PRI,Pitcher,-27.2831687.2,28.4944783.2
-2107,2141,21,Pedro Feliciano,5.7,2002,2013,25-36,"Rio Piedras, PRI",PRI,Pitcher,Unnamed: 2107,Unnamed: 2107
-2108,2142,22,Eduardo Rodríguez,5.2,1973,1979,21-27,"Barceloneta, PRI",PRI,Pitcher,Unnamed: 2108,Unnamed: 2108
-2109,2143,23,Hiram Bithorn,5.1,1942,1947,26-31,"Santurce, PRI",PRI,Pitcher,Unnamed: 2109,Unnamed: 2109
-2110,2144,24,Ed Núñez,4.2,1982,1994,19-31,"Humacao, PRI",PRI,Pitcher,Unnamed: 2110,Unnamed: 2110
-2111,2145,25,Ángel Miranda,4.2,1993,1997,23-27,"Arecibo, PRI",PRI,Pitcher,Unnamed: 2111,Unnamed: 2111
-2112,2146,26,José Santiago,3.8,1963,1970,22-29,"Juana Diaz, PRI",PRI,Pitcher,Unnamed: 2112,Unnamed: 2112
-2113,2147,27,Juan Nieves,3.4,1986,1988,21-23,"Santurce, PRI",PRI,Pitcher,Unnamed: 2113,Unnamed: 2113
-2114,2148,28,Luis DeLeón,3.3,1981,1989,22-30,"Ponce, PRI",PRI,Pitcher,Unnamed: 2114,Unnamed: 2114
-2115,2149,29,Luis Arroyo,3.3,1955,1963,28-36,"Penuelas, PRI",PRI,Pitcher,Unnamed: 2115,Unnamed: 2115
-2116,2151,31,Jonathan Sánchez,2.7,2006,2013,23-30,"Mayaguez, PRI",PRI,Pitcher,Unnamed: 2116,Unnamed: 2116
-2117,2152,32,José Melendez,2.5,1990,1994,24-28,"Naguabo, PRI",PRI,Pitcher,Unnamed: 2117,Unnamed: 2117
 2118,2153,33,Jaime Cocanower,2.1,1983,1986,26-29,"San Juan, PRI",PRI,Pitcher,19.3511793.14,-99.0756653.14
-2119,2154,34,Mike Pérez,2.1,1990,1997,25-32,"Yauco, PRI",PRI,Pitcher,Unnamed: 2119,Unnamed: 2119
 2120,2155,35,Saul Rivera,2.0,2006,2010,28-32,"San Juan, PRI",PRI,Pitcher,19.3511793.15,-99.0756653.15
-2121,2156,36,Xavier Cedeño,1.9,2011,2019,24-32,"Guayanilla, PRI",PRI,Pitcher,Unnamed: 2121,Unnamed: 2121
-2122,2157,37,Julio Valera,1.7,1990,1996,21-27,"Aguadilla, PRI",PRI,Pitcher,Unnamed: 2122,Unnamed: 2122
-2123,2158,38,Francisco Oliveras,1.7,1989,1992,26-29,"Santurce, PRI",PRI,Pitcher,Unnamed: 2123,Unnamed: 2123
-2124,2159,39,Julio Navarro,1.3,1962,1970,28-36,"Vieques, PRI",PRI,Pitcher,Unnamed: 2124,Unnamed: 2124
-2125,2160,40,Ed Correa,1.3,1985,1987,19-21,"Hato Rey, PRI",PRI,Pitcher,Unnamed: 2125,Unnamed: 2125
-2126,2161,41,Juan Agosto,1.3,1981,1993,23-35,"Rio Piedras, PRI",PRI,Pitcher,Unnamed: 2126,Unnamed: 2126
-2127,2162,42,José Santiago,1.2,1997,2005,22-30,"Fajardo, PRI",PRI,Pitcher,Unnamed: 2127,Unnamed: 2127
-2128,2164,44,Juan Padilla,0.9,2004,2005,27-28,"Rio Piedras, PRI",PRI,Pitcher,Unnamed: 2128,Unnamed: 2128
 2129,2165,45,Jonathan Albaladejo,0.8,2007,2012,24-29,"San Juan, PRI",PRI,Pitcher,19.3511793.16,-99.0756653.16
-2130,2167,47,Jovani Moran,0.7,2021,2022,24-25,"Mayaguez, PRI",PRI,Pitcher,Unnamed: 2130,Unnamed: 2130
-2131,2170,50,Juan Guilbe,0.5,1940,1947,26-33,"Ponce, PRI",PRI,Pitcher,Unnamed: 2131,Unnamed: 2131
 2132,2171,51,Pancho Coimbre,0.5,1940,1944,31-35,"Arroyo, PRI",PRI,Pitcher,24.0482159.5,-104.6812145.5
-2133,2172,52,Jorge López,0.5,2015,2022,22-29,"Caguas, PRI",PRI,Pitcher,Unnamed: 2133,Unnamed: 2133
-2134,2173,53,Héctor Mercado,0.5,2000,2003,26-29,"Catano, PRI",PRI,Pitcher,Unnamed: 2134,Unnamed: 2134
-2135,2174,54,José Santiago,0.4,1948,1956,19-27,"Coamo, PRI",PRI,Pitcher,Unnamed: 2135,Unnamed: 2135
-2136,2175,55,Rafael Carmona,0.4,1995,1999,23-27,"Rio Piedras, PRI",PRI,Pitcher,Unnamed: 2136,Unnamed: 2136
-2137,2176,56,Bobby Muñoz,0.2,1993,2001,25-33,"Rio Piedras, PRI",PRI,Pitcher,Unnamed: 2137,Unnamed: 2137
-2138,2177,57,Dicky González,0.2,2001,2004,22-25,"Bayamon, PRI",PRI,Pitcher,Unnamed: 2138,Unnamed: 2138
-2139,2181,61,Felipe López,0.1,2001,2011,21-31,"Bayamon, PRI",PRI,Pitcher,Unnamed: 2139,Unnamed: 2139
-2140,2183,63,Martín Maldonado,0.0,2011,2022,24-35,"Naguabo, PRI",PRI,Pitcher,Unnamed: 2140,Unnamed: 2140
-2141,2185,65,Roberto Rivera,0.0,1995,1999,26-30,"Bayamon, PRI",PRI,Pitcher,Unnamed: 2141,Unnamed: 2141
-2142,2193,73,Yadier Molina,-0.1,2004,2022,21-39,"Bayamon, PRI",PRI,Pitcher,Unnamed: 2142,Unnamed: 2142
-2143,2195,75,Luis Quintana,-0.2,1974,1975,22-23,"Vega Baja, PRI",PRI,Pitcher,Unnamed: 2143,Unnamed: 2143
-2144,2196,76,Víctor Caratini,-0.2,2017,2022,23-28,"Ponce, PRI",PRI,Pitcher,Unnamed: 2144,Unnamed: 2144
-2145,2198,78,José Oquendo,-0.3,1983,1995,19-31,"Rio Piedras, PRI",PRI,Pitcher,Unnamed: 2145,Unnamed: 2145
-2146,2200,80,Luis Pillot,-0.4,1941,1946,23-28,"Guayama, PRI",PRI,Pitcher,Unnamed: 2146,Unnamed: 2146
 2147,2201,81,Kiké Hernández,-0.4,2014,2022,22-30,"San Juan, PRI",PRI,Pitcher,19.3511793.17,-99.0756653.17
-2148,2202,82,Yacksel Ríos,-0.5,2017,2021,24-28,"Caguas, PRI",PRI,Pitcher,Unnamed: 2148,Unnamed: 2148
-2149,2204,84,Fernando Cabrera,-0.5,2004,2010,22-28,"Toa Baja, PRI",PRI,Pitcher,Unnamed: 2149,Unnamed: 2149
-2150,2205,85,José Rodríguez,-0.5,2000,2002,25-27,"Cayey, PRI",PRI,Pitcher,Unnamed: 2150,Unnamed: 2150
 2151,2209,89,Joe Jiménez,-0.9,2017,2022,22-27,"San Juan, PRI",PRI,Pitcher,19.3511793.18,-99.0756653.18
-2152,2210,90,Roberto Vargas,-1.1,1948,1955,19-26,"Santurce, PRI",PRI,Pitcher,Unnamed: 2152,Unnamed: 2152
 2153,2211,91,José Alberro,-1.3,1995,1997,26-28,"San Juan, PRI",PRI,Pitcher,19.3511793.19,-99.0756653.19
-2154,2213,93,José De León,-1.7,2016,2021,23-28,"Isabela, PRI",PRI,Pitcher,Unnamed: 2154,Unnamed: 2154
-2155,2214,1,Julio Bonetti,0.7,1937,1940,25-28,"Genoa, ITA",ITA,Pitcher,Unnamed: 2155,Unnamed: 2155
-2156,2216,3,Lou Polli,-0.7,1932,1944,30-42,"Baveno, ITA",ITA,Pitcher,Unnamed: 2156,Unnamed: 2156
 2157,2217,4,Marino Pieretti,-3.0,1945,1950,24-29,"Lucca, ITA",ITA,Pitcher,51.1528711.1,4.1371156.1
-2158,2218,1,Dovydas Neverauskas,-1.5,2017,2020,24-27,"Vilnius, LTU",LTU,Pitcher,Unnamed: 2158,Unnamed: 2158
 2159,2220,1,Charlie Lea,8.4,1980,1988,23-31,"Orleans, FRA",FRA,Pitcher,40.058645049999996.1,-83.12885978953504.1
-2160,2222,1,Luiz Gohara,-0.1,2017,2018,20-21,"Tupa, BRA",BRA,Pitcher,Unnamed: 2160,Unnamed: 2160
 2161,2223,2,Thyago Vieira,-0.4,2017,2019,23-25,"Sao Paulo, BRA",BRA,Pitcher,-15.8201646.4,-47.911731.4
 2162,2224,3,André Rienzo,-1.6,2013,2015,24-26,"Sao Paulo, BRA",BRA,Pitcher,-15.8201646.5,-47.911731.5
-2163,2225,1,Al McBean,13.6,1961,1970,23-32,"Charlotte Amalie, VIR",VIR,Pitcher,Unnamed: 2163,Unnamed: 2163
 2164,2227,3,Akeel Morris,0.1,2015,2018,22-25,"St. Thomas, VIR",VIR,Pitcher,48.8384234.2,-0.8862432.2
-2165,2228,4,Elrod Hendricks,0.1,1968,1979,27-38,"Charlotte Amalie, VIR",VIR,Pitcher,Unnamed: 2165,Unnamed: 2165
-2166,2229,1,Eric Erickson,4.0,1914,1922,22-30,"Vargarda, SWE",SWE,Pitcher,Unnamed: 2166,Unnamed: 2166
-2167,2232,4,Beany Jacobson,-0.8,1904,1907,23-26,"Timra, SWE",SWE,Pitcher,Unnamed: 2167,Unnamed: 2167
 2168,2233,1,Mariano Rivera,56.3,1995,2013,25-43,"Panama, PAN",PAN,Pitcher,17.2528236.21,-88.7563566.21
 2169,2234,2,Ramiro Mendoza,11.8,1996,2005,24-33,"Los Santos, PAN",PAN,Pitcher,-13.1553184.1,-74.2172606.1
 2170,2235,3,Bruce Chen,10.8,1998,2015,21-38,"Panama, PAN",PAN,Pitcher,17.2528236.22,-88.7563566.22
-2171,2236,4,Juan Berenguer,10.1,1978,1992,23-37,"Aguadulce, PAN",PAN,Pitcher,Unnamed: 2171,Unnamed: 2171
 2172,2237,5,Jaime Barria,6.6,2018,2022,21-25,"Panama, PAN",PAN,Pitcher,17.2528236.23,-88.7563566.23
-2173,2238,6,Pat Scantlebury,5.3,1944,1956,26-38,"Gatun, PAN",PAN,Pitcher,Unnamed: 2173,Unnamed: 2173
 2174,2239,7,Manny Corpas,4.5,2006,2013,23-30,"Panama, PAN",PAN,Pitcher,17.2528236.24,-88.7563566.24
 2175,2240,8,Humberto Robinson,3.3,1955,1960,25-30,"Colon, PAN",PAN,Pitcher,-37.0313768.12,-64.2890431.12
-2176,2241,9,Randall Delgado,2.3,2011,2018,21-28,"Las Tablas, PAN",PAN,Pitcher,Unnamed: 2176,Unnamed: 2176
 2177,2242,10,Webbo Clarke,1.9,1946,1955,18-27,"Colon, PAN",PAN,Pitcher,-37.0313768.13,-64.2890431.13
 2178,2243,11,Paolo Espino,1.5,2017,2022,30-35,"Panama, PAN",PAN,Pitcher,17.2528236.25,-88.7563566.25
 2179,2244,12,Víctor Greenidge,1.0,1941,1944,22-25,"Panama, PAN",PAN,Pitcher,17.2528236.26,-88.7563566.26
 2180,2245,13,Manny Acosta,0.9,2007,2012,26-31,"Colon, PAN",PAN,Pitcher,-37.0313768.14,-64.2890431.14
 2181,2247,15,Ed Acosta,0.3,1970,1972,26-28,"Boquete, PAN",PAN,Pitcher,11.9290244.1,-85.96233213818515.1
-2182,2249,17,Jonathan Araúz,0.0,2020,2022,21-23,"Alanje, PAN",PAN,Pitcher,Unnamed: 2182,Unnamed: 2182
-2183,2250,18,Ariel Jurado,0.0,2018,2020,22-24,"Aguadulce, PAN",PAN,Pitcher,Unnamed: 2183,Unnamed: 2183
 2184,2251,19,Carlos Ruiz,0.0,2006,2017,27-38,"David, PAN",PAN,Pitcher,16.0454964.2,120.4216227.2
 2185,2252,20,Rubén Tejada,-0.1,2010,2019,20-29,"Santiago, PAN",PAN,Pitcher,16.0400186.2,120.5722623.2
 2186,2253,21,Manuel Barrios,-0.1,1997,1998,22-23,"Cabecera, PAN",PAN,Pitcher,7.11564935.1,-73.10081898737477.1
 2187,2255,23,Christian Bethancourt,-0.2,2013,2022,21-30,"Panama, PAN",PAN,Pitcher,17.2528236.27,-88.7563566.27
-2188,2257,25,Carlos Maldonado,-0.3,1990,1993,23-26,"Chepo, PAN",PAN,Pitcher,Unnamed: 2188,Unnamed: 2188
 2189,2259,27,Enrique Burgos,-0.4,1993,1995,27-29,"Chorrera, PAN",PAN,Pitcher,8.90873375.2,-79.78115889747751.2
 2190,2260,28,Javy Guerra,-0.5,2018,2022,22-26,"David, PAN",PAN,Pitcher,16.0454964.3,120.4216227.3
 2191,2262,30,Enrique Burgos,-0.5,2015,2016,24-25,"Panama, PAN",PAN,Pitcher,17.2528236.28,-88.7563566.28
@@ -2197,10 +1417,7 @@
 2195,2269,1,Pedro Martínez,86.1,1992,2009,20-37,"Manoguayabo, DOM",DOM,Pitcher,18.485464,-69.9774611
 2196,2270,2,Juan Marichal,61.8,1960,1975,22-37,"Laguna Verde, DOM",DOM,Pitcher,-21.1468274.1,-47.8308903.1
 2197,2271,3,Bartolo Colon,48.1,1997,2018,24-45,"Altamira, DOM",DOM,Pitcher,18.49997,-69.9698111
-2198,2272,4,Johnny Cueto,38.7,2008,2022,22-36,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2198,Unnamed: 2198
 2199,2273,5,José Rijo,35.0,1984,2002,19-37,"San Cristobal, DOM",DOM,Pitcher,18.4972887.11,-69.9619888.11
-2200,2274,6,Pedro Astacio,28.3,1992,2006,23-37,"Hato Mayor del Rey, DOM",DOM,Pitcher,Unnamed: 2200,Unnamed: 2200
-2201,2275,7,Ervin Santana,27.1,2005,2021,22-38,"La Romana, DOM",DOM,Pitcher,Unnamed: 2201,Unnamed: 2201
 2202,2276,8,Mario Soto,26.8,1977,1988,20-31,"Bani, DOM",DOM,Pitcher,18.4350075.12,-69.9490936.12
 2203,2277,9,Ramón Martínez,25.9,1988,2001,20-33,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.52,-69.91675188782874.52
 2204,2278,10,Juan Guzmán,24.5,1991,2000,24-33,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.53,-69.91675188782874.53
@@ -2209,45 +1426,29 @@
 2207,2281,13,Pascual Pérez,19.1,1980,1991,23-34,"San Cristobal, DOM",DOM,Pitcher,18.4972887.12,-69.9619888.12
 2208,2282,14,Joaquin Benoit,18.0,2001,2017,23-39,"Santiago, DOM",DOM,Pitcher,18.5048605.11,-69.8817293.11
 2209,2283,15,Francisco Liriano,18.0,2005,2019,21-35,"San Cristobal, DOM",DOM,Pitcher,18.4972887.13,-69.9619888.13
-2210,2284,16,José DeLeón,17.5,1983,1995,22-34,"Rancho Viejo, DOM",DOM,Pitcher,Unnamed: 2210,Unnamed: 2210
 2211,2285,17,Armando Benítez,17.4,1994,2008,21-35,"Ramon Santana, DOM",DOM,Pitcher,18.4647538,-69.9119576
 2212,2286,18,Francisco Cordero,16.9,1999,2012,24-37,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.54,-69.91675188782874.54
 2213,2287,19,Sandy Alcantara,16.7,2017,2022,21-26,"Azua, DOM",DOM,Pitcher,18.4444541.2,-69.931869.2
-2214,2288,20,Joaquín Andújar,16.7,1976,1988,23-35,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2214,Unnamed: 2214
 2215,2289,21,Octavio Dotel,15.8,1999,2013,25-39,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.55,-69.91675188782874.55
-2216,2290,22,Alejandro Peña,15.7,1981,1996,22-37,"Cambiaso, DOM",DOM,Pitcher,Unnamed: 2216,Unnamed: 2216
 2217,2291,23,Miguel Batista,14.5,1992,2012,21-41,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.56,-69.91675188782874.56
 2218,2292,24,Wandy Rodríguez,14.0,2005,2015,26-36,"Santiago Rodriguez, DOM",DOM,Pitcher,18.4745773,-69.8884978
 2219,2293,25,Rafael Soriano,13.9,2002,2015,22-35,"San Jose, DOM",DOM,Pitcher,18.5062712,-69.8854147
-2220,2294,26,Luis Severino,13.3,2015,2022,21-28,"Sabana de la Mar, DOM",DOM,Pitcher,Unnamed: 2220,Unnamed: 2220
 2221,2295,27,Iván Nova,13.0,2010,2020,23-33,"San Cristobal, DOM",DOM,Pitcher,18.4972887.14,-69.9619888.14
 2222,2296,28,Carlos Martínez,12.9,2013,2021,21-29,"Puerto Plata, DOM",DOM,Pitcher,18.5028514.5,-69.9140966.5
-2223,2297,29,Michael Pineda,12.4,2011,2022,22-33,"Yaguate, DOM",DOM,Pitcher,Unnamed: 2223,Unnamed: 2223
-2224,2298,30,José Valverde,11.4,2003,2014,25-36,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2224,Unnamed: 2224
 2225,2299,31,José Mesa,11.4,1987,2007,21-41,"Pueblo Viejo, DOM",DOM,Pitcher,18.489231.2,-69.87012990361507.2
 2226,2300,32,Mélido Pérez,11.2,1987,1995,21-29,"San Cristobal, DOM",DOM,Pitcher,18.4972887.15,-69.9619888.15
 2227,2301,33,Dámaso Marté,10.3,1999,2010,24-35,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.57,-69.91675188782874.57
 2228,2302,34,Kelvin Herrera,10.1,2011,2020,21-30,"Tenares, DOM",DOM,Pitcher,18.4551346.2,-69.9677875.2
-2229,2303,35,Carlos Mármol,9.7,2006,2014,23-31,"Bonao, DOM",DOM,Pitcher,Unnamed: 2229,Unnamed: 2229
-2230,2304,36,Héctor Carrasco,9.5,1994,2007,24-37,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2230,Unnamed: 2230
 2231,2305,37,Danny Salazar,9.5,2013,2019,23-29,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.58,-69.91675188782874.58
 2232,2306,38,Elias Sosa,9.4,1972,1983,22-33,"La Vega, DOM",DOM,Pitcher,45.5299657.2,4.9029879.2
-2233,2307,39,Alexi Ogando,9.2,2010,2018,26-34,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2233,Unnamed: 2233
 2234,2308,40,Santiago Casilla,9.1,2004,2018,23-37,"San Cristobal, DOM",DOM,Pitcher,18.4972887.16,-69.9619888.16
-2235,2309,41,Odalis Pérez,9.0,1998,2008,20-30,"Las Matas de Farfan, DOM",DOM,Pitcher,Unnamed: 2235,Unnamed: 2235
 2236,2310,42,Pedro Strop,8.9,2009,2021,24-36,"San Cristobal, DOM",DOM,Pitcher,18.4972887.17,-69.9619888.17
-2237,2311,43,Félix Rodríguez,8.3,1995,2006,22-33,"Monte Cristi, DOM",DOM,Pitcher,Unnamed: 2237,Unnamed: 2237
 2238,2312,44,Héctor Neris,7.9,2014,2022,25-33,"Villa Altagracia, DOM",DOM,Pitcher,18.673690299999997,-70.17615007998798
 2239,2313,45,Yordano Ventura,7.7,2013,2016,22-25,"Samana, DOM",DOM,Pitcher,18.4918662.1,-69.8840292.1
-2240,2314,46,Framber Valdez,7.7,2018,2022,24-28,"Sabana Grande de Palenque, DOM",DOM,Pitcher,Unnamed: 2240,Unnamed: 2240
 2241,2315,47,Fernando Rodney,7.4,2002,2019,25-42,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.59,-69.91675188782874.59
 2242,2316,48,Neftalí Feliz,7.3,2009,2021,21-33,"Azua, DOM",DOM,Pitcher,18.4444541.3,-69.931869.3
-2243,2317,49,Frankie Montas,7.0,2015,2022,22-29,"Sainagua, DOM",DOM,Pitcher,Unnamed: 2243,Unnamed: 2243
 2244,2318,50,Edinson Vólquez,7.0,2005,2020,21-36,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.60,-69.91675188782874.60
 2245,2319,51,Carlos Villanueva,6.9,2006,2016,22-32,"Santiago, DOM",DOM,Pitcher,18.5048605.12,-69.8817293.12
-2246,2320,52,Víctor Cruz,6.7,1978,1983,20-25,"Rancho Viejo, DOM",DOM,Pitcher,Unnamed: 2246,Unnamed: 2246
-2247,2321,53,Mel Rojas,6.6,1990,1999,23-32,"Bajos de Haina, DOM",DOM,Pitcher,Unnamed: 2247,Unnamed: 2247
-2248,2322,54,Emmanuel Clase,6.6,2019,2022,21-24,"Rio San Juan, DOM",DOM,Pitcher,Unnamed: 2248,Unnamed: 2248
 2249,2323,55,Ramón Ramírez,6.5,2006,2014,24-32,"Santiago, DOM",DOM,Pitcher,18.5048605.13,-69.8817293.13
 2250,2324,56,Cecilio Guante,6.5,1982,1990,22-30,"Villa Mella, DOM",DOM,Pitcher,18.5159206.1,-69.9144308.1
 2251,2325,57,Jeurys Familia,6.4,2012,2022,22-32,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.61,-69.91675188782874.61
@@ -2258,15 +1459,8 @@
 2256,2330,62,José Leclerc,6.1,2016,2022,22-28,"Esperanza, DOM",DOM,Pitcher,18.4437089.1,-69.9716127.1
 2257,2331,63,Alex Colomé,6.0,2013,2022,24-33,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.63,-69.91675188782874.63
 2258,2332,64,Alberto Reyes,5.9,1995,2008,25-38,"San Cristobal, DOM",DOM,Pitcher,18.4972887.18,-69.9619888.18
-2259,2333,65,Salomón Torres,5.9,1993,2008,21-36,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2259,Unnamed: 2259
-2260,2334,66,Guillermo Mota,5.6,1999,2012,25-38,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2260,Unnamed: 2260
-2261,2335,67,Carlos Pérez,5.6,1995,2000,24-29,"Nigua, DOM",DOM,Pitcher,Unnamed: 2261,Unnamed: 2261
-2262,2336,68,Ramón Ortiz,5.4,1999,2013,26-40,"Cotui, DOM",DOM,Pitcher,Unnamed: 2262,Unnamed: 2262
 2263,2337,69,Roberto Hernández,5.4,2006,2016,25-35,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.64,-69.91675188782874.64
-2264,2338,70,Juan Cruz,5.3,2001,2012,22-33,"Bonao, DOM",DOM,Pitcher,Unnamed: 2264,Unnamed: 2264
-2265,2339,71,Al Alburquerque,5.1,2011,2017,25-31,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2265,Unnamed: 2265
 2266,2340,72,Frank Francisco,5.1,2004,2014,24-34,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.65,-69.91675188782874.65
-2267,2341,73,Reynaldo López,5.1,2016,2022,22-28,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2267,Unnamed: 2267
 2268,2342,74,Freddy Peralta,5.1,2018,2022,22-26,"Moca, DOM",DOM,Pitcher,18.5021434.1,-69.9085623.1
 2269,2343,75,Luis Vizcaíno,5.0,1999,2009,24-34,"Bani, DOM",DOM,Pitcher,18.4350075.14,-69.9490936.14
 2270,2344,76,Julián Tavárez,4.9,1993,2009,20-36,"Santiago, DOM",DOM,Pitcher,18.5048605.16,-69.8817293.16
@@ -2275,17 +1469,11 @@
 2273,2347,79,Wily Peralta,4.7,2012,2022,23-33,"Samana, DOM",DOM,Pitcher,18.4918662.2,-69.8840292.2
 2274,2348,80,José Mercedes,4.4,1994,2003,23-32,"El Seibo, DOM",DOM,Pitcher,18.49079475.2,-69.90547287457336.2
 2275,2349,81,Rafael Pérez,4.4,2006,2012,24-30,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.66,-69.91675188782874.66
-2276,2350,82,Daniel Cabrera,4.3,2004,2009,23-28,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2276,Unnamed: 2276
 2277,2351,83,Claudio Vargas,4.1,2003,2010,25-32,"Mao, DOM",DOM,Pitcher,18.4863613.3,-69.9011274.3
 2278,2352,84,Julio Mateo,4.1,2002,2007,24-29,"Bani, DOM",DOM,Pitcher,18.4350075.15,-69.9490936.15
-2279,2353,85,Joel Peralta,4.1,2005,2016,29-40,"Bonao, DOM",DOM,Pitcher,Unnamed: 2279,Unnamed: 2279
 2280,2354,86,Rob Tejeda,4.0,2005,2011,23-29,"Bani, DOM",DOM,Pitcher,18.4350075.16,-69.9490936.16
-2281,2355,87,Domingo Germán,4.0,2017,2022,24-29,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2281,Unnamed: 2281
 2282,2356,88,José Veras,3.8,2006,2014,25-33,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.67,-69.91675188782874.67
-2283,2357,89,Antonio Alfonseca,3.7,1997,2007,25-35,"La Romana, DOM",DOM,Pitcher,Unnamed: 2283,Unnamed: 2283
-2284,2358,90,Arodys Vizcaíno,3.7,2011,2022,20-31,"Yaguate, DOM",DOM,Pitcher,Unnamed: 2284,Unnamed: 2284
 2285,2359,91,Dinelson Lamet,3.7,2017,2022,24-29,"Santiago, DOM",DOM,Pitcher,18.5048605.18,-69.8817293.18
-2286,2360,92,Juan Carlos Oviedo,3.7,2005,2014,23-32,"Bonao, DOM",DOM,Pitcher,Unnamed: 2286,Unnamed: 2286
 2287,2361,93,Seranthony Domínguez,3.6,2018,2022,23-27,"Esperanza, DOM",DOM,Pitcher,18.4437089.2,-69.9716127.2
 2288,2362,94,Pedro Báez,3.6,2014,2022,26-34,"Bani, DOM",DOM,Pitcher,18.4350075.17,-69.9490936.17
 2289,2363,95,Jarlín García,3.5,2017,2022,24-29,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.68,-69.91675188782874.68
@@ -2293,66 +1481,40 @@
 2291,2365,97,Aquilino López,3.4,2003,2008,28-33,"Villa Altagracia, DOM",DOM,Pitcher,18.673690299999997.1,-70.17615007998798.1
 2292,2366,98,Reyes Moronta,3.4,2017,2022,24-29,"Santiago, DOM",DOM,Pitcher,18.5048605.19,-69.8817293.19
 2293,2367,99,Runelvys Hernández,3.3,2002,2008,24-30,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.69,-69.91675188782874.69
-2294,2368,100,Fernando Abad,3.2,2010,2021,24-35,"La Romana, DOM",DOM,Pitcher,Unnamed: 2294,Unnamed: 2294
 2295,2369,101,Nino Espinosa,3.1,1974,1981,20-27,"Villa Altagracia, DOM",DOM,Pitcher,18.673690299999997.2,-70.17615007998798.2
-2296,2370,102,Miguel Castro,2.9,2015,2022,20-27,"La Romana, DOM",DOM,Pitcher,Unnamed: 2296,Unnamed: 2296
-2297,2371,103,José Paniagua,2.8,1996,2003,22-29,"San Jose de Ocoa, DOM",DOM,Pitcher,Unnamed: 2297,Unnamed: 2297
-2298,2373,105,Antonio Bastardo,2.8,2009,2017,23-31,"Hato Mayor del Rey, DOM",DOM,Pitcher,Unnamed: 2298,Unnamed: 2298
-2299,2374,106,José Jiménez,2.8,1998,2004,24-30,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2299,Unnamed: 2299
 2300,2375,107,Juan Nicasio,2.7,2011,2020,24-33,"San Francisco de Macoris, DOM",DOM,Pitcher,18.4788104.4,-69.9053596.4
-2301,2376,108,Sam Deduno,2.7,2010,2015,26-31,"La Romana, DOM",DOM,Pitcher,Unnamed: 2301,Unnamed: 2301
 2302,2378,110,Juan Minaya,2.6,2016,2022,25-31,"Maimon, DOM",DOM,Pitcher,18.4714976,-69.9210241
 2303,2379,111,Jorge Sosa,2.6,2002,2010,24-32,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.70,-69.91675188782874.70
-2304,2380,112,José Arredondo,2.5,2008,2012,24-28,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2304,Unnamed: 2304
 2305,2381,113,Luis García,2.5,2013,2022,26-35,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.71,-69.91675188782874.71
 2306,2382,114,Camilo Doval,2.5,2021,2022,23-24,"Yamasa, DOM",DOM,Pitcher,18.5001758,-69.9053047
-2307,2383,115,Hansel Robles,2.5,2015,2022,24-31,"Bonao, DOM",DOM,Pitcher,Unnamed: 2307,Unnamed: 2307
 2308,2384,116,Yimi García,2.4,2014,2022,23-31,"Moca, DOM",DOM,Pitcher,18.5021434.2,-69.9085623.2
-2309,2385,117,Félix Peña,2.3,2016,2021,26-31,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2309,Unnamed: 2309
 2310,2386,118,Diomedes Olivo,2.1,1960,1963,41-44,"Guayubin, DOM",DOM,Pitcher,18.4891502,-69.9680905
 2311,2387,119,José Ureña,2.1,2015,2022,23-30,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.72,-69.91675188782874.72
 2312,2388,120,Miguel Asencio,2.1,2002,2006,21-25,"Villa Mella, DOM",DOM,Pitcher,18.5159206.2,-69.9144308.2
 2313,2389,121,Carlos Estévez,2.1,2016,2022,23-29,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.73,-69.91675188782874.73
-2314,2390,122,José Cisnero,2.1,2013,2022,24-33,"Bajos de Haina, DOM",DOM,Pitcher,Unnamed: 2314,Unnamed: 2314
 2315,2391,123,Wandy Peralta,2.0,2016,2022,24-30,"San Francisco de Macoris, DOM",DOM,Pitcher,18.4788104.5,-69.9053596.5
-2316,2392,124,Ben Rivera,2.0,1992,1994,24-26,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2316,Unnamed: 2316
 2317,2393,125,Joel Payamps,2.0,2019,2022,25-28,"Santiago, DOM",DOM,Pitcher,18.5048605.20,-69.8817293.20
 2318,2394,126,Tony Peña,1.9,2006,2011,24-29,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.74,-69.91675188782874.74
-2319,2395,127,Gregory Soto,1.8,2019,2022,24-27,"Bajos de Haina, DOM",DOM,Pitcher,Unnamed: 2319,Unnamed: 2319
 2320,2396,128,Rubby De La Rosa,1.8,2011,2017,22-28,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.75,-69.91675188782874.75
 2321,2397,129,Silvio Martínez,1.8,1977,1981,21-25,"Santiago, DOM",DOM,Pitcher,18.5048605.21,-69.8817293.21
 2322,2398,130,Carlos Almanzar,1.7,1997,2005,23-31,"Santiago, DOM",DOM,Pitcher,18.5048605.22,-69.8817293.22
 2323,2399,131,Edward Cabrera,1.6,2021,2022,23-24,"Santiago, DOM",DOM,Pitcher,18.5048605.23,-69.8817293.23
-2324,2400,132,Duaner Sánchez,1.6,2002,2009,22-29,"Cotui, DOM",DOM,Pitcher,Unnamed: 2324,Unnamed: 2324
 2325,2401,133,Edgar Santana,1.6,2017,2021,25-29,"Puerto Plata, DOM",DOM,Pitcher,18.5028514.6,-69.9140966.6
 2326,2403,135,Nelson Cruz,1.5,1997,2003,24-30,"Puerto Plata, DOM",DOM,Pitcher,18.5028514.7,-69.9140966.7
-2327,2404,136,Roansy Contreras,1.4,2021,2022,21-22,"Peralvillo, DOM",DOM,Pitcher,Unnamed: 2327,Unnamed: 2327
-2328,2406,138,Adalberto Mejía,1.4,2016,2019,23-26,"Bonao, DOM",DOM,Pitcher,Unnamed: 2328,Unnamed: 2328
-2329,2407,139,Pedro San,1.4,1926,1928,31-33,"San Fernando de Monte Cristi, DOM",DOM,Pitcher,Unnamed: 2329,Unnamed: 2329
 2330,2408,140,Victor Alcántara,1.3,2017,2019,24-26,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.76,-69.91675188782874.76
-2331,2409,141,Domingo Acevedo,1.3,2021,2022,27-28,"Villa Los Almacigos, DOM",DOM,Pitcher,Unnamed: 2331,Unnamed: 2331
 2332,2410,142,Ruddy Lugo,1.3,2006,2007,26-27,"Barahona, DOM",DOM,Pitcher,18.4801857.1,-69.8975526.1
 2333,2411,143,Pedro Martínez,1.2,1993,1997,24-28,"Villa Mella, DOM",DOM,Pitcher,18.5159206.3,-69.9144308.3
 2334,2412,144,Jhan Mariñez,1.2,2010,2018,21-29,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.77,-69.91675188782874.77
-2335,2413,145,Román Méndez,1.1,2014,2015,23-24,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2335,Unnamed: 2335
-2336,2414,146,Jenrry Mejia,1.1,2010,2015,20-25,"Tabara Arriba, DOM",DOM,Pitcher,Unnamed: 2336,Unnamed: 2336
 2337,2415,147,Alfredo Simón,1.1,2008,2016,27-35,"Santiago, DOM",DOM,Pitcher,18.5048605.24,-69.8817293.24
-2338,2416,148,Valerio De Los Santos,1.0,1998,2008,25-35,"Las Matas de Farfan, DOM",DOM,Pitcher,Unnamed: 2338,Unnamed: 2338
 2339,2417,149,Yohan Ramirez,1.0,2020,2022,25-27,"Villa Mella, DOM",DOM,Pitcher,18.5159206.4,-69.9144308.4
 2340,2418,150,Franklyn Germán,0.9,2002,2008,22-28,"San Cristobal, DOM",DOM,Pitcher,18.4972887.19,-69.9619888.19
-2341,2419,151,Jorge Alcalá,0.9,2019,2022,23-26,"Bajos de Haina, DOM",DOM,Pitcher,Unnamed: 2341,Unnamed: 2341
-2342,2420,152,Josias Manzanillo,0.9,1991,2004,23-36,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2342,Unnamed: 2342
-2343,2421,153,Fabio Castro,0.9,2006,2007,21-22,"Monte Cristi, DOM",DOM,Pitcher,Unnamed: 2343,Unnamed: 2343
-2344,2422,154,Yorkis Pérez,0.9,1991,2002,23-34,"Bajos de Haina, DOM",DOM,Pitcher,Unnamed: 2344,Unnamed: 2344
 2345,2423,155,Geraldo Guzmán,0.8,2000,2001,27-28,"Tenares, DOM",DOM,Pitcher,18.4551346.3,-69.9677875.3
 2346,2424,156,Domingo Tapia,0.8,2020,2022,28-30,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.78,-69.91675188782874.78
-2347,2425,157,Ramón Troncoso,0.8,2008,2013,25-30,"San Jose de Ocoa, DOM",DOM,Pitcher,Unnamed: 2347,Unnamed: 2347
 2348,2426,158,Huascar Ynoa,0.8,2019,2022,21-24,"Puerto Plata, DOM",DOM,Pitcher,18.5028514.8,-69.9140966.8
 2349,2429,161,Willis Roberts,0.8,1999,2004,24-29,"San Cristobal, DOM",DOM,Pitcher,18.4972887.20,-69.9619888.20
 2350,2430,162,Ricardo Rodríguez,0.8,2002,2005,24-27,"Guayubin, DOM",DOM,Pitcher,18.4891502.1,-69.9680905.1
 2351,2431,163,Pedro Borbón,0.8,1992,2003,24-35,"Mao, DOM",DOM,Pitcher,18.4863613.4,-69.9011274.4
 2352,2432,164,Jordan Norberto,0.7,2010,2012,23-25,"Nagua, DOM",DOM,Pitcher,18.4871794.2,-69.892788.2
-2353,2433,165,Freddy Dolsi,0.7,2008,2009,25-26,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2353,Unnamed: 2353
 2354,2434,166,Ambiorix Burgos,0.7,2005,2007,21-23,"Nagua, DOM",DOM,Pitcher,18.4871794.3,-69.892788.3
 2355,2435,167,Efrain Valdéz,0.7,1990,1998,23-31,"Nizao, DOM",DOM,Pitcher,18.4916037.3,-69.9610423664048.3
 2356,2436,168,Bryan Abreu,0.7,2019,2022,22-25,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.79,-69.91675188782874.79
@@ -2363,79 +1525,40 @@
 2361,2441,173,Leo Estrella,0.6,2000,2004,25-29,"Puerto Plata, DOM",DOM,Pitcher,18.5028514.9,-69.9140966.9
 2362,2442,174,Carlos Ramírez,0.6,2017,2018,26-27,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.80,-69.91675188782874.80
 2363,2444,176,Luis Gil,0.6,2021,2022,23-24,"Azua, DOM",DOM,Pitcher,18.4444541.4,-69.931869.4
-2364,2445,177,Phillips Valdéz,0.6,2019,2022,27-30,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2364,Unnamed: 2364
-2365,2446,178,Wander Suero,0.6,2018,2021,26-29,"Sabana Larga, DOM",DOM,Pitcher,Unnamed: 2365,Unnamed: 2365
-2366,2447,179,Lorenzo Barceló,0.6,2000,2002,22-24,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2366,Unnamed: 2366
 2367,2448,180,Alberto Árias,0.5,2007,2009,23-25,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.81,-69.91675188782874.81
-2368,2449,181,Julio Santana,0.5,1997,2006,24-33,"San Pedro de Macoris, DOM",DOM,Pitcher,Unnamed: 2368,Unnamed: 2368
-2369,2450,182,José Núñez,0.5,2001,2002,22-23,"Monte Cristi, DOM",DOM,Pitcher,Unnamed: 2369,Unnamed: 2369
 2370,2451,183,Luis Pérez,0.5,2011,2013,26-28,"Guayubin, DOM",DOM,Pitcher,18.4891502.3,-69.9680905.3
-2371,2452,184,Wilson Heredia,0.5,1995,1997,23-25,"La Romana, DOM",DOM,Pitcher,Unnamed: 2371,Unnamed: 2371
 2372,2453,185,Julio Mañón,0.5,2003,2006,30-33,"Guerra, DOM",DOM,Pitcher,-22.9166277,-43.17345519916125
 2373,2454,186,Jandel Gustave,0.5,2016,2022,23-29,"Pimentel, DOM",DOM,Pitcher,18.4851333,-69.8958799
 2374,2455,187,Félix Heredia,0.5,1996,2005,21-30,"Barahona, DOM",DOM,Pitcher,18.4801857.2,-69.8975526.2
 2375,2456,188,Cristhian Martínez,0.5,2009,2013,27-31,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.82,-69.91675188782874.82
-2376,2458,190,Jorge De Paula,0.4,2003,2005,24-26,"Sabana Grande de Boya, DOM",DOM,Pitcher,Unnamed: 2376,Unnamed: 2376
 2377,2459,191,Joel Carreño,0.4,2011,2012,24-25,"San Cristobal, DOM",DOM,Pitcher,18.4972887.22,-69.9619888.22
 2378,2460,192,Arquimedes Caminero,0.4,2013,2016,26-29,"Santo Domingo, DOM",DOM,Pitcher,18.46128065.83,-69.91675188782874.83
 2379,2461,193,Marcos Diplán,0.4,2021,2022,24-25,"Santiago, DOM",DOM,Pitcher,18.5048605.25,-69.8817293.25
-2380,2462,194,Rafael Montero,0.4,2014,2022,23-31,"Higuerito, DOM",DOM,Pitcher,Unnamed: 2380,Unnamed: 2380
 2381,2463,195,Carlos Rosa,0.4,2008,2010,23-25,"San Francisco de Macoris, DOM",DOM,Pitcher,18.4788104.6,-69.9053596.6
-2382,2465,197,Carlos Martínez,0.4,2006,2009,24-27,"Villa Vasquez, DOM",DOM,Pitcher,Unnamed: 2382,Unnamed: 2382
 2383,2466,198,Angel Rondón,0.4,2021,2022,23-24,"Higuey, DOM",DOM,Pitcher,18.4520517.1,-69.9650232.1
-2384,2467,199,Sammy Gervacio,0.4,2009,2010,24-25,"Sabana de la Mar, DOM",DOM,Pitcher,Unnamed: 2384,Unnamed: 2384
 2385,2469,1,Luis Tiant,65.6,1964,1982,23-41,"Marianao, CUB",CUB,Pitcher,23.0926744.56,-82.4534509.56
 2386,2470,2,Dolf Luque,43.8,1914,1935,23-44,"La Habana, CUB",CUB,Pitcher,23.0926744.57,-82.4534509.57
 2387,2471,3,Camilo Pascual,37.5,1954,1971,20-37,"La Habana, CUB",CUB,Pitcher,23.0926744.58,-82.4534509.58
-2388,2472,4,Mike Cuellar,29.2,1959,1977,22-40,"Las Villas, CUB",CUB,Pitcher,Unnamed: 2388,Unnamed: 2388
-2389,2473,5,Liván Hernández,24.8,1996,2012,21-37,"Villa Clara, CUB",CUB,Pitcher,Unnamed: 2389,Unnamed: 2389
-2390,2474,6,Orlando Hernández,23.1,1998,2007,32-41,"Villa Clara, CUB",CUB,Pitcher,Unnamed: 2390,Unnamed: 2390
-2391,2475,7,Pedro Ramos,22.4,1955,1970,20-35,"Pinar del Rio, CUB",CUB,Pitcher,Unnamed: 2391,Unnamed: 2391
-2392,2476,8,Aroldis Chapman,19.0,2010,2022,22-34,"Holguin, CUB",CUB,Pitcher,Unnamed: 2392,Unnamed: 2392
-2393,2477,9,Raisel Iglesias,13.6,2015,2022,25-32,"Isla de la Juventud, CUB",CUB,Pitcher,Unnamed: 2393,Unnamed: 2393
-2394,2478,10,José Contreras,13.5,2003,2013,31-41,"Las Martinas, CUB",CUB,Pitcher,Unnamed: 2394,Unnamed: 2394
-2395,2479,11,Orlando Peña,13.3,1958,1975,24-41,"Victoria de las Tunas, CUB",CUB,Pitcher,Unnamed: 2395,Unnamed: 2395
 2396,2480,12,José Fernández,13.0,2013,2016,20-23,"Santa Clara, CUB",CUB,Pitcher,37.3787267.3,-122.07084.3
 2397,2481,13,Luis Tiant,12.4,1930,1947,23-40,"La Habana, CUB",CUB,Pitcher,23.0926744.59,-82.4534509.59
-2398,2482,14,Sandy Consuegra,12.2,1950,1957,29-36,"Potrerillos, CUB",CUB,Pitcher,Unnamed: 2398,Unnamed: 2398
-2399,2483,15,Diego Seguí,12.0,1962,1977,24-39,"Holguin, CUB",CUB,Pitcher,Unnamed: 2399,Unnamed: 2399
-2400,2484,16,José Leblanc,10.3,1920,1921,26-27,"Cienfuegos, CUB",CUB,Pitcher,Unnamed: 2400,Unnamed: 2400
-2401,2485,17,Martín Dihigo,10.2,1923,1945,18-40,"Cidra, CUB",CUB,Pitcher,Unnamed: 2401,Unnamed: 2401
-2402,2486,18,Connie Marrero,9.8,1950,1954,39-43,"Sagua La Grande, CUB",CUB,Pitcher,Unnamed: 2402,Unnamed: 2402
 2403,2487,19,Rolando Arrojo,9.8,1998,2002,32-36,"Santa Clara, CUB",CUB,Pitcher,37.3787267.4,-122.07084.4
-2404,2488,20,Heliodoro Díaz,8.6,1926,1935,21-30,"Puerto Padre, CUB",CUB,Pitcher,Unnamed: 2404,Unnamed: 2404
 2405,2489,21,Mike Fornieles,8.0,1952,1963,20-31,"La Habana, CUB",CUB,Pitcher,23.0926744.60,-82.4534509.60
-2406,2490,22,Nestor Cortes,5.9,2018,2022,23-27,"Surgidero de Batabano, CUB",CUB,Pitcher,Unnamed: 2406,Unnamed: 2406
-2407,2491,23,Danys Báez,5.8,2001,2011,23-33,"Pinar del Rio, CUB",CUB,Pitcher,Unnamed: 2407,Unnamed: 2407
-2408,2492,24,Basilio Rosell,5.7,1926,1929,24-27,"Los Arabos, CUB",CUB,Pitcher,Unnamed: 2408,Unnamed: 2408
-2409,2493,25,José Méndez,5.0,1920,1926,35-41,"Cardenas, CUB",CUB,Pitcher,Unnamed: 2409,Unnamed: 2409
 2410,2494,26,Luis Aloma,4.7,1950,1953,27-30,"La Habana, CUB",CUB,Pitcher,23.0926744.61,-82.4534509.61
 2411,2495,27,Isidro Fabré,4.2,1923,1939,28-44,"La Habana, CUB",CUB,Pitcher,23.0926744.62,-82.4534509.62
-2412,2496,28,Silvino Ruiz,4.0,1928,1941,27-40,"Guanabacoa, CUB",CUB,Pitcher,Unnamed: 2412,Unnamed: 2412
 2413,2497,29,Ariel Prieto,3.3,1995,2001,25-31,"La Habana, CUB",CUB,Pitcher,23.0926744.63,-82.4534509.63
-2414,2498,30,Lucas Boada,3.0,1921,1924,28-31,"Matanzas, CUB",CUB,Pitcher,Unnamed: 2414,Unnamed: 2414
-2415,2499,31,Pedro Dibut,3.0,1923,1925,30-32,"Cienfuegos, CUB",CUB,Pitcher,Unnamed: 2415,Unnamed: 2415
 2416,2501,33,Lino Donoso,2.8,1947,1956,24-33,"La Habana, CUB",CUB,Pitcher,23.0926744.64,-82.4534509.64
 2417,2502,34,Tony Fossas,2.5,1988,1999,30-41,"La Habana, CUB",CUB,Pitcher,23.0926744.65,-82.4534509.65
 2418,2503,35,Marcelino López,2.5,1963,1972,19-28,"La Habana, CUB",CUB,Pitcher,23.0926744.66,-82.4534509.66
 2419,2505,37,Lázaro Salazar,2.1,1930,1936,17-23,"La Habana, CUB",CUB,Pitcher,23.0926744.67,-82.4534509.67
-2420,2506,38,Roenis Elías,2.1,2014,2022,25-33,"Guantanamo, CUB",CUB,Pitcher,Unnamed: 2420,Unnamed: 2420
 2421,2507,39,Cionel Pérez,2.0,2018,2022,22-26,"La Habana, CUB",CUB,Pitcher,23.0926744.68,-82.4534509.68
 2422,2508,40,José Acosta,2.0,1920,1922,29-31,"La Habana, CUB",CUB,Pitcher,23.0926744.69,-82.4534509.69
 2423,2509,41,Jesús Lorenzo,2.0,1929,1930,23-24,"La Habana, CUB",CUB,Pitcher,23.0926744.70,-82.4534509.70
 2424,2510,42,David Gómez,1.7,1925,1928,23-26,"La Habana, CUB",CUB,Pitcher,23.0926744.71,-82.4534509.71
-2425,2511,43,Minnie Rojas,1.7,1966,1968,32-34,"Remedios, CUB",CUB,Pitcher,Unnamed: 2425,Unnamed: 2425
-2426,2512,44,Óscar Zamora,1.6,1974,1978,29-33,"Camaguey, CUB",CUB,Pitcher,Unnamed: 2426,Unnamed: 2426
 2427,2513,45,Aríel Miranda,1.5,2016,2018,27-29,"La Habana, CUB",CUB,Pitcher,23.0926744.72,-82.4534509.72
 2428,2514,46,René Arocha,1.4,1993,1997,29-33,"La Habana, CUB",CUB,Pitcher,23.0926744.73,-82.4534509.73
 2429,2515,47,Vladimir Gutiérrez,1.4,2021,2022,25-26,"La Habana, CUB",CUB,Pitcher,23.0926744.74,-82.4534509.74
-2430,2517,49,Dalier Hinojosa,1.2,2015,2016,29-30,"Isla de la Juventud, CUB",CUB,Pitcher,Unnamed: 2430,Unnamed: 2430
 2431,2518,50,Francisley Bueno,1.2,2008,2014,27-33,"La Habana, CUB",CUB,Pitcher,23.0926744.75,-82.4534509.75
-2432,2519,51,Julio Moreno,1.1,1950,1953,29-32,"Guines, CUB",CUB,Pitcher,Unnamed: 2432,Unnamed: 2432
-2433,2520,52,Esteban Montalvo,1.0,1923,1928,27-32,"Matanzas, CUB",CUB,Pitcher,Unnamed: 2433,Unnamed: 2433
-2434,2521,53,Osvaldo Fernández,1.0,1996,2001,29-34,"Holguin, CUB",CUB,Pitcher,Unnamed: 2434,Unnamed: 2434
 2435,2522,54,Manuel Parrado,0.8,1921,1927,27-33,"La Habana, CUB",CUB,Pitcher,23.0926744.76,-82.4534509.76
-2436,2523,55,Evelio Hernández,0.8,1956,1957,25-26,"Guanabacoa, CUB",CUB,Pitcher,Unnamed: 2436,Unnamed: 2436
 2437,2525,57,Alberto Castillo,0.7,2008,2011,32-35,"La Habana, CUB",CUB,Pitcher,23.0926744.77,-82.4534509.77
 2438,2526,58,Michel Báez,0.6,2019,2022,23-26,"La Habana, CUB",CUB,Pitcher,23.0926744.78,-82.4534509.78
 2439,2527,59,Ed Bauta,0.6,1960,1964,25-29,"Florida, CUB",CUB,Pitcher,29.0365836.1,-81.3019019096829.1
@@ -2443,68 +1566,35 @@
 2441,2533,65,Óscar Tuero,0.3,1918,1920,24-26,"La Habana, CUB",CUB,Pitcher,23.0926744.79,-82.4534509.79
 2442,2537,69,Eustaquio Pedroso,0.2,1920,1926,33-39,"La Habana, CUB",CUB,Pitcher,23.0926744.80,-82.4534509.80
 2443,2539,71,Michael Tejera,0.2,1999,2005,22-28,"La Habana, CUB",CUB,Pitcher,23.0926744.81,-82.4534509.81
-2444,2540,72,Bernardo Baró,0.2,1920,1929,24-33,"Cardenas, CUB",CUB,Pitcher,Unnamed: 2444,Unnamed: 2444
-2445,2541,73,Yoan López,0.2,2018,2022,25-29,"Nueva Gerona, CUB",CUB,Pitcher,Unnamed: 2445,Unnamed: 2445
 2446,2542,74,Rafael Pedroso,0.2,1926,1928,21-23,"La Habana, CUB",CUB,Pitcher,23.0926744.82,-82.4534509.82
 2447,2548,80,Héctor Maestri,0.1,1960,1961,25-26,"La Habana, CUB",CUB,Pitcher,23.0926744.83,-82.4534509.83
-2448,2549,81,Cristóbal Torriente,0.1,1920,1932,26-38,"Cienfuegos, CUB",CUB,Pitcher,Unnamed: 2448,Unnamed: 2448
 2449,2551,83,Francisco Cárdenas,0.1,1924,1927,26-29,"La Habana, CUB",CUB,Pitcher,23.0926744.84,-82.4534509.84
 2450,2554,86,Pelayo Chacón,0.1,1923,1927,34-38,"La Habana, CUB",CUB,Pitcher,23.0926744.85,-82.4534509.85
 2451,2557,89,Cookie Rojas,0.0,1962,1977,23-38,"La Habana, CUB",CUB,Pitcher,23.0926744.86,-82.4534509.86
-2452,2558,90,Alexei Ramírez,0.0,2008,2016,26-34,"Pinar del Rio, CUB",CUB,Pitcher,Unnamed: 2452,Unnamed: 2452
-2453,2559,91,Silvio García,0.0,1936,1947,22-33,"Limonar, CUB",CUB,Pitcher,Unnamed: 2453,Unnamed: 2453
-2454,2560,92,Kendrys Morales,0.0,2006,2019,23-36,"Fomento, CUB",CUB,Pitcher,Unnamed: 2454,Unnamed: 2454
 2455,2563,95,Johan Oviedo,0.0,2020,2022,22-24,"La Habana, CUB",CUB,Pitcher,23.0926744.87,-82.4534509.87
 2456,2564,96,Raúl Sánchez,0.0,1952,1960,21-29,"Marianao, CUB",CUB,Pitcher,23.0926744.88,-82.4534509.88
-2457,2566,98,Ronald Bolaños,0.0,2019,2022,22-25,"Santa Cruz del Norte, CUB",CUB,Pitcher,Unnamed: 2457,Unnamed: 2457
 2458,2568,100,Óscar Estrada,0.0,1924,1929,22-27,"La Habana, CUB",CUB,Pitcher,23.0926744.89,-82.4534509.89
 2459,2569,101,Marty Martínez,0.0,1962,1972,20-30,"La Habana, CUB",CUB,Pitcher,23.0926744.90,-82.4534509.90
-2460,2572,104,Bert Campaneris,-0.1,1964,1983,22-41,"Pueblo Nuevo, CUB",CUB,Pitcher,Unnamed: 2460,Unnamed: 2460
-2461,2574,106,Leonys Martín,-0.1,2011,2019,23-31,"Villa Clara, CUB",CUB,Pitcher,Unnamed: 2461,Unnamed: 2461
-2462,2575,107,José María Fernández,-0.1,1923,1944,27-48,"Guanabacoa, CUB",CUB,Pitcher,Unnamed: 2462,Unnamed: 2462
 2463,2579,111,José Canseco,-0.1,1985,2001,20-36,"La Habana, CUB",CUB,Pitcher,23.0926744.91,-82.4534509.91
 2464,2580,112,Julio Becquer,-0.1,1955,1963,23-31,"La Habana, CUB",CUB,Pitcher,23.0926744.92,-82.4534509.92
 2465,2582,114,Vicente Amor,-0.1,1955,1957,22-24,"La Habana, CUB",CUB,Pitcher,23.0926744.93,-82.4534509.93
-2466,2587,119,Pablo Mesa,-0.2,1923,1927,25-29,"Caibarien, CUB",CUB,Pitcher,Unnamed: 2466,Unnamed: 2466
 2467,2588,120,Raúl Álvarez,-0.2,1924,1927,22-25,"La Habana, CUB",CUB,Pitcher,23.0926744.94,-82.4534509.94
 2468,2595,127,Mike Herrera,-0.3,1920,1928,22-30,"La Habana, CUB",CUB,Pitcher,23.0926744.95,-82.4534509.95
-2469,2596,128,Adrián Zabala,-0.3,1945,1949,28-32,"San Antonio de los Banos, CUB",CUB,Pitcher,Unnamed: 2469,Unnamed: 2469
 2470,2597,129,Adrián Morejón,-0.3,2019,2022,20-23,"La Habana, CUB",CUB,Pitcher,23.0926744.96,-82.4534509.96
-2471,2598,130,Julio Rojo,-0.3,1923,1929,29-35,"Sagua la Grande, CUB",CUB,Pitcher,Unnamed: 2471,Unnamed: 2471
 2472,2600,132,Tony Menendez,-0.3,1992,1994,27-29,"La Habana, CUB",CUB,Pitcher,23.0926744.97,-82.4534509.97
-2473,2601,133,Gil Torres,-0.3,1940,1946,24-30,"Regla, CUB",CUB,Pitcher,Unnamed: 2473,Unnamed: 2473
-2474,2603,135,Israel Sánchez,-0.3,1988,1990,24-26,"Falcon, CUB",CUB,Pitcher,Unnamed: 2474,Unnamed: 2474
-2475,2604,136,Armando Vázquez,-0.3,1944,1948,22-26,"Guines, CUB",CUB,Pitcher,Unnamed: 2475,Unnamed: 2475
 2476,2605,137,Freddy Rodríguez,-0.3,1958,1959,34-35,"La Habana, CUB",CUB,Pitcher,23.0926744.98,-82.4534509.98
 2477,2607,139,Cándido Gálvez,-0.4,1929,1932,28-31,"La Habana, CUB",CUB,Pitcher,23.0926744.99,-82.4534509.99
-2478,2610,142,Yoslán Herrera,-0.4,2008,2014,27-33,"Pinar del Rio, CUB",CUB,Pitcher,Unnamed: 2478,Unnamed: 2478
-2479,2613,145,Onelki García,-0.4,2013,2017,23-27,"Guantanamo, CUB",CUB,Pitcher,Unnamed: 2479,Unnamed: 2479
 2480,2615,147,Raúl Valdés,-0.5,2010,2014,32-36,"La Habana, CUB",CUB,Pitcher,23.0926744.100,-82.4534509.100
 2481,2616,148,George Lauzerique,-0.6,1967,1970,19-22,"La Habana, CUB",CUB,Pitcher,23.0926744.101,-82.4534509.101
 2482,2617,149,Vladimir Núñez,-0.6,1998,2009,23-34,"La Habana, CUB",CUB,Pitcher,23.0926744.102,-82.4534509.102
 2483,2618,150,Rogelio Alonso,-0.6,1927,1930,21-24,"La Habana, CUB",CUB,Pitcher,23.0926744.103,-82.4534509.103
-2484,2619,151,Rodolfo Fernández,-0.6,1935,1946,24-35,"Guanabacoa, CUB",CUB,Pitcher,Unnamed: 2484,Unnamed: 2484
 2485,2621,153,Adrián Hernández,-0.7,2001,2004,26-29,"La Habana, CUB",CUB,Pitcher,23.0926744.104,-82.4534509.104
-2486,2623,155,Yunesky Maya,-0.7,2010,2013,28-31,"Pinar del Rio, CUB",CUB,Pitcher,Unnamed: 2486,Unnamed: 2486
-2487,2625,157,Emilio Palmero,-0.8,1915,1928,20-33,"Guanabacoa, CUB",CUB,Pitcher,Unnamed: 2487,Unnamed: 2487
-2488,2627,159,Lázaro Medina,-0.8,1944,1945,21-22,"Quivican, CUB",CUB,Pitcher,Unnamed: 2488,Unnamed: 2488
 2489,2632,164,Armando López,-1.0,1923,1924,20-21,"Santa Clara, CUB",CUB,Pitcher,37.3787267.6,-122.07084.6
-2490,2633,165,Aurelio Monteagudo,-1.0,1963,1973,19-29,"Caibarien, CUB",CUB,Pitcher,Unnamed: 2490,Unnamed: 2490
 2491,2634,166,Sandy Ullrich,-1.2,1944,1945,22-23,"La Habana, CUB",CUB,Pitcher,23.0926744.105,-82.4534509.105
 2492,2635,167,René Monteagudo,-1.3,1938,1945,22-29,"La Habana, CUB",CUB,Pitcher,23.0926744.106,-82.4534509.106
-2493,2637,169,Cocaína García,-2.3,1927,1935,21-29,"Manacas, CUB",CUB,Pitcher,Unnamed: 2493,Unnamed: 2493
 2494,2638,170,Odrisamer Despaigne,-2.6,2014,2019,27-32,"La Habana, CUB",CUB,Pitcher,23.0926744.107,-82.4534509.107
 2495,2639,171,Eddie Oropesa,-2.7,2001,2004,29-32,"Colon, CUB",CUB,Pitcher,38.1658588.2,-7.8917556.2
-2496,2642,1,Tom Mastny,-0.7,2006,2008,25-27,"East Bontang, IDN",IDN,Pitcher,Unnamed: 2496,Unnamed: 2496
-2497,2643,1,Tony Mullane,61.0,1881,1894,22-35,"Cork, IRL",IRL,Pitcher,Unnamed: 2497,Unnamed: 2497
-2498,2644,2,Tommy Bond,61.0,1874,1884,18-28,"Granard, IRL",IRL,Pitcher,Unnamed: 2498,Unnamed: 2498
-2499,2646,4,Mike O'Neill,3.9,1901,1907,23-29,"Maam, IRL",IRL,Pitcher,Unnamed: 2499,Unnamed: 2499
-2500,2648,6,Tom Dowse,0.1,1890,1892,23-25,"Mohill, IRL",IRL,Pitcher,Unnamed: 2500,Unnamed: 2500
-2501,2649,7,Jocko Fields,-0.2,1887,1892,22-27,"Cork, IRL",IRL,Pitcher,Unnamed: 2501,Unnamed: 2501
-2502,2650,8,Cyclone Ryan,-0.2,1887,1891,21-25,"Capperwhite, IRL",IRL,Pitcher,Unnamed: 2502,Unnamed: 2502
 2503,2658,16,Con Lucid,-1.4,1893,1897,19-23,"Dublin, IRL",IRL,Pitcher,53.328274.3,-6.2768521.3
-2504,2659,17,Curry Foley,-2.2,1879,1883,23-27,"Milltown, IRL",IRL,Pitcher,Unnamed: 2504,Unnamed: 2504
-2505,2660,1,Jeff Bronkey,0.5,1993,1995,27-29,"Kabul, AFG",AFG,Pitcher,Unnamed: 2505,Unnamed: 2505
 2506,2661,1,Fernando Valenzuela,37.4,1980,1997,19-36,"Navojoa, MEX",MEX,Pitcher,19.4244934.3,-98.88112.3
 2507,2662,2,Teddy Higuera,30.3,1985,1994,27-36,"Los Mochis, MEX",MEX,Pitcher,19.2681997.5,-98.8307063.5
 2508,2663,3,Ismael Valdéz,24.5,1994,2005,20-31,"Ciudad Victoria, MEX",MEX,Pitcher,23.8205826.2,-99.1238237.2
@@ -2553,7 +1643,6 @@
 2551,2708,48,Bob Greenwood,0.5,1954,1955,26-27,"Cananea, MEX",MEX,Pitcher,30.9969922.2,-110.2888663.2
 2552,2709,49,Jorge Rubio,0.5,1966,1967,21-22,"Mexicali, MEX",MEX,Pitcher,19.425657.7,-98.8813399.7
 2553,2710,50,Rigo Beltrán,0.5,1997,2004,27-34,"Tijuana, MEX",MEX,Pitcher,32.5465719.11,-116.9753088.11
-2554,2712,52,Ángel Moreno,0.4,1981,1982,26-27,"Soledad de Doblado, MEX",MEX,Pitcher,Unnamed: 2554,Unnamed: 2554
 2555,2713,53,Francisco Rodríguez,0.3,2010,2011,27-28,"Mexicali, MEX",MEX,Pitcher,19.425657.8,-98.8813399.8
 2556,2714,54,Miguel Del Toro,0.2,1999,2000,27-28,"San Ignacio, MEX",MEX,Pitcher,20.564444.1,-104.831111.1
 2557,2716,56,Luis González,0.0,2020,2022,24-26,"Hermosillo, MEX",MEX,Pitcher,19.6217216.6,-99.2161405.6
