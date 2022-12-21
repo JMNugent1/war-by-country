@@ -10,7 +10,7 @@ from sqlalchemy.orm import Session, sessionmaker
 from sqlalchemy import create_engine, func
 
 # Create engine to wardata.sqlite
-engine = create_engine("sqlite:///data/wardata.sqlite")
+engine = create_engine("sqlite:///wardata.sqlite")
 DBSession = sessionmaker(bind=engine)
 session = DBSession()
 

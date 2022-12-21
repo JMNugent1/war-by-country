@@ -1,5 +1,5 @@
 // Store our API endpoint as queryUrl.
-var queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
+var queryUrl = "/api/v1.0/geojson";
 
 // Perform a GET request to the query URL/
 d3.json(queryUrl).then(function (data) {
@@ -13,7 +13,7 @@ function createFeatures(earthquakeData) {
   // Define a function that we want to run once for each feature in the features array.
   // Give each feature a popup that describes the place and time of the earthquake.
   function onEachFeature(feature, layer) {
-    layer.bindPopup();//`<h3>${feature.properties.player_name}</h3><hr><p>${feature.properties.war}</p>`
+    layer.bindPopup(`<h3>${feature.properties.player_name}</h3><hr><p>${feature.properties.war}</p>`);
   }
 
   // Create a GeoJSON layer that contains the features array on the earthquakeData object.
