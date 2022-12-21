@@ -14,4 +14,4 @@ Baseball-Reference.com has a built-in tool that allows users to run basic querie
 
 In addition to WAR data, we extracted from Baseball-Reference the city and country of birth for each player in our study, as well as the season in which each player made their MLB debut. 
 
-![ETL-Project (1)](https://github.com/JMNugent1/war-by-country/tree/main/images)
+![ETL-Project (1)](https://github.com/JMNugent1/war-by-country/blob/main/images/ETL%20Project%203.png)
