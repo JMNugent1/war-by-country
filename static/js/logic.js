@@ -8,53 +8,51 @@ d3.json(queryUrl).then(function (data) {
   createFeatures(data);
 });
 
-function createFeatures(earthquakeData) {
+function createFeatures(baseballData) {
 
   // Define a function that we want to run once for each feature in the features array.
-  // Give each feature a popup that describes the place and time of the earthquake.
+  // Give each feature a popup that describes the player and war of the baseball player.
   function onEachFeature(feature, layer) {
     layer.bindPopup(`<h3>${feature.properties.player_name}</h3><hr><p>${feature.properties.war}</p>`);
   }
 
   // Create a GeoJSON layer that contains the features array on the earthquakeData object.
   // Run the onEachFeature function once for each piece of data in the array.
-  var earthquakes = L.geoJSON(earthquakeData, {
+  var birthplace = L.geoJSON(baseballData, {
     onEachFeature: onEachFeature
   });
 
   // Send our earthquakes layer to the createMap function/
-  createMap(earthquakes);
+  createMap(birthplace);
 }
 
-function createMap(earthquakes) {
+function createMap(birthplace) {
 
   // Create the base layers.
   var street = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   })
 
-  var topo = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
-    attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
-  });
 
   // Create a baseMaps object.
   var baseMaps = {
-    "Street Map": street,
-    "Topographic Map": topo
+    "Street Map": street
   };
 
   // Create an overlay object to hold our overlay.
   var overlayMaps = {
-    Earthquakes: earthquakes
+    Birthplace: birthplace,
+    Heatmap: birthplace
   };
 
-  // Create our map, giving it the streetmap and earthquakes layers to display on load.
+
+  // Create our map, giving it the streetmap layers to display on load.
   var myMap = L.map("map", {
     center: [
       37.09, -95.71
     ],
     zoom: 5,
-    layers: [street, earthquakes]
+    layers: [street, birthplace]
   });
 
   // Create a layer control.
@@ -75,7 +73,7 @@ function getColor(d) {
                       '#ffffb2';
 }
 
-function getColorz(d) {
+function getColor(d) {
     return d === '90+' ? '#bd0026' :
            d === '70-90'  ? '#f03b20' :
            d === '50-70'  ? '#fd8d3c' :
