@@ -21,9 +21,13 @@ With our clean data, the CSV file was read in order to load it into a SQLite fil
 #Technology and Methodology
 
 - Python
-- sqlite
-- html (for presntation)
+- SQLite
+- html
+-- javascript
+-- css 
 
 #Work Flow
 
 ![ETL-Project (1)](https://github.com/JMNugent1/war-by-country/blob/main/images/ETL%20Project%203.png)
+
+#Data 
