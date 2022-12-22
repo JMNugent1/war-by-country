@@ -1,4 +1,4 @@
-# World WAR
+# World W.A.R: An Analysis Of Win Above Replacement 
 
 With this project, our group set out to visualize where the best MLB players are from.
 
@@ -22,12 +22,42 @@ With our clean data, the CSV file was read in order to load it into a SQLite fil
 
 - Python
 - SQLite
-- html
--- javascript
--- css 
+- HTML
+- Javascript
+- CSS
 
-## Work Flow
+## Work Flow - Project ETL
 
 ![ETL-Project (1)](https://github.com/JMNugent1/war-by-country/blob/main/images/ETL%20Project%203.png)
 
 ## Data 
+Data Source:
+
+- Statehead Baseball 
+
+The data is composed of:
+- Player Name
+- Age 
+- Birth location
+- Country 
+- Coordinates 
+- Position
+- Win Above Replacement 
+
+
+### ETL 
+
+The data was extracted from Stathead Baseball using python's beautifulsoup library to webscrape for the specific Data values mentioned above. specifically from filtering by player season & career finder for both pitchers and hitters.
+Country and birth city were both available from the webscrape but coordinates were not. Thus, the python geopy library was used to iterate through city and country to return coordinates.
+
+[Webscraping file here](https://github.com/JMNugent1/war-by-country/blob/main/development/main.ipynb)
+
+### Transformation 
+
+The data is then imported into a pandas dataframe where we merged coordinates to the main dataset and manipulated to create. 
+
+### Load
+
+We created a database on out local computer using SQLalchemy. The list is also JSONified 
+
+- A relational SQL database was chosen over a non-relational NoSQL database because of it's ridigity . In other words, our tables are rigid meaning that the data is nomalized in a strictly defined table. SQL was chosen because of its ability to scale vertically and not horizontally, meaning we can update the data over time but keep all the variables (columns) the same. SQlite was our preferred flavore because of its single compact file that was easy to upload to flask. 
