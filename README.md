@@ -61,7 +61,7 @@ The data is then imported into a pandas dataframe where we merged coordinates to
 
 We created a database on our local computer using SQLalchemy to store our final dataframe on an SQLite file. A flask app is used to store the data as geojson format inorder to call it later in javascript. 
 
-![Geojson]https://github.com/JMNugent1/war-by-country/blob/main/images/geojson.png
+! [Geojson] https://github.com/JMNugent1/war-by-country/blob/main/images/geojson.png
 
 - A relational SQL database was chosen over a non-relational NoSQL database because of it's ridigity . In other words, our tables are rigid meaning that the data is nomalized in a strictly defined table. SQL was chosen because of its ability to scale vertically and not horizontally, meaning we can update the data over time but keep all the variables (columns) the same. SQlite was our preferred flavore because of its single compact file that was easy to upload to flask. 
 
