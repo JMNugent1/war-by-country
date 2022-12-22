@@ -20,9 +20,9 @@ With our clean data, the CSV file was read in order to load it into a SQLite fil
 
 #Technology and Methodology
 
--Python
--sqlite
--html (for presntation)
+- Python
+- sqlite
+- html (for presntation)
 
 #Work Flow
 
