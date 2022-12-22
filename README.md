@@ -18,5 +18,12 @@ First, we used BeautifulSoup to web scrape the three letter country codes for th
 
 With our clean data, the CSV file was read in order to load it into a SQLite file. From there, we created an engine to write our data to a SQLite file. Lastly, we created a SQL connection to our SQLite database. 
 
+#Technology and Methodology
+
+-Python
+-sqlite
+-html (for presntation)
+
+#Work Flow
 
 ![ETL-Project (1)](https://github.com/JMNugent1/war-by-country/blob/main/images/ETL%20Project%203.png)
