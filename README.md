@@ -1,6 +1,6 @@
 # World WAR
 
-With this project, our group set out to visualize where the best baseball players in the world come from.
+With this project, our group set out to visualize where the best MLB players are from.
 
 In order to answer this question, we needed some measure of who the best players are. For this, we turned to a metric called Wins Above Replacement-- WAR.
 
