@@ -13,7 +13,12 @@ function createFeatures(baseballData) {
   // Define a function that we want to run once for each feature in the features array.
   // Give each feature a popup that describes the player and war of the baseball player.
   function onEachFeature(feature, layer) {
-    layer.bindPopup(`<h3>${feature.properties.player_name}</h3><hr><p>${feature.properties.war}</p><p>${feature.properties.position}</p>`);
+    layer.bindPopup(`<h3>${feature.properties.player_name}</h3>
+      <hr>
+      <p style="font-weight: bold;">WAR: ${feature.properties.war}</p>
+      <p style="font-weight: bold;">Rank in Country: ${feature.properties.rank_in_country}</p>
+      <p style="font-weight: bold;">Position: ${feature.properties.position}</p>
+      <p style="font-weight: bold;">Birth Place: ${feature.properties.birth_location}</p>`);
   }
 
   // Create a GeoJSON layer that contains the features array on the earthquakeData object.
@@ -40,12 +45,32 @@ function createFeatures(baseballData) {
     filter: function(feature,layer) {
       return feature.properties.position === "Hitter"
     },
+    pointToLayer: function (feature, latlng) {
+      return L.marker(latlng, {
+        icon: L.icon({
+          iconUrl: '/static/assets/bat.png',
+          iconSize: [75, 75],
+          iconAnchor: [20, 20],
+          popupAnchor: [-3, -76]
+        })
+      })
+    },
     onEachFeature: onEachFeature
   });
 
   var pitcher = L.geoJSON(baseballData, {
     filter: function(feature,layer) {
       return feature.properties.position === "Pitcher"
+    },
+    pointToLayer: function (feature, latlng) {
+      return L.marker(latlng, {
+        icon: L.icon({
+          iconUrl: '/static/assets/baseball.png',
+          iconSize: [75, 75],
+          iconAnchor: [20, 20],
+          popupAnchor: [-3, -76]
+        })
+      })
     },
     onEachFeature: onEachFeature
   });

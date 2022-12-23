@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Leaflet Step-1</title>
+  <title>WAR Map</title>
 
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -17,9 +17,37 @@
 </head>
 
 <body>
-
-  <!-- The div that holds our map -->
-  <div id="map"></div>
+  <div class="container">
+    <div id="header" class="row">
+      <div class="col-md-8 jumbotron text-center">
+        <h1 id="title">Wins Above Replacement Map</h1>
+      </div>
+    </div>
+    <div class="row">
+        <!-- The div that holds our map -->
+        <div id="map"></div>
+    </div>
+    <div id="analysis" class="row">
+      <h1>Analysis</h1>
+      <p>We can see that our Birthplace view indicates that the United States contains a higher distribution of players with recorded WAR stats. 
+        This may indicate that the sport is more popular within the United States, however this is to be expected since the dataset is pulled from the MLB which is an American organization. <br>
+        <hr>
+        Our Heatmap view presents WAR data by indicating higher war scores with larger circles and darker shades of red. We can see that the United 
+        States contains multiple high WAR values from players born in the United States, however France has a player with a WAR score of 156.1. <br>
+        <hr>
+        From our next two views, we filter the data based on position: hitters and pitchers. An interesting, yet minor detail that we can garner from this is that the
+        state of Colorado does not yield any data for hitters, yet two pitchers in the dataset were born in Colorado.</p>
+        <hr>
+        <h1>API Endpoints</h1>
+        <ol>
+          <li><a href="/api/v1.0/baseball" target="_blank">/api/v1.0/baseball</a></li>
+          <li><a href="/api/v1.0/geojson" target="_blank">/api/v1.0/geojson</a></li>
+          <li><a href="/api/v1.0/country/USA" target="_blank">/api/v1.0/country/{country_code}</a></li>
+          <li><a href="/api/v1.0/position/hitter" target="_blank">/api/v1.0/position/{position}</a></li>
+          <li><a href="/api/v1.0/topten/CAN" target="_blank">/api/v1.0/topten/{country_code}</a></li>
+        </ol>
+    </div>
+  </div>
 
   <!-- Leaflet JS -->
   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
