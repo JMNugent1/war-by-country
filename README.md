@@ -89,6 +89,7 @@ The final website is a leaflet street map with the ability to filter by all play
 ### Project Limitations
 
 - Coordinates need to be reiterated with the addition of a player name to insure quality control of the data when merging. Orginally, coordinates were iterated seperatly and then added to the main database. 
-GeoJSON on a AWS server for use with D3 library. 
+
+- Final presentation was not able to be hosted on github pages as a result of its incomptibality with flask. GeoJSON on a AWS server for use with D3 library. 
 
 - Further analysis is required to determine where the best players come from and not just an analysis of the MLB as the majority of its players are from the United States. This could be solved with the addition of leagues in other countries for less bias data.
