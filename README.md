@@ -59,29 +59,29 @@ The data is then imported into a pandas dataframe where we merged coordinates to
 
 ### Load
 
-We created a database on our local computer using SQLalchemy to store our final dataframe on an SQLite file. A flask app is used to store the data as geojson format inorder to call it later in javascript. 
+We created a database on our local computer using SQLalchemy to store our final dataframe on an SQLite file. A flask app is used to store the data in geojson format inorder to call it later in javascript. 
 
 ![geojson](https://github.com/JMNugent1/war-by-country/blob/main/images/geojson.png)
 
-- A relational SQL database was chosen over a non-relational NoSQL database because of it's ridigity . In other words, our tables are rigid meaning that the data is nomalized in a strictly defined table. SQL was chosen because of its ability to scale vertically and not horizontally, meaning we can update the data over time but keep all the variables (columns) the same. SQlite was our preferred flavore because of its single compact file that was easy to load to flask. 
+- A relational SQL database was chosen over a non-relational NoSQL database because of it's ridigity and its ability to scale vertically and not horizontally, meaning we can update the data over time but keep all the variables (columns) the same. SQlite was our preferred flavore because of its single compact file that was easy to load into flask. 
 
 [SQLite loader here](https://github.com/JMNugent1/war-by-country/blob/main/sqlite_loader.ipynb)
 [geojason]
 
 ### Final Presentation 
 
-The final data was imported into javascript to create our front end web page. Using the flask app we were able to host our api locally for testing. ultimatly, due to github pages lack of flask support, we were not able to host our final presentation on github pages. Though we are looking at potential workarounds such as hosting the api on AWS. 
+The final data was imported into javascript to create our front-end web page. Using the flask app we were able to host our api locally for testing. ultimatly, due to github pages lack of flask support, we were not able to host our final presentation on github pages. Though we are looking at potential workarounds such as hosting the api on AWS. 
 
-The Final website is a leaflet street map with ability to filter by All players, hitters, pitchers, and a heat map. 
+The Final website is a leaflet street map with ability to filter by All players, hitters, pitchers, and a heat map. Each point on the map will display player name, war value, and position.
 
-##### Frontend filtered by All Players
+##### Front-end filtered by All Players
 ![All Players](https://github.com/JMNugent1/war-by-country/blob/main/images/all_players.png)
 
-##### Frontend filtered by Hitters
+##### Front-end filtered by Hitters
 ![Hitters](https://github.com/JMNugent1/war-by-country/blob/main/images/hitters.png)
 
-##### Frontend filtered by Pitchers
+##### Front-end filtered by Pitchers
 ![Pitchers](https://github.com/JMNugent1/war-by-country/blob/main/images/pitcher.png)
 
-##### Frontend filtered by Heatmap
+##### Front-end filtered by Heatmap
 ![Heat Map](https://github.com/JMNugent1/war-by-country/blob/main/images/heat%20map.png)
