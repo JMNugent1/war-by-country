@@ -56,7 +56,7 @@ The data was then imported into a Pandas dataframe where we merged coordinates t
 
 ### Load
 
-We created a database on our local computer using SQLalchemy to store our final dataframe on an SQLite file. A flask app was used to store the data in geojson format in order to use it in javascript later for front-end development. 
+We created a database on our local computer using SQLalchemy to store our final dataframe on an SQLite file. A flask app was used to store the data in geojson format in order to use it in JavaScript later for front-end development. 
 
 ![geojson](https://github.com/JMNugent1/war-by-country/blob/main/images/geojson.png)
 
