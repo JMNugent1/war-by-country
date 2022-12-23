@@ -52,7 +52,7 @@ Links to webscraping and coordinate code:
 
 ### Transformation 
 
-The data is then imported into a pandas dataframe where we merged coordinates to the main dataset. Here, the data was also cleaned to remove players whose birth country coordinates could not be obtained from geopy. All of the data we collected and cleaned were exported to CSV files for ease of use in later coding and as an emergency back-up. 
+The data was then imported into a pandas dataframe where we merged coordinates to the main dataset. Here, the data was also cleaned to remove players whose birth country coordinates could not be obtained from geopy. All of the data we collected and cleaned was exported to CSV files for ease of use in later coding and as an emergency back-up. 
 
 ### Load
 
@@ -67,9 +67,9 @@ We created a database on our local computer using SQLalchemy to store our final 
 
 ### Final Presentation 
 
-The final data was imported into javascript to create our front-end web page. Using the flask app we were able to host our API locally for testing. ultimatly, due to github pages lack of flask support, we were not able to host our final presentation on github pages. Though we are looking at potential workarounds such as hosting the API on AWS. 
+The final data was imported into javascript to create our front-end web page. Using the flask app, we were able to host our API locally for testing. Ultimatly, due to github pages lack of flask support, we were not able to host our final presentation on github pages, though we are looking at potential workarounds such as hosting the API on AWS. 
 
-The Final website is a leaflet street map with ability to filter by All players, hitters, pitchers, and a heat map. Each point on the map will display player name, war value, and position.
+The final website is a leaflet street map with the ability to filter by all players, hitters, pitchers, and a heat map. Each point on the map will display player name, war value, and position.
 
 ##### Front-end Popup
 ![Popup](https://github.com/JMNugent1/war-by-country/blob/main/images/popup.png)
