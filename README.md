@@ -63,9 +63,21 @@ We created a database on our local computer using SQLalchemy to store our final 
 
 ![geojson](https://github.com/JMNugent1/war-by-country/blob/main/images/geojson.png)
 
-- A relational SQL database was chosen over a non-relational NoSQL database because of it's ridigity . In other words, our tables are rigid meaning that the data is nomalized in a strictly defined table. SQL was chosen because of its ability to scale vertically and not horizontally, meaning we can update the data over time but keep all the variables (columns) the same. SQlite was our preferred flavore because of its single compact file that was easy to upload to flask. 
+- A relational SQL database was chosen over a non-relational NoSQL database because of it's ridigity . In other words, our tables are rigid meaning that the data is nomalized in a strictly defined table. SQL was chosen because of its ability to scale vertically and not horizontally, meaning we can update the data over time but keep all the variables (columns) the same. SQlite was our preferred flavore because of its single compact file that was easy to load to flask. 
 
 [SQLite loader here](https://github.com/JMNugent1/war-by-country/blob/main/sqlite_loader.ipynb)
+[geojason]
 
 ### Final Presentation 
 
+The final data was imported into javascript to create our front end web page. Using the flask app we were able to host our api locally for testing. ultimatly, due to github pages lack of flask support, we were not able to host our final presentation on github pages. Though we are looking at potential workarounds such as hosting the api on AWS. 
+
+The Final website is a leaflet street map with ability to filter by All players, hitters, pitchers, and a heat map. 
+
+![All Players](https://github.com/JMNugent1/war-by-country/blob/main/images/all_players.png)
+
+![Hitters](https://github.com/JMNugent1/war-by-country/blob/main/images/hitters.png)
+
+![Pitchers](https://github.com/JMNugent1/war-by-country/blob/main/images/pitcher.png)
+
+![Heat Map](https://github.com/JMNugent1/war-by-country/blob/main/images/heat%20map.png)
