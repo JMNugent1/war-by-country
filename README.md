@@ -19,7 +19,7 @@ In addition to WAR data, we extracted from Stathead Baseball the city and countr
 - Python
 - SQLite
 - HTML
-- Javascript
+- JavaScript
 - CSS
 
 ## Work Flow - Project ETL
