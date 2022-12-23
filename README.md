@@ -74,10 +74,14 @@ The final data was imported into javascript to create our front end web page. Us
 
 The Final website is a leaflet street map with ability to filter by All players, hitters, pitchers, and a heat map. 
 
+##### Frontend filtered by All Players
 ![All Players](https://github.com/JMNugent1/war-by-country/blob/main/images/all_players.png)
 
+##### Frontend filtered by Hitters
 ![Hitters](https://github.com/JMNugent1/war-by-country/blob/main/images/hitters.png)
 
+##### Frontend filtered by Pitchers
 ![Pitchers](https://github.com/JMNugent1/war-by-country/blob/main/images/pitcher.png)
 
+##### Frontend filtered by Heatmap
 ![Heat Map](https://github.com/JMNugent1/war-by-country/blob/main/images/heat%20map.png)
