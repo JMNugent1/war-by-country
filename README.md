@@ -41,7 +41,7 @@ The data is composed of:
 - Win Above Replacement 
 
 
-### ETL 
+### Extraction 
 
 The data was extracted from Stathead Baseball using python's BeautifulSoup library to webscrape for the specific data values mentioned above, specifically from filtering by player season & career finder for both pitchers and hitters, creating a dictionary for both. Country and birth city were both available from the webscrape but coordinates were not. Thus, the python geopy library was used to iterate through city and country to return coordinates. 
 
