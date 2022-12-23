@@ -86,7 +86,7 @@ The final website is a leaflet street map with the ability to filter by all play
 ##### Front-end filtered by Heatmap
 ![Heat Map](https://github.com/JMNugent1/war-by-country/blob/main/images/heat%20map.png)
 
-### Project limitations
+### Project Limitations
 
 - Coordinates need to be reiterated with the addition of a player name to insure quality control of the data when merging. Orginally, coordinates were iterated seperatly and then added to the main database. 
 
