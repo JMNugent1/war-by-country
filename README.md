@@ -43,7 +43,7 @@ The data is composed of:
 
 ### ETL 
 
-The data was extracted from Stathead Baseball using python's BeautifulSoup library to webscrape for the specific data values mentioned above, specifically from filtering by player season & career finder for both pitchers and hitters, creating a dictionary for both. Country and birth city were both available from the webscrape but coordinates were not. Thus, the python geopy library was used to iterate through city and country to return coordinates. 
+The data was extracted from Stathead Baseball using Python's BeautifulSoup library to webscrape for the specific data values mentioned above, specifically from filtering by player season & career finder for both pitchers and hitters, creating a dictionary for both. Country and birth city were both available from the webscrape but coordinates were not. Thus, the Python GeoPy library was used to iterate through city and country to return coordinates. 
 
 Links to webscraping and coordinate code:
 
@@ -52,22 +52,22 @@ Links to webscraping and coordinate code:
 
 ### Transformation 
 
-The data was then imported into a Pandas dataframe where we merged coordinates to the main dataset. Here, the data was also cleaned to remove players whose birth country coordinates could not be obtained from geopy. All of the data we collected and cleaned was exported to CSV files for ease of use in later coding and as an emergency back-up. 
+The data was then imported into a Pandas dataframe where we merged coordinates to the main dataset. Here, the data was also cleaned to remove players whose birth country coordinates could not be obtained from GeoPy. All of the data we collected and cleaned was exported to CSV files for ease of use in later coding and as an emergency back-up. 
 
 ### Load
 
-We created a database on our local computer using SQLalchemy to store our final dataframe on an SQLite file. A flask app was used to store the data in geojson format in order to use it in JavaScript later for front-end development. 
+We created a database on our local computer using SQLalchemy to store our final dataframe on an SQLite file. A Flask app was used to store the data in GeoJSON format in order to use it in JavaScript later for front-end development. 
 
 ![geojson](https://github.com/JMNugent1/war-by-country/blob/main/images/geojson.png)
 
-- A relational SQL database was chosen over a non-relational NoSQL database because of its ridigity and its ability to scale vertically and not horizontally, meaning we can update the data over time, but keep all the variables (columns) the same in case we decided to incorporate other leagues in the future. SQlite was our preferred flavor of SQL because of its single compact file that was easy to load into flask. 
+- A relational SQL database was chosen over a non-relational NoSQL database because of its ridigity and its ability to scale vertically and not horizontally, meaning we can update the data over time, but keep all the variables (columns) the same in case we decided to incorporate other leagues in the future. SQlite was our preferred flavor of SQL because of its single compact file that was easy to load into Flask. 
 
 [SQLite loader here](https://github.com/JMNugent1/war-by-country/blob/main/sqlite_loader.ipynb)
-[geojason]
+[GeoJSON]
 
 ### Final Presentation 
 
-The final data was imported into JavaScript to create our front-end web page. Using the flask app, we were able to host our API locally for testing. Ultimatly, due to GitHub pages lack of flask support, we were not able to host our final presentation on GitHub pages, though we are looking at potential workarounds such as hosting the API on AWS. 
+The final data was imported into JavaScript to create our front-end web page. Using the Flask app, we were able to host our API locally for testing. Ultimatly, due to GitHub pages lack of Flask support, we were not able to host our final presentation on GitHub pages, though we are looking at potential workarounds such as hosting the API on AWS. 
 
 The final website is a leaflet street map with the ability to filter by all players, hitters, pitchers, and a heat map. Each point on the map will display player name, war value, and position.
 
@@ -86,10 +86,9 @@ The final website is a leaflet street map with the ability to filter by all play
 ##### Front-end filtered by Heatmap
 ![Heat Map](https://github.com/JMNugent1/war-by-country/blob/main/images/heat%20map.png)
 
-### Project limitations
+### Project Limitations
 
 - Coordinates need to be reiterated with the addition of a player name to insure quality control of the data when merging. Orginally, coordinates were iterated seperatly and then added to the main database. 
-
-- Githubs incompatibility with flask apps. Potential solutions include storing geojason on a AWS server for use with D3 library. 
+GeoJSON on a AWS server for use with D3 library. 
 
 - Further analysis is required to determine where the best players come from and not just an analysis of the MLB as the majority of its players are from the United States. This could be solved with the addition of leagues in other countries for less bias data.
